@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_fishing_derby">FISHING DERBY</string>
+    <string-array name="manual_fishing_derby">
+        <item>m_fishingderby_01</item>
+        <item>m_fishingderby_02</item>
+        <item>m_fishingderby_03</item>
+        <item>m_fishingderby_04</item>
+    </string-array>
+
+</resources>

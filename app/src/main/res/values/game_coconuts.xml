@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_coconuts">COCONUTS</string>
+    <string-array name="manual_coconuts">
+        <item>m_coconuts_01</item>
+        <item>m_coconuts_02</item>
+        <item>m_coconuts_03</item>
+        <item>m_coconuts_04</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_river_patrol">RIVER PATROL</string>
+    <string-array name="manual_river_patrol">
+        <item>m_riverpatrol_01</item>
+        <item>m_riverpatrol_02</item>
+        <item>m_riverpatrol_03</item>
+        <item>m_riverpatrol_04</item>
+    </string-array>
+</resources>

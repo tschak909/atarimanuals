@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_miniature_golf">MINIATURE GOLF</string>
+    <string-array name="manual_miniature_golf">
+        <item>m_miniaturegolf_01</item>
+        <item>m_miniaturegolf_02</item>
+        <item>m_miniaturegolf_03</item>
+        <item>m_miniaturegolf_04</item>
+        <item>m_miniaturegolf_05</item>
+        <item>m_miniaturegolf_06</item>
+    </string-array>
+</resources>

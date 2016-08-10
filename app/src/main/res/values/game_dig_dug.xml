@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_dig_dug">DIG DUG</string>
+    <string-array name="manual_dig_dug">
+        <item>m_digdug_01</item>
+        <item>m_digdug_02</item>
+        <item>m_digdug_03</item>
+        <item>m_digdug_04</item>
+        <item>m_digdug_05</item>
+        <item>m_digdug_06</item>
+    </string-array>
+</resources>

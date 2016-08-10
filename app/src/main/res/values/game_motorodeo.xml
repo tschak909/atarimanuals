@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_motorodeo">MOTORODEO</string>
+    <string-array name="manual_motorodeo">
+        <item>m_motorodeo_01</item>
+        <item>m_motorodeo_02</item>
+        <item>m_motorodeo_03</item>
+        <item>m_motorodeo_04</item>
+        <item>m_motorodeo_05</item>
+        <item>m_motorodeo_06</item>
+    </string-array>
+</resources>

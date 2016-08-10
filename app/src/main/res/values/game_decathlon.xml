@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_decathlon">DECATHLON</string>
+    <string-array name="manual_decathlon">
+        <item>m_decathlon_01</item>
+        <item>m_decathlon_02</item>
+        <item>m_decathlon_03</item>
+        <item>m_decathlon_04</item>
+        <item>m_decathlon_05</item>
+        <item>m_decathlon_06</item>
+        <item>m_decathlon_07</item>
+        <item>m_decathlon_08</item>
+    </string-array>
+</resources>

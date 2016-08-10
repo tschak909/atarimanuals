@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_sky_skipper">SKY SKIPPER</string>
+    <string-array name="manual_sky_skipper">
+        <item>m_skyskipper_01</item>
+        <item>m_skyskipper_02</item>
+        <item>m_skyskipper_03</item>
+        <item>m_skyskipper_04</item>
+        <item>m_skyskipper_05</item>
+        <item>m_skyskipper_06</item>
+        <item>m_skyskipper_07</item>
+        <item>m_skyskipper_08</item>
+        <item>m_skyskipper_09</item>
+        <item>m_skyskipper_10</item>
+        <item>m_skyskipper_11</item>
+        <item>m_skyskipper_12</item>
+        <item>m_skyskipper_13</item>
+        <item>m_skyskipper_14</item>
+        <item>m_skyskipper_15</item>
+    </string-array>
+</resources>

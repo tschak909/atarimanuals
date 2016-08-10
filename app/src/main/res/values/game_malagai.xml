@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_malagai">MALAGAI</string>
+    <string-array name="manual_malagai">
+        <item>m_malagai_01</item>
+        <item>m_malagai_02</item>
+        <item>m_malagai_03</item>
+        <item>m_malagai_04</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_popeye">POPEYE</string>
+    <string-array name="manual_popeye">
+        <item>m_popeye_01</item>
+        <item>m_popeye_02</item>
+        <item>m_popeye_03</item>
+        <item>m_popeye_04</item>
+        <item>m_popeye_05</item>
+        <item>m_popeye_06</item>
+        <item>m_popeye_07</item>
+        <item>m_popeye_08</item>
+        <item>m_popeye_09</item>
+        <item>m_popeye_10</item>
+        <item>m_popeye_11</item>
+        <item>m_popeye_12</item>
+        <item>m_popeye_13</item>
+        <item>m_popeye_14</item>
+        <item>m_popeye_15</item>
+        <item>m_popeye_16</item>
+    </string-array>
+</resources>

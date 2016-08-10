@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_super_baseball">SUPER BASEBALL</string>
+    <string-array name="manual_super_baseball">
+        <item>m_superbaseball_01</item>
+        <item>m_superbaseball_02</item>
+        <item>m_superbaseball_03</item>
+        <item>m_superbaseball_04</item>
+    </string-array>
+</resources>

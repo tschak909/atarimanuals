@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_cosmic_creeps">COSMIC CREEPS</string>
+    <string-array name="manual_cosmic_creeps">
+        <item>m_cosmiccreeps_01</item>
+        <item>m_cosmiccreeps_02</item>
+        <item>m_cosmiccreeps_03</item>
+        <item>m_cosmiccreeps_04</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_earth_dies_screaming">EARTH DIES SCREAMING</string>
+    <string-array name="manual_earth_dies_screaming">
+        <item>m_earthdiesscreaming_01</item>
+        <item>m_earthdiesscreaming_02</item>
+        <item>m_earthdiesscreaming_03</item>
+        <item>m_earthdiesscreaming_04</item>
+        <item>m_earthdiesscreaming_05</item>
+        <item>m_earthdiesscreaming_06</item>
+    </string-array>
+</resources>

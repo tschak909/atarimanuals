@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_double_dunk">DOUBLE DUNK</string>
+    <string-array name="manual_double_dunk">
+        <item>m_doubledunk_01</item>
+        <item>m_doubledunk_02</item>
+        <item>m_doubledunk_03</item>
+        <item>m_doubledunk_04</item>
+        <item>m_doubledunk_05</item>
+        <item>m_doubledunk_06</item>
+        <item>m_doubledunk_07</item>
+    </string-array>
+</resources>

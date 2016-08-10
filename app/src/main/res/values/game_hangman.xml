@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_hangman">HANGMAN</string>
+    <string-array name="manual_hangman">
+        <item>m_hangman_01</item>
+        <item>m_hangman_02</item>
+        <item>m_hangman_03</item>
+        <item>m_hangman_04</item>
+        <item>m_hangman_05</item>
+        <item>m_hangman_06</item>
+    </string-array>
+</resources>

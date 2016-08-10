@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_sssnake">SSSNAKE</string>
+    <string-array name="manual_sssnake">
+        <item>m_sssnake_01</item>
+        <item>m_sssnake_02</item>
+        <item>m_sssnake_03</item>
+        <item>m_sssnake_04</item>
+        <item>m_sssnake_05</item>
+        <item>m_sssnake_06</item>
+    </string-array>
+</resources>

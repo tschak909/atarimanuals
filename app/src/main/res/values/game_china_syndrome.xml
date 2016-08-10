@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_china_syndrome">CHINA SYNDROME</string>
+    <string-array name="manual_china_syndrome">
+        <item>m_chinasyndrome_01</item>
+        <item>m_chinasyndrome_02</item>
+        <item>m_chinasyndrome_03</item>
+        <item>m_chinasyndrome_04</item>
+        <item>m_chinasyndrome_05</item>
+        <item>m_chinasyndrome_06</item>
+        <item>m_chinasyndrome_07</item>
+        <item>m_chinasyndrome_08</item>
+        <item>m_chinasyndrome_09</item>
+        <item>m_chinasyndrome_10</item>
+        <item>m_chinasyndrome_11</item>
+        <item>m_chinasyndrome_12</item>
+    </string-array>
+</resources>

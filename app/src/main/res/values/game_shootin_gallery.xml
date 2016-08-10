@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_shootin_gallery">SHOOTIN GALLERY</string>
+    <string-array name="manual_shootin_gallery">
+        <item>m_shootingallery_01</item>
+        <item>m_shootingallery_02</item>
+        <item>m_shootingallery_03</item>
+        <item>m_shootingallery_04</item>
+        <item>m_shootingallery_05</item>
+        <item>m_shootingallery_06</item>
+        <item>m_shootingallery_07</item>
+        <item>m_shootingallery_08</item>
+    </string-array>
+</resources>

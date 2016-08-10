@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_enduro">ENDURO</string>
+    <string-array name="manual_enduro">
+        <item>m_enduro_01</item>
+        <item>m_enduro_02</item>
+        <item>m_enduro_03</item>
+        <item>m_enduro_04</item>
+        <item>m_enduro_05</item>
+        <item>m_enduro_06</item>
+        <item>m_enduro_07</item>
+        <item>m_enduro_08</item>
+    </string-array>
+</resources>

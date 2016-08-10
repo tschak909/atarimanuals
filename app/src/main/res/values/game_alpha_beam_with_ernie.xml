@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_alpha_beam_with_ernie">ALPHA BEAM: WITH ERNIE</string>
+    <string-array name="manual_alpha_beam_with_ernie">
+        <item>m_alphabeamwithernie_01</item>
+        <item>m_alphabeamwithernie_02</item>
+        <item>m_alphabeamwithernie_03</item>
+        <item>m_alphabeamwithernie_04</item>
+        <item>m_alphabeamwithernie_05</item>
+        <item>m_alphabeamwithernie_06</item>
+        <item>m_alphabeamwithernie_07</item>
+        <item>m_alphabeamwithernie_08</item>
+        <item>m_alphabeamwithernie_09</item>
+        <item>m_alphabeamwithernie_10</item>
+        <item>m_alphabeamwithernie_11</item>
+        <item>m_alphabeamwithernie_12</item>
+        <item>m_alphabeamwithernie_13</item>
+        <item>m_alphabeamwithernie_14</item>
+        <item>m_alphabeamwithernie_15</item>
+        <item>m_alphabeamwithernie_16</item>
+        <item>m_alphabeamwithernie_17</item>
+        <item>m_alphabeamwithernie_18</item>
+        <item>m_alphabeamwithernie_19</item>
+        <item>m_alphabeamwithernie_20</item>
+        <item>m_alphabeamwithernie_21</item>
+        <item>m_alphabeamwithernie_22</item>
+        <item>m_alphabeamwithernie_23</item>
+        <item>m_alphabeamwithernie_24</item>
+    </string-array>
+</resources>

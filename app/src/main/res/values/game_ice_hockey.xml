@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_ice_hockey">ICE HOCKEY</string>
+    <string-array name="manual_ice_hockey">
+        <item>m_icehockey_01</item>
+        <item>m_icehockey_02</item>
+        <item>m_icehockey_03</item>
+        <item>m_icehockey_04</item>
+        <item>m_icehockey_05</item>
+        <item>m_icehockey_06</item>
+    </string-array>
+
+</resources>

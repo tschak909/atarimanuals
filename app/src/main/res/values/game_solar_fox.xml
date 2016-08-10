@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_solar_fox">SOLAR FOX</string>
+    <string-array name="manual_solar_fox">
+        <item>m_solarfox_01</item>
+        <item>m_solarfox_02</item>
+        <item>m_solarfox_03</item>
+        <item>m_solarfox_04</item>
+        <item>m_solarfox_05</item>
+        <item>m_solarfox_06</item>
+        <item>m_solarfox_07</item>
+        <item>m_solarfox_08</item>
+        <item>m_solarfox_09</item>
+        <item>m_solarfox_10</item>
+        <item>m_solarfox_11</item>
+        <item>m_solarfox_12</item>
+        <item>m_solarfox_13</item>
+        <item>m_solarfox_14</item>
+    </string-array>
+</resources>

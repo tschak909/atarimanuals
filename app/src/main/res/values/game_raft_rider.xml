@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_raft_rider">RAFT RIDER</string>
+    <string-array name="manual_raft_rider">
+        <item>m_raftrider_01</item>
+        <item>m_raftrider_02</item>
+        <item>m_raftrider_03</item>
+        <item>m_raftrider_04</item>
+    </string-array>
+</resources>

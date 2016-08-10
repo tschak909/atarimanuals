@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_star_wars_arcade_game">STAR WARS: THE ARCADE GAME</string>
+    <string-array name="manual_star_wars_arcade_game">
+        <item>m_starwarsarcade_01</item>
+        <item>m_starwarsarcade_02</item>
+        <item>m_starwarsarcade_03</item>
+        <item>m_starwarsarcade_04</item>
+        <item>m_starwarsarcade_05</item>
+        <item>m_starwarsarcade_06</item>
+        <item>m_starwarsarcade_07</item>
+        <item>m_starwarsarcade_08</item>
+        <item>m_starwarsarcade_09</item>
+        <item>m_starwarsarcade_10</item>
+        <item>m_starwarsarcade_11</item>
+        <item>m_starwarsarcade_12</item>
+        <item>m_starwarsarcade_13</item>
+        <item>m_starwarsarcade_14</item>
+        <item>m_starwarsarcade_15</item>
+    </string-array>
+</resources>

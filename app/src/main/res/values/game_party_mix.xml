@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_party_mix">PARTY MIX</string>
+    <string-array name="manual_party_mix">
+        <item>m_partymix_01</item>
+        <item>m_partymix_02</item>
+        <item>m_partymix_03</item>
+        <item>m_partymix_04</item>
+        <item>m_partymix_05</item>
+        <item>m_partymix_06</item>
+        <item>m_partymix_07</item>
+        <item>m_partymix_08</item>
+        <item>m_partymix_09</item>
+        <item>m_partymix_10</item>
+        <item>m_partymix_11</item>
+        <item>m_partymix_12</item>
+    </string-array>
+</resources>

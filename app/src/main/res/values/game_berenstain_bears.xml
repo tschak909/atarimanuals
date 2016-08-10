@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_berenstain_bears">BERENSTAIN BEARS</string>
+    <string-array name="manual_berenstain_bears">
+        <item>m_berenstainbears_01</item>
+        <item>m_berenstainbears_02</item>
+        <item>m_berenstainbears_03</item>
+        <item>m_berenstainbears_04</item>
+        <item>m_berenstainbears_05</item>
+        <item>m_berenstainbears_06</item>
+        <item>m_berenstainbears_07</item>
+        <item>m_berenstainbears_08</item>
+        <item>m_berenstainbears_09</item>
+        <item>m_berenstainbears_10</item>
+        <item>m_berenstainbears_11</item>
+        <item>m_berenstainbears_12</item>
+        <item>m_berenstainbears_13</item>
+        <item>m_berenstainbears_14</item>
+        <item>m_berenstainbears_15</item>
+        <item>m_berenstainbears_16</item>
+    </string-array>
+</resources>

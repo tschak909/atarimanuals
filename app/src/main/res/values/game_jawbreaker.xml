@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_jawbreaker">JAWBREAKER</string>
+    <string-array name="manual_jawbreaker">
+        <item>m_jawbreaker_01</item>
+        <item>m_jawbreaker_02</item>
+        <item>m_jawbreaker_03</item>
+        <item>m_jawbreaker_04</item>
+    </string-array>
+
+</resources>

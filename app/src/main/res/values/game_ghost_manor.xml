@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_ghost_manor">GHOST MANOR</string>
+    <string-array name="manual_ghost_manor">
+        <item>m_ghostmanor_01</item>
+        <item>m_ghostmanor_02</item>
+        <item>m_ghostmanor_03</item>
+        <item>m_ghostmanor_04</item>
+        <item>m_ghostmanor_05</item>
+        <item>m_ghostmanor_06</item>
+        <item>m_ghostmanor_07</item>
+        <item>m_ghostmanor_08</item>
+        <item>m_ghostmanor_09</item>
+        <item>m_ghostmanor_10</item>
+        <item>m_ghostmanor_11</item>
+    </string-array>
+
+</resources>

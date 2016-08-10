@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_superman">SUPERMAN</string>
+    <string-array name="manual_superman">
+        <item>m_superman_01</item>
+        <item>m_superman_02</item>
+        <item>m_superman_03</item>
+        <item>m_superman_04</item>
+        <item>m_superman_05</item>
+        <item>m_superman_06</item>
+        <item>m_superman_07</item>
+        <item>m_superman_08</item>
+    </string-array>
+</resources>

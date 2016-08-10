@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_mouse_trap">MOUSE TRAP</string>
+    <string-array name="manual_mouse_trap">
+        <item>m_mousetrap_01</item>
+        <item>m_mousetrap_02</item>
+        <item>m_mousetrap_03</item>
+        <item>m_mousetrap_04</item>
+        <item>m_mousetrap_05</item>
+        <item>m_mousetrap_06</item>
+        <item>m_mousetrap_07</item>
+        <item>m_mousetrap_08</item>
+    </string-array>
+</resources>

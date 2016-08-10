@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_frogger">FROGGER</string>
+    <string-array name="manual_frogger">
+        <item>m_frogger_01</item>
+        <item>m_frogger_02</item>
+        <item>m_frogger_03</item>
+        <item>m_frogger_04</item>
+        <item>m_frogger_05</item>
+        <item>m_frogger_06</item>
+        <item>m_frogger_07</item>
+        <item>m_frogger_08</item>
+    </string-array>
+
+</resources>

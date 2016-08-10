@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_survival_island">SURVIVAL ISLAND</string>
+    <string-array name="manual_survival_island">
+        <item>m_survivalisland_01</item>
+        <item>m_survivalisland_02</item>
+        <item>m_survivalisland_03</item>
+        <item>m_survivalisland_04</item>
+        <item>m_survivalisland_05</item>
+        <item>m_survivalisland_06</item>
+        <item>m_survivalisland_07</item>
+        <item>m_survivalisland_08</item>
+        <item>m_survivalisland_09</item>
+        <item>m_survivalisland_10</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_masters_of_the_universe">MASTERS OF THE UNIVERSE: THE POWER OF HE-MAN</string>
+    <string-array name="manual_masters_of_the_universe">
+        <item>m_mastersoftheuniverse_01</item>
+        <item>m_mastersoftheuniverse_02</item>
+        <item>m_mastersoftheuniverse_03</item>
+        <item>m_mastersoftheuniverse_04</item>
+        <item>m_mastersoftheuniverse_05</item>
+        <item>m_mastersoftheuniverse_06</item>
+        <item>m_mastersoftheuniverse_07</item>
+        <item>m_mastersoftheuniverse_08</item>
+        <item>m_mastersoftheuniverse_09</item>
+        <item>m_mastersoftheuniverse_10</item>
+        <item>m_mastersoftheuniverse_11</item>
+        <item>m_mastersoftheuniverse_12</item>
+    </string-array>
+</resources>

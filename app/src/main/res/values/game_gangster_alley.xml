@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_ganster_alley">ganster ALLEY</string>
+    <string-array name="manual_ganster_alley">
+        <item>m_gansteralley_01</item>
+        <item>m_gansteralley_02</item>
+        <item>m_gansteralley_03</item>
+        <item>m_gansteralley_04</item>
+        <item>m_gansteralley_05</item>
+        <item>m_gansteralley_06</item>
+        <item>m_gansteralley_07</item>
+        <item>m_gansteralley_08</item>
+        <item>m_gansteralley_09</item>
+        <item>m_gansteralley_10</item>
+        <item>m_gansteralley_11</item>
+        <item>m_gansteralley_12</item>
+    </string-array>
+r
+</resources>

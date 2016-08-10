@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_gravitar">GRAVITAR</string>
+    <string-array name="manual_gravitar">
+        <item>m_gravitar_01</item>
+        <item>m_gravitar_02</item>
+        <item>m_gravitar_03</item>
+        <item>m_gravitar_04</item>
+        <item>m_gravitar_05</item>
+        <item>m_gravitar_06</item>
+        <item>m_gravitar_07</item>
+        <item>m_gravitar_08</item>
+        <item>m_gravitar_09</item>
+        <item>m_gravitar_10</item>
+        <item>m_gravitar_11</item>
+        <item>m_gravitar_12</item>
+    </string-array>
+
+</resources>

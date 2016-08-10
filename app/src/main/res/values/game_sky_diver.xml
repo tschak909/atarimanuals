@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_sky_diver">SKY DIVER</string>
+    <string-array name="manual_sky_diver">
+        <item>m_skydiver_01</item>
+        <item>m_skydiver_02</item>
+        <item>m_skydiver_03</item>
+        <item>m_skydiver_04</item>
+        <item>m_skydiver_05</item>
+        <item>m_skydiver_06</item>
+    </string-array>
+</resources>

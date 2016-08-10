@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_realsports_tennis">REALSPORTS TENNIS</string>
+    <string-array name="manual_realsports_tennis">
+        <item>m_rstennis_01</item>
+        <item>m_rstennis_02</item>
+        <item>m_rstennis_03</item>
+        <item>m_rstennis_04</item>
+        <item>m_rstennis_05</item>
+        <item>m_rstennis_06</item>
+        <item>m_rstennis_07</item>
+        <item>m_rstennis_08</item>
+        <item>m_rstennis_09</item>
+        <item>m_rstennis_10</item>
+        <item>m_rstennis_11</item>
+        <item>m_rstennis_12</item>
+    </string-array>
+</resources>

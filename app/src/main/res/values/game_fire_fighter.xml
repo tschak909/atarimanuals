@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_fire_fighter">FIRE FIGHTER</string>
+    <string-array name="manual_fire_fighter">
+        <item>m_firefighter_01</item>
+        <item>m_firefighter_02</item>
+        <item>m_firefighter_03</item>
+        <item>m_firefighter_04</item>
+        <item>m_firefighter_05</item>
+        <item>m_firefighter_06</item>
+        <item>m_firefighter_07</item>
+        <item>m_firefighter_08</item>
+    </string-array>
+
+</resources>

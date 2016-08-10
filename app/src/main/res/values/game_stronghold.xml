@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_stronghold">STRONGHOLD</string>
+    <string-array name="manual_stronghold">
+        <item>m_stronghold_01</item>
+        <item>m_stronghold_02</item>
+        <item>m_stronghold_03</item>
+        <item>m_stronghold_04</item>
+        <item>m_stronghold_05</item>
+        <item>m_stronghold_06</item>
+        <item>m_stronghold_07</item>
+        <item>m_stronghold_08</item>
+    </string-array>
+</resources>

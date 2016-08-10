@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_stampede">STAMPEDE</string>
+    <string-array name="manual_stampede">
+        <item>m_stampede_01</item>
+        <item>m_stampede_02</item>
+        <item>m_stampede_03</item>
+        <item>m_stampede_04</item>
+        <item>m_stampede_05</item>
+        <item>m_stampede_06</item>
+    </string-array>
+</resources>

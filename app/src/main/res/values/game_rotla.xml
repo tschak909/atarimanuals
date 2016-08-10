@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_rotla">RAIDERS OF THE LOST ARK</string>
+    <string-array name="manual_rotla">
+        <item>m_rotla_01</item>
+        <item>m_rotla_02</item>
+        <item>m_rotla_03</item>
+        <item>m_rotla_04</item>
+        <item>m_rotla_05</item>
+        <item>m_rotla_06</item>
+        <item>m_rotla_07</item>
+        <item>m_rotla_08</item>
+        <item>m_rotla_09</item>
+        <item>m_rotla_10</item>
+        <item>m_rotla_11</item>
+        <item>m_rotla_12</item>
+        <item>m_rotla_13</item>
+        <item>m_rotla_14</item>
+        <item>m_rotla_15</item>
+        <item>m_rotla_16</item>
+        <item>m_rotla_17</item>
+        <item>m_rotla_18</item>
+        <item>m_rotla_19</item>
+        <item>m_rotla_20</item>
+        <item>m_rotla_21</item>
+        <item>m_rotla_22</item>
+        <item>m_rotla_23</item>
+        <item>m_rotla_24</item>
+        <item>m_rotla_25</item>
+        <item>m_rotla_26</item>
+        <item>m_rotla_27</item>
+        <item>m_rotla_28</item>
+        <item>m_rotla_29</item>
+        <item>m_rotla_30</item>
+        <item>m_rotla_31</item>
+        <item>m_rotla_32</item>
+        <item>m_rotla_33</item>
+        <item>m_rotla_34</item>
+        <item>m_rotla_35</item>
+    </string-array>
+</resources>

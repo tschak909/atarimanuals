@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_commando_raid">COMMANDO RAID</string>
+    <string-array name="manual_commando_raid">
+        <item>m_commandoraid_01</item>
+        <item>m_commandoraid_02</item>
+        <item>m_commandoraid_03</item>
+        <item>m_commandoraid_04</item>
+    </string-array>
+</resources>

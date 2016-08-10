@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_mangia">MANGIA</string>
+    <string-array name="manual_mangia">
+        <item>m_mangia_01</item>
+        <item>m_mangia_02</item>
+        <item>m_mangia_03</item>
+        <item>m_mangia_04</item>
+        <item>m_mangia_05</item>
+        <item>m_mangia_06</item>
+        <item>m_mangia_07</item>
+        <item>m_mangia_08</item>
+        <item>m_mangia_09</item>
+        <item>m_mangia_10</item>
+    </string-array>
+</resources>

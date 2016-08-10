@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_realsports_baseball">REALSPORTS BASEBALL</string>
+    <string-array name="manual_realsports_baseball">
+        <item>m_rsbaseball_01</item>
+        <item>m_rsbaseball_02</item>
+        <item>m_rsbaseball_03</item>
+        <item>m_rsbaseball_04</item>
+        <item>m_rsbaseball_05</item>
+        <item>m_rsbaseball_06</item>
+        <item>m_rsbaseball_07</item>
+        <item>m_rsbaseball_08</item>
+        <item>m_rsbaseball_09</item>
+        <item>m_rsbaseball_10</item>
+        <item>m_rsbaseball_11</item>
+        <item>m_rsbaseball_12</item>
+    </string-array>
+</resources>

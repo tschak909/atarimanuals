@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_name_this_game">NAME THIS GAME</string>
+    <string-array name="manual_name_this_game">
+        <item>m_namethisgame_01</item>
+        <item>m_namethisgame_02</item>
+        <item>m_namethisgame_03</item>
+        <item>m_namethisgame_04</item>
+    </string-array>
+</resources>

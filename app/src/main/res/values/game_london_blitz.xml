@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_london_blitz">LONDON BLITZ</string>
+    <string-array name="manual_london_blitz">
+        <item>m_londonblitz_01</item>
+        <item>m_londonblitz_02</item>
+        <item>m_londonblitz_03</item>
+        <item>m_londonblitz_04</item>
+        <item>m_londonblitz_05</item>
+        <item>m_londonblitz_06</item>
+        <item>m_londonblitz_07</item>
+        <item>m_londonblitz_08</item>
+        <item>m_londonblitz_09</item>
+        <item>m_londonblitz_10</item>
+        <item>m_londonblitz_11</item>
+        <item>m_londonblitz_12</item>
+    </string-array>
+</resources>

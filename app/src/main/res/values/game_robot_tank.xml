@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_robot_tank">ROBOT TANK</string>
+    <string-array name="manual_robot_tank">
+        <item>m_robottank_01</item>
+        <item>m_robottank_02</item>
+        <item>m_robottank_03</item>
+        <item>m_robottank_04</item>
+        <item>m_robottank_05</item>
+        <item>m_robottank_06</item>
+        <item>m_robottank_07</item>
+        <item>m_robottank_08</item>
+        <item>m_robottank_09</item>
+        <item>m_robottank_10</item>
+        <item>m_robottank_11</item>
+        <item>m_robottank_12</item>
+    </string-array>
+</resources>

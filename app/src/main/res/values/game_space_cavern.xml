@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_space_cavern">SPACE CAVERN</string>
+    <string-array name="manual_space_cavern">
+        <item>m_spacecavern_01</item>
+        <item>m_spacecavern_02</item>
+        <item>m_spacecavern_03</item>
+        <item>m_spacecavern_04</item>
+        <item>m_spacecavern_05</item>
+        <item>m_spacecavern_06</item>
+    </string-array>
+</resources>

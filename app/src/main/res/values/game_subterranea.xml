@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_subterranea">SUBTERRANEA</string>
+    <string-array name="manual_subterranea">
+        <item>m_subterranea_01</item>
+        <item>m_subterranea_02</item>
+        <item>m_subterranea_03</item>
+        <item>m_subterranea_04</item>
+        <item>m_subterranea_05</item>
+        <item>m_subterranea_06</item>
+    </string-array>
+</resources>

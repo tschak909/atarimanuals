@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_pitfall_2">PITFALL II</string>
+    <string-array name="manual_pitfall_2">
+        <item>m_pitfall2_01</item>
+        <item>m_pitfall2_02</item>
+        <item>m_pitfall2_03</item>
+        <item>m_pitfall2_04</item>
+        <item>m_pitfall2_05</item>
+        <item>m_pitfall2_06</item>
+        <item>m_pitfall2_07</item>
+        <item>m_pitfall2_08</item>
+    </string-array>
+</resources>

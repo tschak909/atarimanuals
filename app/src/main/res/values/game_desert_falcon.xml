@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_desert_falcon">DESERT FALCON</string>
+    <string-array name="manual_desert_falcon">
+        <item>m_desertfalcon_01</item>
+        <item>m_desertfalcon_02</item>
+        <item>m_desertfalcon_03</item>
+        <item>m_desertfalcon_04</item>
+        <item>m_desertfalcon_05</item>
+        <item>m_desertfalcon_06</item>
+        <item>m_desertfalcon_07</item>
+        <item>m_desertfalcon_08</item>
+    </string-array>
+</resources>

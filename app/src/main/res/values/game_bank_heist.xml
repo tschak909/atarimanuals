@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_bank_heist">BANK HEIST</string>
+    <string-array name="manual_bank_heist">
+        <item>m_bankheist_01</item>
+        <item>m_bankheist_02</item>
+        <item>m_bankheist_03</item>
+        <item>m_bankheist_04</item>
+        <item>m_bankheist_05</item>
+        <item>m_bankheist_06</item>
+    </string-array>
+</resources>

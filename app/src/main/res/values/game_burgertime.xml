@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_burgertime">BURGERTIME</string>
+    <string-array name="manual_burgertime">
+        <item>m_burgertime_01</item>
+        <item>m_burgertime_02</item>
+        <item>m_burgertime_03</item>
+        <item>m_burgertime_04</item>
+        <item>m_burgertime_05</item>
+        <item>m_burgertime_06</item>
+        <item>m_burgertime_07</item>
+        <item>m_burgertime_08</item>
+    </string-array>
+</resources>

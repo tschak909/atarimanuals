@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_math_gran_prix">MATH GRAN PRIX</string>
+    <string-array name="manual_math_gran_prix">
+        <item>m_mathgranprix_01</item>
+        <item>m_mathgranprix_02</item>
+        <item>m_mathgranprix_03</item>
+        <item>m_mathgranprix_04</item>
+        <item>m_mathgranprix_05</item>
+        <item>m_mathgranprix_06</item>
+        <item>m_mathgranprix_07</item>
+        <item>m_mathgranprix_08</item>
+        <item>m_mathgranprix_09</item>
+        <item>m_mathgranprix_10</item>
+        <item>m_mathgranprix_11</item>
+        <item>m_mathgranprix_12</item>
+    </string-array>
+</resources>

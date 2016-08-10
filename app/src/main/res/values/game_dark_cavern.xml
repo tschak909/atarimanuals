@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_dark_cavern">DARK CAVERN</string>
+    <string-array name="manual_dark_cavern">
+        <item>m_darkcavern_01</item>
+        <item>m_darkcavern_02</item>
+        <item>m_darkcavern_03</item>
+        <item>m_darkcavern_04</item>
+        <item>m_darkcavern_05</item>
+        <item>m_darkcavern_06</item>
+    </string-array>
+</resources>

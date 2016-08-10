@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_california_games">CALIFORNIA GAMES</string>
+    <string-array name="manual_california_games">
+        <item>m_californiagames_01</item>
+        <item>m_californiagames_02</item>
+        <item>m_californiagames_03</item>
+        <item>m_californiagames_04</item>
+        <item>m_californiagames_05</item>
+        <item>m_californiagames_06</item>
+        <item>m_californiagames_07</item>
+        <item>m_californiagames_08</item>
+        <item>m_californiagames_09</item>
+        <item>m_californiagames_10</item>
+        <item>m_californiagames_11</item>
+        <item>m_californiagames_12</item>
+    </string-array>
+</resources>

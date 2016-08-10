@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_combat">COMBAT</string>
+    <string-array name="manual_combat">
+        <item>m_combat_01</item>
+        <item>m_combat_02</item>
+        <item>m_combat_03</item>
+        <item>m_combat_04</item>
+        <item>m_combat_05</item>
+        <item>m_combat_06</item>
+        <item>m_combat_07</item>
+        <item>m_combat_08</item>
+    </string-array>
+</resources>

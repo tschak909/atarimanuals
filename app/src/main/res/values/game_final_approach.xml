@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_final_approach">FINAL APPROACH</string>
+    <string-array name="manual_final_approach">
+        <item>m_finalapproach_01</item>
+        <item>m_finalapproach_02</item>
+        <item>m_finalapproach_03</item>
+        <item>m_finalapproach_04</item>
+        <item>m_finalapproach_05</item>
+        <item>m_finalapproach_06</item>
+    </string-array>
+
+</resources>

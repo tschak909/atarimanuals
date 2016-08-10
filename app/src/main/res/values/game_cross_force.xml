@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_cross_force">CROSS FORCE</string>
+    <string-array name="manual_cross_force">
+        <item>m_crossforce_01</item>
+        <item>m_crossforce_02</item>
+        <item>m_crossforce_03</item>
+        <item>m_crossforce_04</item>
+        <item>m_crossforce_05</item>
+        <item>m_crossforce_06</item>
+        <item>m_crossforce_07</item>
+        <item>m_crossforce_08</item>
+        <item>m_crossforce_09</item>
+        <item>m_crossforce_10</item>
+        <item>m_crossforce_11</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_out_of_control">OUT OF CONTROL</string>
+    <string-array name="manual_out_of_control">
+        <item>m_outofcontrol_01</item>
+        <item>m_outofcontrol_02</item>
+        <item>m_outofcontrol_03</item>
+        <item>m_outofcontrol_04</item>
+        <item>m_outofcontrol_05</item>
+        <item>m_outofcontrol_06</item>
+        <item>m_outofcontrol_07</item>
+        <item>m_outofcontrol_08</item>
+        <item>m_outofcontrol_09</item>
+        <item>m_outofcontrol_10</item>
+        <item>m_outofcontrol_11</item>
+        <item>m_outofcontrol_12</item>
+    </string-array>
+</resources>

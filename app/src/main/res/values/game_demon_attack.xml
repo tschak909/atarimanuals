@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_demon_attack">DEMON ATTACK</string>
+    <string-array name="manual_demon_attack">
+        <item>m_demonattack_01</item>
+        <item>m_demonattack_02</item>
+        <item>m_demonattack_03</item>
+        <item>m_demonattack_04</item>
+        <item>m_demonattack_05</item>
+        <item>m_demonattack_06</item>
+        <item>m_demonattack_07</item>
+        <item>m_demonattack_08</item>
+    </string-array>
+</resources>

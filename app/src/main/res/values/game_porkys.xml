@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_porkys">PORKYs</string>
+    <string-array name="manual_porkys">
+        <item>m_porkys_01</item>
+        <item>m_porkys_02</item>
+        <item>m_porkys_03</item>
+        <item>m_porkys_04</item>
+        <item>m_porkys_05</item>
+        <item>m_porkys_06</item>
+        <item>m_porkys_07</item>
+        <item>m_porkys_08</item>
+        <item>m_porkys_09</item>
+        <item>m_porkys_10</item>
+        <item>m_porkys_11</item>
+        <item>m_porkys_12</item>
+        <item>m_porkys_13</item>
+        <item>m_porkys_14</item>
+        <item>m_porkys_15</item>
+        <item>m_porkys_16</item>
+        <item>m_porkys_17</item>
+        <item>m_porkys_18</item>
+        <item>m_porkys_19</item>
+        <item>m_porkys_20</item>
+        <item>m_porkys_21</item>
+        <item>m_porkys_22</item>
+        <item>m_porkys_23</item>
+        <item>m_porkys_24</item>
+    </string-array>
+</resources>

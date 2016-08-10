@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_quick_step">QUICK STEP</string>
+    <string-array name="manual_quick_step">
+        <item>m_quickstep_01</item>
+        <item>m_quickstep_02</item>
+        <item>m_quickstep_03</item>
+        <item>m_quickstep_04</item>
+    </string-array>
+</resources>

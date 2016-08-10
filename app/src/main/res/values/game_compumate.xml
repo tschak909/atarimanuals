@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_compumate">COMPUMATE USER GUIDE</string>
+    <string-array name="manual_compumate">
+        <item>m_compumate_01</item>
+        <item>m_compumate_02</item>
+        <item>m_compumate_03</item>
+        <item>m_compumate_04</item>
+        <item>m_compumate_05</item>
+        <item>m_compumate_06</item>
+        <item>m_compumate_07</item>
+        <item>m_compumate_08</item>
+        <item>m_compumate_09</item>
+        <item>m_compumate_10</item>
+        <item>m_compumate_11</item>
+        <item>m_compumate_12</item>
+        <item>m_compumate_13</item>
+        <item>m_compumate_14</item>
+        <item>m_compumate_15</item>
+        <item>m_compumate_16</item>
+        <item>m_compumate_17</item>
+        <item>m_compumate_18</item>
+    </string-array>
+</resources>

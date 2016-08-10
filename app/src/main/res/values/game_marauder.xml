@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_marauder">MARAUDER</string>
+    <string-array name="manual_marauder">
+        <item>m_marauder_01</item>
+        <item>m_marauder_02</item>
+        <item>m_marauder_03</item>
+        <item>m_marauder_04</item>
+    </string-array>
+</resources>

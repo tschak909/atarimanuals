@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_star_wars_empire">STAR WARS: EMPIRE STRIKES BACK</string>
+    <string-array name="manual_star_wars_empire">
+        <item>m_starwarsempire_01</item>
+        <item>m_starwarsempire_02</item>
+        <item>m_starwarsempire_03</item>
+        <item>m_starwarsempire_04</item>
+        <item>m_starwarsempire_05</item>
+        <item>m_starwarsempire_06</item>
+        <item>m_starwarsempire_07</item>
+        <item>m_starwarsempire_08</item>
+        <item>m_starwarsempire_09</item>
+        <item>m_starwarsempire_10</item>
+        <item>m_starwarsempire_11</item>
+        <item>m_starwarsempire_12</item>
+        <item>m_starwarsempire_13</item>
+        <item>m_starwarsempire_14</item>
+        <item>m_starwarsempire_15</item>
+    </string-array>
+</resources>

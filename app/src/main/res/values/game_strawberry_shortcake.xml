@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_strawberry_shortcake">STRAWBERRY SHORTCAKE</string>
+    <string-array name="manual_strawberry_shortcake">
+        <item>m_strawberryshortcake_01</item>
+        <item>m_strawberryshortcake_02</item>
+        <item>m_strawberryshortcake_03</item>
+        <item>m_strawberryshortcake_04</item>
+        <item>m_strawberryshortcake_05</item>
+        <item>m_strawberryshortcake_06</item>
+        <item>m_strawberryshortcake_07</item>
+        <item>m_strawberryshortcake_08</item>
+        <item>m_strawberryshortcake_09</item>
+        <item>m_strawberryshortcake_10</item>
+        <item>m_strawberryshortcake_11</item>
+        <item>m_strawberryshortcake_12</item>
+        <item>m_strawberryshortcake_13</item>
+        <item>m_strawberryshortcake_14</item>
+        <item>m_strawberryshortcake_15</item>
+    </string-array>
+</resources>

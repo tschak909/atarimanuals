@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_cookie_monster_munch">COOKIE MONSTER MUNCH</string>
+    <string-array name="manual_cookie_monster_munch">
+        <item>m_cookiemonstermunch_01</item>
+        <item>m_cookiemonstermunch_02</item>
+        <item>m_cookiemonstermunch_03</item>
+        <item>m_cookiemonstermunch_04</item>
+        <item>m_cookiemonstermunch_05</item>
+        <item>m_cookiemonstermunch_06</item>
+        <item>m_cookiemonstermunch_07</item>
+        <item>m_cookiemonstermunch_08</item>
+        <item>m_cookiemonstermunch_09</item>
+        <item>m_cookiemonstermunch_10</item>
+        <item>m_cookiemonstermunch_11</item>
+        <item>m_cookiemonstermunch_12</item>
+        <item>m_cookiemonstermunch_13</item>
+        <item>m_cookiemonstermunch_14</item>
+        <item>m_cookiemonstermunch_15</item>
+        <item>m_cookiemonstermunch_16</item>
+        <item>m_cookiemonstermunch_17</item>
+        <item>m_cookiemonstermunch_18</item>
+        <item>m_cookiemonstermunch_19</item>
+        <item>m_cookiemonstermunch_20</item>
+        <item>m_cookiemonstermunch_21</item>
+        <item>m_cookiemonstermunch_22</item>
+        <item>m_cookiemonstermunch_23</item>
+        <item>m_cookiemonstermunch_24</item>
+        <item>m_cookiemonstermunch_25</item>
+        <item>m_cookiemonstermunch_26</item>
+        <item>m_cookiemonstermunch_27</item>
+        <item>m_cookiemonstermunch_28</item>
+        <item>m_cookiemonstermunch_29</item>
+        <item>m_cookiemonstermunch_30</item>
+        <item>m_cookiemonstermunch_31</item>
+        <item>m_cookiemonstermunch_32</item>
+        <item>m_cookiemonstermunch_33</item>
+        <item>m_cookiemonstermunch_34</item>
+        <item>m_cookiemonstermunch_35</item>
+        <item>m_cookiemonstermunch_36</item>
+    </string-array>
+</resources>

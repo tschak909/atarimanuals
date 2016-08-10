@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_dolphin">DOLPHIN</string>
+    <string-array name="manual_dolphin">
+        <item>m_dolphin_01</item>
+        <item>m_dolphin_02</item>
+        <item>m_dolphin_03</item>
+        <item>m_dolphin_04</item>
+        <item>m_dolphin_05</item>
+        <item>m_dolphin_06</item>
+        <item>m_dolphin_07</item>
+        <item>m_dolphin_08</item>
+    </string-array>
+</resources>

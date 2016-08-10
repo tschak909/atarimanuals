@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_swordquest_fireworld">SWORDQUEST: FIREWORLD</string>
+    <string-array name="manual_swordquest_fireworld">
+        <item>m_swordquestfireworld_01</item>
+        <item>m_swordquestfireworld_02</item>
+        <item>m_swordquestfireworld_03</item>
+        <item>m_swordquestfireworld_04</item>
+        <item>m_swordquestfireworld_05</item>
+        <item>m_swordquestfireworld_06</item>
+        <item>m_swordquestfireworld_07</item>
+        <item>m_swordquestfireworld_08</item>
+        <item>m_swordquestfireworld_09</item>
+        <item>m_swordquestfireworld_10</item>
+        <item>m_swordquestfireworld_11</item>
+        <item>m_swordquestfireworld_12</item>
+    </string-array>
+</resources>

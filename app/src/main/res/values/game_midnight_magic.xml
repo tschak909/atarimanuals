@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_midnight_magic">MIDNIGHT MAGIC</string>
+    <string-array name="manual_midnight_magic">
+        <item>m_midnightmagic_01</item>
+        <item>m_midnightmagic_02</item>
+        <item>m_midnightmagic_03</item>
+        <item>m_midnightmagic_04</item>
+    </string-array>
+</resources>

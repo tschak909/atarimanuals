@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_surround">SURROUND</string>
+    <string-array name="manual_surround">
+        <item>m_surround_01</item>
+        <item>m_surround_02</item>
+        <item>m_surround_03</item>
+        <item>m_surround_04</item>
+        <item>m_surround_05</item>
+        <item>m_surround_06</item>
+    </string-array>
+</resources>

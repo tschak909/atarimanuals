@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    <string name="title_air_raiders">AIR RAIDERS</string>
+    <string-array name="manual_air_raiders">
+        <item>m_airraiders_01</item>
+        <item>m_airraiders_02</item>
+        <item>m_airraiders_03</item>
+        <item>m_airraiders_04</item>
+        <item>m_airraiders_05</item>
+        <item>m_airraiders_06</item>
+    </string-array>
+</resources>

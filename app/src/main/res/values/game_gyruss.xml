@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_gyruss">GYRUSS</string>
+    <string-array name="manual_gyruss">
+        <item>m_gyruss_01</item>
+        <item>m_gyruss_02</item>
+        <item>m_gyruss_03</item>
+        <item>m_gyruss_04</item>
+        <item>m_gyruss_05</item>
+        <item>m_gyruss_06</item>
+        <item>m_gyruss_07</item>
+        <item>m_gyruss_08</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_basic_programming">BASIC PROGRAMMING</string>
+    <string-array name="manual_basic_programming">
+        <item>m_basicprogramming_01</item>
+        <item>m_basicprogramming_02</item>
+        <item>m_basicprogramming_03</item>
+        <item>m_basicprogramming_04</item>
+        <item>m_basicprogramming_05</item>
+        <item>m_basicprogramming_06</item>
+        <item>m_basicprogramming_07</item>
+        <item>m_basicprogramming_08</item>
+        <item>m_basicprogramming_09</item>
+        <item>m_basicprogramming_10</item>
+        <item>m_basicprogramming_11</item>
+        <item>m_basicprogramming_12</item>
+        <item>m_basicprogramming_13</item>
+        <item>m_basicprogramming_14</item>
+        <item>m_basicprogramming_15</item>
+        <item>m_basicprogramming_16</item>
+        <item>m_basicprogramming_17</item>
+        <item>m_basicprogramming_18</item>
+        <item>m_basicprogramming_19</item>
+        <item>m_basicprogramming_20</item>
+        <item>m_basicprogramming_21</item>
+        <item>m_basicprogramming_22</item>
+        <item>m_basicprogramming_23</item>
+        <item>m_basicprogramming_24</item>
+    </string-array>
+</resources>

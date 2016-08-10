@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_sub_scan">SUB-SCAN</string>
+    <string-array name="manual_sub_scan">
+        <item>m_subscan_01</item>
+        <item>m_subscan_02</item>
+        <item>m_subscan_03</item>
+        <item>m_subscan_04</item>
+        <item>m_subscan_05</item>
+        <item>m_subscan_06</item>
+        <item>m_subscan_07</item>
+        <item>m_subscan_08</item>
+    </string-array>
+</resources>

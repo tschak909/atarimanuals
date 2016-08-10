@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_oscars_trash_race">OSCARs TRASH RACE</string>
+    <string-array name="manual_oscars_trash_race">
+        <item>m_oscarstrashrace_01</item>
+        <item>m_oscarstrashrace_02</item>
+        <item>m_oscarstrashrace_03</item>
+        <item>m_oscarstrashrace_04</item>
+        <item>m_oscarstrashrace_05</item>
+        <item>m_oscarstrashrace_06</item>
+        <item>m_oscarstrashrace_07</item>
+        <item>m_oscarstrashrace_08</item>
+        <item>m_oscarstrashrace_09</item>
+        <item>m_oscarstrashrace_10</item>
+        <item>m_oscarstrashrace_11</item>
+        <item>m_oscarstrashrace_12</item>
+        <item>m_oscarstrashrace_13</item>
+        <item>m_oscarstrashrace_14</item>
+        <item>m_oscarstrashrace_15</item>
+        <item>m_oscarstrashrace_16</item>
+        <item>m_oscarstrashrace_17</item>
+        <item>m_oscarstrashrace_18</item>
+        <item>m_oscarstrashrace_19</item>
+        <item>m_oscarstrashrace_20</item>
+        <item>m_oscarstrashrace_21</item>
+        <item>m_oscarstrashrace_22</item>
+        <item>m_oscarstrashrace_23</item>
+        <item>m_oscarstrashrace_24</item>
+        <item>m_oscarstrashrace_25</item>
+    </string-array>
+</resources>

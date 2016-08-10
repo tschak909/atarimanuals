@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_piece_o_cake">PIECE o CAKE</string>
+    <string-array name="manual_piece_o_cake">
+        <item>m_pieceocake_01</item>
+        <item>m_pieceocake_02</item>
+        <item>m_pieceocake_03</item>
+        <item>m_pieceocake_04</item>
+    </string-array>
+</resources>

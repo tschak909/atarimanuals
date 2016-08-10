@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_escape_from_the_mindmaster">ESCAPE FROM THE MINDMASTER</string>
+    <string-array name="manual_escape_from_the_mindmaster">
+        <item>m_escapefromthemindmaster_01</item>
+        <item>m_escapefromthemindmaster_02</item>
+        <item>m_escapefromthemindmaster_03</item>
+        <item>m_escapefromthemindmaster_04</item>
+        <item>m_escapefromthemindmaster_05</item>
+        <item>m_escapefromthemindmaster_06</item>
+        <item>m_escapefromthemindmaster_07</item>
+        <item>m_escapefromthemindmaster_08</item>
+        <item>m_escapefromthemindmaster_09</item>
+        <item>m_escapefromthemindmaster_10</item>
+        <item>m_escapefromthemindmaster_11</item>
+        <item>m_escapefromthemindmaster_12</item>
+    </string-array>
+
+</resources>

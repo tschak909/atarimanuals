@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_halloween">HALLOWEEN</string>
+    <string-array name="manual_halloween">
+        <item>m_halloween_01</item>
+        <item>m_halloween_02</item>
+        <item>m_halloween_03</item>
+        <item>m_halloween_04</item>
+    </string-array>
+</resources>

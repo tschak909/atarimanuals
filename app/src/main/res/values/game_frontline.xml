@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_frontline">FRONTLINE</string>
+    <string-array name="manual_frontline">
+        <item>m_frontline_01</item>
+        <item>m_frontline_02</item>
+        <item>m_frontline_03</item>
+        <item>m_frontline_04</item>
+        <item>m_frontline_05</item>
+        <item>m_frontline_06</item>
+        <item>m_frontline_07</item>
+        <item>m_frontline_08</item>
+        <item>m_frontline_09</item>
+        <item>m_frontline_10</item>
+        <item>m_frontline_11</item>
+        <item>m_frontline_12</item>
+        <item>m_frontline_13</item>
+        <item>m_frontline_14</item>
+        <item>m_frontline_15</item>
+        <item>m_frontline_16</item>
+    </string-array>
+</resources>

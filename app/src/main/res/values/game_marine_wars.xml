@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_marine_wars">MARINE WARS</string>
+    <string-array name="manual_marine_wars">
+        <item>m_marinewars_01</item>
+        <item>m_marinewars_02</item>
+        <item>m_marinewars_03</item>
+        <item>m_marinewars_04</item>
+        <item>m_marinewars_05</item>
+        <item>m_marinewars_06</item>
+        <item>m_marinewars_07</item>
+        <item>m_marinewars_08</item>
+    </string-array>
+</resources>

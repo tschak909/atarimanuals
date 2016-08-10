@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_realsports_soccer">REALSPORTS SOCCER</string>
+    <string-array name="manual_realsports_soccer">
+        <item>m_rssoccer_01</item>
+        <item>m_rssoccer_02</item>
+        <item>m_rssoccer_03</item>
+        <item>m_rssoccer_04</item>
+        <item>m_rssoccer_05</item>
+        <item>m_rssoccer_06</item>
+        <item>m_rssoccer_07</item>
+        <item>m_rssoccer_08</item>
+        <item>m_rssoccer_09</item>
+        <item>m_rssoccer_10</item>
+        <item>m_rssoccer_11</item>
+        <item>m_rssoccer_12</item>
+    </string-array>
+</resources>

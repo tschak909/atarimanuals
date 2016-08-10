@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_journey_escape">JOURNEY ESCAPE</string>
+    <string-array name="manual_journey_escape">
+        <item>m_journeyescape_01</item>
+        <item>m_journeyescape_02</item>
+        <item>m_journeyescape_03</item>
+        <item>m_journeyescape_04</item>
+        <item>m_journeyescape_05</item>
+        <item>m_journeyescape_06</item>
+        <item>m_journeyescape_07</item>
+        <item>m_journeyescape_08</item>
+    </string-array>
+
+</resources>

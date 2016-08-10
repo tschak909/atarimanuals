@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_plaque_attack">PLAQUE ATTACK</string>
+    <string-array name="manual_plaque_attack">
+        <item>m_plaqueattack_01</item>
+        <item>m_plaqueattack_02</item>
+        <item>m_plaqueattack_03</item>
+        <item>m_plaqueattack_04</item>
+        <item>m_plaqueattack_05</item>
+        <item>m_plaqueattack_06</item>
+        <item>m_plaqueattack_07</item>
+        <item>m_plaqueattack_08</item>
+    </string-array>
+</resources>

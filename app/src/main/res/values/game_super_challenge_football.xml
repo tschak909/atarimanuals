@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_super_challenge_football">SUPER CHALLENGE FOOTBALL</string>
+    <string-array name="manual_super_challenge_football">
+        <item>m_superchallengefootball_01</item>
+        <item>m_superchallengefootball_02</item>
+        <item>m_superchallengefootball_03</item>
+        <item>m_superchallengefootball_04</item>
+    </string-array>
+</resources>

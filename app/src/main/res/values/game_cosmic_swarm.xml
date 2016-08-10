@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_cosmic_swarm">COSMIC SWARM</string>
+    <string-array name="manual_cosmic_swarm">
+        <item>m_cosmicswarm_01</item>
+        <item>m_cosmicswarm_02</item>
+        <item>m_cosmicswarm_03</item>
+        <item>m_cosmicswarm_04</item>
+        <item>m_cosmicswarm_05</item>
+        <item>m_cosmicswarm_06</item>
+        <item>m_cosmicswarm_07</item>
+        <item>m_cosmicswarm_08</item>
+    </string-array>
+</resources>

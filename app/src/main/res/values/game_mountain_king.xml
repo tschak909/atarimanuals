@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_mountain_king">MOUNTAIN KING</string>
+    <string-array name="manual_mountain_king">
+        <item>m_mountainking_01</item>
+        <item>m_mountainking_02</item>
+        <item>m_mountainking_03</item>
+        <item>m_mountainking_04</item>
+        <item>m_mountainking_05</item>
+        <item>m_mountainking_06</item>
+        <item>m_mountainking_07</item>
+        <item>m_mountainking_08</item>
+        <item>m_mountainking_09</item>
+        <item>m_mountainking_10</item>
+        <item>m_mountainking_11</item>
+        <item>m_mountainking_12</item>
+        <item>m_mountainking_13</item>
+        <item>m_mountainking_14</item>
+        <item>m_mountainking_15</item>
+        <item>m_mountainking_16</item>
+        <item>m_mountainking_17</item>
+        <item>m_mountainking_18</item>
+        <item>m_mountainking_19</item>
+        <item>m_mountainking_20</item>
+        <item>m_mountainking_21</item>
+        <item>m_mountainking_22</item>
+        <item>m_mountainking_23</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_shuttle_orbiter">SHUTTLE ORBITER</string>
+    <string-array name="manual_shuttle_orbiter">
+        <item>m_shuttleorbiter_01</item>
+        <item>m_shuttleorbiter_02</item>
+        <item>m_shuttleorbiter_03</item>
+        <item>m_shuttleorbiter_04</item>
+        <item>m_shuttleorbiter_05</item>
+        <item>m_shuttleorbiter_06</item>
+        <item>m_shuttleorbiter_07</item>
+        <item>m_shuttleorbiter_08</item>
+        <item>m_shuttleorbiter_09</item>
+        <item>m_shuttleorbiter_10</item>
+        <item>m_shuttleorbiter_11</item>
+        <item>m_shuttleorbiter_12</item>
+    </string-array>
+</resources>

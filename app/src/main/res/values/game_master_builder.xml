@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_master_builder">MASTER BUILDER</string>
+    <string-array name="manual_master_builder">
+        <item>m_masterbuilder_01</item>
+        <item>m_masterbuilder_02</item>
+        <item>m_masterbuilder_03</item>
+        <item>m_masterbuilder_04</item>
+        <item>m_masterbuilder_05</item>
+        <item>m_masterbuilder_06</item>
+        <item>m_masterbuilder_07</item>
+        <item>m_masterbuilder_08</item>
+        <item>m_masterbuilder_09</item>
+        <item>m_masterbuilder_10</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_mr_do">MR. DO!</string>
+    <string-array name="manual_mr_do">
+        <item>m_mrdo_01</item>
+        <item>m_mrdo_02</item>
+        <item>m_mrdo_03</item>
+        <item>m_mrdo_04</item>
+        <item>m_mrdo_05</item>
+        <item>m_mrdo_06</item>
+        <item>m_mrdo_07</item>
+        <item>m_mrdo_08</item>
+        <item>m_mrdo_09</item>
+        <item>m_mrdo_10</item>
+        <item>m_mrdo_11</item>
+        <item>m_mrdo_12</item>
+    </string-array>
+</resources>

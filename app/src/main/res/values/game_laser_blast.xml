@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_laser_blast">LASER BLAST</string>
+    <string-array name="manual_laser_blast">
+        <item>m_laserblast_01</item>
+        <item>m_laserblast_02</item>
+        <item>m_laserblast_03</item>
+        <item>m_laserblast_04</item>
+        <item>m_laserblast_05</item>
+        <item>m_laserblast_06</item>
+    </string-array>
+</resources>

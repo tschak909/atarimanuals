@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_ghostbusters">GHOSTBUSTERS</string>
+    <string-array name="manual_ghostbusters">
+        <item>m_ghostbusters_01</item>
+        <item>m_ghostbusters_02</item>
+        <item>m_ghostbusters_03</item>
+        <item>m_ghostbusters_04</item>
+        <item>m_ghostbusters_05</item>
+        <item>m_ghostbusters_06</item>
+        <item>m_ghostbusters_07</item>
+        <item>m_ghostbusters_08</item>
+    </string-array>
+
+</resources>

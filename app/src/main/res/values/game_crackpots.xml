@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_crackpots">CRACKPOTS</string>
+    <string-array name="manual_crackpots">
+        <item>m_crackpots_01</item>
+        <item>m_crackpots_02</item>
+        <item>m_crackpots_03</item>
+        <item>m_crackpots_04</item>
+        <item>m_crackpots_05</item>
+        <item>m_crackpots_06</item>
+        <item>m_crackpots_07</item>
+        <item>m_crackpots_08</item>
+    </string-array>
+</resources>

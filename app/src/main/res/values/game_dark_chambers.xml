@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_dark_chambers">DARK CHAMBERS</string>
+    <string-array name="manual_dark_chambers">
+        <item>m_darkchambers_01</item>
+        <item>m_darkchambers_02</item>
+        <item>m_darkchambers_03</item>
+        <item>m_darkchambers_04</item>
+        <item>m_darkchambers_05</item>
+        <item>m_darkchambers_06</item>
+    </string-array>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_space_shuttle">SPACE SHUTTLE</string>
+    <string-array name="manual_space_shuttle">
+        <item>m_spaceshuttle_01</item>
+        <item>m_spaceshuttle_02</item>
+        <item>m_spaceshuttle_03</item>
+        <item>m_spaceshuttle_04</item>
+        <item>m_spaceshuttle_05</item>
+        <item>m_spaceshuttle_06</item>
+        <item>m_spaceshuttle_07</item>
+        <item>m_spaceshuttle_08</item>
+        <item>m_spaceshuttle_09</item>
+        <item>m_spaceshuttle_10</item>
+        <item>m_spaceshuttle_11</item>
+        <item>m_spaceshuttle_12</item>
+        <item>m_spaceshuttle_13</item>
+        <item>m_spaceshuttle_14</item>
+        <item>m_spaceshuttle_15</item>
+        <item>m_spaceshuttle_16</item>
+        <item>m_spaceshuttle_17</item>
+        <item>m_spaceshuttle_18</item>
+        <item>m_spaceshuttle_19</item>
+        <item>m_spaceshuttle_20</item>
+        <item>m_spaceshuttle_21</item>
+        <item>m_spaceshuttle_22</item>
+        <item>m_spaceshuttle_23</item>
+        <item>m_spaceshuttle_24</item>
+        <item>m_spaceshuttle_25</item>
+        <item>m_spaceshuttle_26</item>
+        <item>m_spaceshuttle_27</item>
+        <item>m_spaceshuttle_28</item>
+        <item>m_spaceshuttle_29</item>
+        <item>m_spaceshuttle_30</item>
+        <item>m_spaceshuttle_31</item>
+        <item>m_spaceshuttle_32</item>
+        <item>m_spaceshuttle_33</item>
+        <item>m_spaceshuttle_34</item>
+        <item>m_spaceshuttle_35</item>
+    </string-array>
+</resources>

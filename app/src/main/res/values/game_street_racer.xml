@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_street_racer">STREET RACER</string>
+    <string-array name="manual_street_racer">
+        <item>m_streetracer_01</item>
+        <item>m_streetracer_02</item>
+        <item>m_streetracer_03</item>
+        <item>m_streetracer_04</item>
+        <item>m_streetracer_05</item>
+        <item>m_streetracer_06</item>
+        <item>m_streetracer_07</item>
+        <item>m_streetracer_08</item>
+        <item>m_streetracer_09</item>
+        <item>m_streetracer_10</item>
+        <item>m_streetracer_11</item>
+        <item>m_streetracer_12</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_star_ship">STAR SHIP</string>
+    <string-array name="manual_star_ship">
+        <item>m_starship_01</item>
+        <item>m_starship_02</item>
+        <item>m_starship_03</item>
+        <item>m_starship_04</item>
+        <item>m_starship_05</item>
+        <item>m_starship_06</item>
+        <item>m_starship_07</item>
+        <item>m_starship_08</item>
+        <item>m_starship_09</item>
+        <item>m_starship_10</item>
+        <item>m_starship_11</item>
+        <item>m_starship_12</item>
+    </string-array>
+</resources>

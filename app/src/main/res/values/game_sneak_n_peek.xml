@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="title_sneak_n_peek">SNEAK n PEEK</string>
+    <string-array name="manual_sneak_n_peek">
+        <item>m_sneaknpeek_01</item>
+        <item>m_sneaknpeek_02</item>
+        <item>m_sneaknpeek_03</item>
+        <item>m_sneaknpeek_04</item>
+        <item>m_sneaknpeek_05</item>
+        <item>m_sneaknpeek_06</item>
+        <item>m_sneaknpeek_07</item>
+        <item>m_sneaknpeek_08</item>
+    </string-array>
+</resources>

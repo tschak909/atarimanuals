@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_rampage">RAMPAGE</string>
+    <string-array name="manual_rampage">
+        <item>m_rampage_01</item>
+        <item>m_rampage_02</item>
+        <item>m_rampage_03</item>
+        <item>m_rampage_04</item>
+        <item>m_rampage_05</item>
+        <item>m_rampage_06</item>
+        <item>m_rampage_07</item>
+        <item>m_rampage_08</item>
+    </string-array>r
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_firefly">FIREFLY</string>
+    <string-array name="manual_firefly">
+        <item>m_firefly_01</item>
+        <item>m_firefly_02</item>
+        <item>m_firefly_03</item>
+        <item>m_firefly_04</item>
+        <item>m_firefly_05</item>
+        <item>m_firefly_06</item>
+        <item>m_firefly_07</item>
+        <item>m_firefly_08</item>
+    </string-array>
+
+</resources>

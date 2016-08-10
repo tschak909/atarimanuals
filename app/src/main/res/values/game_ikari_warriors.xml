@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_ikari_warriors">IKARI WARRIORS</string>
+    <string-array name="manual_ikari_warriors">
+        <item>m_ikariwarriors_01</item>
+        <item>m_ikariwarriors_02</item>
+        <item>m_ikariwarriors_03</item>
+        <item>m_ikariwarriors_04</item>
+        <item>m_ikariwarriors_05</item>
+        <item>m_ikariwarriors_06</item>
+    </string-array>
+</resources>

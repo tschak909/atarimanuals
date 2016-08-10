@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_outlaw">OUTLAW</string>
+    <string-array name="manual_outlaw">
+        <item>m_outlaw_01</item>
+        <item>m_outlaw_02</item>
+        <item>m_outlaw_03</item>
+        <item>m_outlaw_04</item>
+        <item>m_outlaw_05</item>
+        <item>m_outlaw_06</item>
+        <item>m_outlaw_07</item>
+        <item>m_outlaw_08</item>
+    </string-array>
+</resources>

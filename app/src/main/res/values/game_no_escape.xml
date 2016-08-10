@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_no_escape">NO ESCAPE</string>
+    <string-array name="manual_no_escape">
+        <item>m_noescape_01</item>
+        <item>m_noescape_02</item>
+        <item>m_noescape_03</item>
+        <item>m_noescape_04</item>
+        <item>m_noescape_05</item>
+        <item>m_noescape_06</item>
+        <item>m_noescape_07</item>
+        <item>m_noescape_08</item>
+    </string-array>
+</resources>

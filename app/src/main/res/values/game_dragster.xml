@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_dragster">DRAGSTER</string>
+    <string-array name="manual_dragster">
+        <item>m_dragster_01</item>
+        <item>m_dragster_02</item>
+        <item>m_dragster_03</item>
+        <item>m_dragster_04</item>
+    </string-array>
+</resources>

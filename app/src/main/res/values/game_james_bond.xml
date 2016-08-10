@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_james_bond">JAMES BOND</string>
+    <string-array name="manual_james_bond">
+        <item>m_jamesbond_01</item>
+        <item>m_jamesbond_02</item>
+        <item>m_jamesbond_03</item>
+        <item>m_jamesbond_04</item>
+        <item>m_jamesbond_05</item>
+        <item>m_jamesbond_06</item>
+        <item>m_jamesbond_07</item>
+        <item>m_jamesbond_08</item>
+        <item>m_jamesbond_09</item>
+        <item>m_jamesbond_10</item>
+        <item>m_jamesbond_11</item>
+        <item>m_jamesbond_12</item>
+        <item>m_jamesbond_13</item>
+        <item>m_jamesbond_14</item>
+        <item>m_jamesbond_15</item>
+    </string-array>
+
+</resources>

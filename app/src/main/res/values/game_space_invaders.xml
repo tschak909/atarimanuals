@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_space_invaders">SPACE INVADERS</string>
+    <string-array name="manual_space_invaders">
+        <item>m_spaceinvaders_01</item>
+        <item>m_spaceinvaders_02</item>
+        <item>m_spaceinvaders_03</item>
+        <item>m_spaceinvaders_04</item>
+        <item>m_spaceinvaders_05</item>
+        <item>m_spaceinvaders_06</item>
+        <item>m_spaceinvaders_07</item>
+        <item>m_spaceinvaders_08</item>
+        <item>m_spaceinvaders_09</item>
+        <item>m_spaceinvaders_10</item>
+        <item>m_spaceinvaders_11</item>
+    </string-array>
+</resources>

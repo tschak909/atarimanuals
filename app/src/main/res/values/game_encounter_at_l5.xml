@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_encounter_at_l5">ENCOUNTER AT L-5</string>
+    <string-array name="manual_encounter_at_l5">
+        <item>m_encounteratl5_01</item>
+        <item>m_encounteratl5_02</item>
+        <item>m_encounteratl5_03</item>
+        <item>m_encounteratl5_04</item>
+        <item>m_encounteratl5_05</item>
+        <item>m_encounteratl5_06</item>
+    </string-array>
+</resources>

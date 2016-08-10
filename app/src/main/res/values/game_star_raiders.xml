@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_star_raiders">STAR RAIDERS</string>
+    <string-array name="manual_star_raiders">
+        <item>m_starraiders_01</item>
+        <item>m_starraiders_02</item>
+        <item>m_starraiders_03</item>
+        <item>m_starraiders_04</item>
+        <item>m_starraiders_05</item>
+        <item>m_starraiders_06</item>
+        <item>m_starraiders_07</item>
+        <item>m_starraiders_08</item>
+        <item>m_starraiders_09</item>
+        <item>m_starraiders_10</item>
+        <item>m_starraiders_11</item>
+        <item>m_starraiders_12</item>
+        <item>m_starraiders_13</item>
+        <item>m_starraiders_14</item>
+        <item>m_starraiders_15</item>
+        <item>m_starraiders_16</item>
+        <item>m_starraiders_17</item>
+        <item>m_starraiders_18</item>
+        <item>m_starraiders_19</item>
+        <item>m_starraiders_20</item>
+        <item>m_starraiders_21</item>
+    </string-array>
+</resources>

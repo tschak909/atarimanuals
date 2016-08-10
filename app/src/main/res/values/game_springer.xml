@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_springer">SPRINGER</string>
+    <string-array name="manual_springer">
+        <item>m_springer_01</item>
+        <item>m_springer_02</item>
+        <item>m_springer_03</item>
+        <item>m_springer_04</item>
+    </string-array>
+</resources>

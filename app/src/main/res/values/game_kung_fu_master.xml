@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_kung_fu_master">KUNG FU MASTER</string>
+    <string-array name="manual_kung_fu_master">
+        <item>m_kungfumaster_01</item>
+        <item>m_kungfumaster_02</item>
+        <item>m_kungfumaster_03</item>
+        <item>m_kungfumaster_04</item>
+        <item>m_kungfumaster_05</item>
+        <item>m_kungfumaster_06</item>
+        <item>m_kungfumaster_07</item>
+        <item>m_kungfumaster_08</item>
+        <item>m_kungfumaster_09</item>
+        <item>m_kungfumaster_10</item>
+        <item>m_kungfumaster_11</item>
+        <item>m_kungfumaster_12</item>
+    </string-array>
+</resources>

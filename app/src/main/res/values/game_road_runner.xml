@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_road_runner">ROAD RUNNER</string>
+    <string-array name="manual_road_runner">
+        <item>m_roadrunner_01</item>
+        <item>m_roadrunner_02</item>
+        <item>m_roadrunner_03</item>
+        <item>m_roadrunner_04</item>
+    </string-array>
+</resources>

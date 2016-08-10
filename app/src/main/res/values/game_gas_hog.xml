@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_gas_hog">GAS HOG</string>
+    <string-array name="manual_gas_hog">
+        <item>m_gashog_01</item>
+        <item>m_gashog_02</item>
+        <item>m_gashog_03</item>
+        <item>m_gashog_04</item>
+        <item>m_gashog_05</item>
+        <item>m_gashog_06</item>
+        <item>m_gashog_07</item>
+        <item>m_gashog_08</item>
+        <item>m_gashog_09</item>
+    </string-array>
+</resources>

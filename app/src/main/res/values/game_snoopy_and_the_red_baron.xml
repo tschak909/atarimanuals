@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_snoopy_and_the_red_baron">SNOOPY AND THE RED BARON</string>
+    <string-array name="manual_snoopy_and_the_red_baron">
+        <item>m_snoopyandtheredbaron_01</item>
+        <item>m_snoopyandtheredbaron_02</item>
+        <item>m_snoopyandtheredbaron_03</item>
+        <item>m_snoopyandtheredbaron_04</item>
+        <item>m_snoopyandtheredbaron_05</item>
+        <item>m_snoopyandtheredbaron_06</item>
+        <item>m_snoopyandtheredbaron_07</item>
+        <item>m_snoopyandtheredbaron_08</item>
+        <item>m_snoopyandtheredbaron_09</item>
+    </string-array>
+</resources>

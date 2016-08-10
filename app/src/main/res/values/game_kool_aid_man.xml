@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_kool_aid_man">KOOL-AID MAN</string>
+    <string-array name="manual_kool_aid_man">
+        <item>m_koolaidman_01</item>
+        <item>m_koolaidman_02</item>
+        <item>m_koolaidman_03</item>
+        <item>m_koolaidman_04</item>
+        <item>m_koolaidman_05</item>
+        <item>m_koolaidman_06</item>
+        <item>m_koolaidman_07</item>
+        <item>m_koolaidman_08</item>
+    </string-array>
+</resources>

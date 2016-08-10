@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_communist_mutants_from_space">COMMUNIST MUTANTS FROM SPACE</string>
+    <string-array name="manual_communist_mutants_from_space">
+        <item>m_communistmutantsfromspace_01</item>
+        <item>m_communistmutantsfromspace_02</item>
+        <item>m_communistmutantsfromspace_03</item>
+        <item>m_communistmutantsfromspace_04</item>
+        <item>m_communistmutantsfromspace_05</item>
+        <item>m_communistmutantsfromspace_06</item>
+        <item>m_communistmutantsfromspace_07</item>
+        <item>m_communistmutantsfromspace_08</item>
+        <item>m_communistmutantsfromspace_09</item>
+        <item>m_communistmutantsfromspace_10</item>
+        <item>m_communistmutantsfromspace_11</item>
+        <item>m_communistmutantsfromspace_12</item>
+    </string-array>
+</resources>

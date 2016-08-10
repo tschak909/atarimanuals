@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_kaboom">KABOOM!</string>
+    <string-array name="manual_kaboom">
+        <item>m_kaboom_01</item>
+        <item>m_kaboom_02</item>
+        <item>m_kaboom_03</item>
+        <item>m_kaboom_04</item>
+        <item>m_kaboom_05</item>
+        <item>m_kaboom_06</item>
+    </string-array>
+</resources>

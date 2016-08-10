@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_millipede">MILLIPEDE</string>
+    <string-array name="manual_millipede">
+        <item>m_millipede_01</item>
+        <item>m_millipede_02</item>
+        <item>m_millipede_03</item>
+        <item>m_millipede_04</item>
+    </string-array>
+</resources>

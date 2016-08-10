@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_dragonstomper">DRAGONSTOMPER</string>
+    <string-array name="manual_dragonstomper">
+        <item>m_dragonstomper_01</item>
+        <item>m_dragonstomper_02</item>
+        <item>m_dragonstomper_03</item>
+        <item>m_dragonstomper_04</item>
+        <item>m_dragonstomper_05</item>
+        <item>m_dragonstomper_06</item>
+        <item>m_dragonstomper_07</item>
+        <item>m_dragonstomper_08</item>
+    </string-array>
+</resources>

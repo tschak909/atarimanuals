@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_robin_hood">ROBIN HOOD</string>
+    <string-array name="manual_robin_hood">
+        <item>m_robinhood_01</item>
+        <item>m_robinhood_02</item>
+        <item>m_robinhood_03</item>
+        <item>m_robinhood_04</item>
+        <item>m_robinhood_05</item>
+        <item>m_robinhood_06</item>
+        <item>m_robinhood_07</item>
+    </string-array>
+</resources>

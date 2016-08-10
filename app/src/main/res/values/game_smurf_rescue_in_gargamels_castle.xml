@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_smurf_rescue_in_gargamels_castle">SMURF: RESCUE IN GARGAMELs CASTLE</string>
+    <string-array name="manual_smurf_rescue_in_gargamels_castle">
+        <item>m_smurf_01</item>
+        <item>m_smurf_02</item>
+        <item>m_smurf_03</item>
+        <item>m_smurf_04</item>
+        <item>m_smurf_05</item>
+        <item>m_smurf_06</item>
+        <item>m_smurf_07</item>
+        <item>m_smurf_08</item>
+        <item>m_smurf_09</item>
+        <item>m_smurf_10</item>
+        <item>m_smurf_11</item>
+        <item>m_smurf_12</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_space_attack">SPACE ATTACK</string>
+    <string-array name="manual_space_attack">
+        <item>m_spaceattack_01</item>
+        <item>m_spaceattack_02</item>
+        <item>m_spaceattack_03</item>
+        <item>m_spaceattack_04</item>
+        <item>m_spaceattack_05</item>
+        <item>m_spaceattack_06</item>
+    </string-array>
+</resources>

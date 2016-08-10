@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_big_birds_egg_catch">BIG BIRDS EGG CATCH</string>
+    <string-array name="manual_big_birds_egg_catch">
+        <item>m_bigbirdseggcatch_01</item>
+        <item>m_bigbirdseggcatch_02</item>
+        <item>m_bigbirdseggcatch_03</item>
+        <item>m_bigbirdseggcatch_04</item>
+        <item>m_bigbirdseggcatch_05</item>
+        <item>m_bigbirdseggcatch_06</item>
+        <item>m_bigbirdseggcatch_07</item>
+        <item>m_bigbirdseggcatch_08</item>
+        <item>m_bigbirdseggcatch_09</item>
+        <item>m_bigbirdseggcatch_10</item>
+        <item>m_bigbirdseggcatch_11</item>
+        <item>m_bigbirdseggcatch_12</item>
+        <item>m_bigbirdseggcatch_13</item>
+        <item>m_bigbirdseggcatch_14</item>
+        <item>m_bigbirdseggcatch_15</item>
+        <item>m_bigbirdseggcatch_16</item>
+        <item>m_bigbirdseggcatch_17</item>
+        <item>m_bigbirdseggcatch_18</item>
+        <item>m_bigbirdseggcatch_19</item>
+        <item>m_bigbirdseggcatch_20</item>
+        <item>m_bigbirdseggcatch_21</item>
+        <item>m_bigbirdseggcatch_22</item>
+        <item>m_bigbirdseggcatch_23</item>
+        <item>m_bigbirdseggcatch_24</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_backgammon">BACKGAMMON</string>
+    <string-array name="manual_backgammon">
+        <item>m_backgammon_01</item>
+        <item>m_backgammon_02</item>
+        <item>m_backgammon_03</item>
+        <item>m_backgammon_04</item>
+        <item>m_backgammon_05</item>
+        <item>m_backgammon_06</item>
+        <item>m_backgammon_07</item>
+        <item>m_backgammon_08</item>
+        <item>m_backgammon_09</item>
+        <item>m_backgammon_10</item>
+        <item>m_backgammon_11</item>
+        <item>m_backgammon_12</item>
+        <item>m_backgammon_13</item>
+        <item>m_backgammon_14</item>
+        <item>m_backgammon_15</item>
+        <item>m_backgammon_16</item>
+    </string-array>
+</resources>

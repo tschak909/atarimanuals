@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_moon_patrol">MOON PATROL</string>
+    <string-array name="manual_moon_patrol">
+        <item>m_moonpatrol_01</item>
+        <item>m_moonpatrol_02</item>
+        <item>m_moonpatrol_03</item>
+        <item>m_moonpatrol_04</item>
+        <item>m_moonpatrol_05</item>
+        <item>m_moonpatrol_06</item>
+        <item>m_moonpatrol_07</item>
+        <item>m_moonpatrol_08</item>
+    </string-array>
+</resources>

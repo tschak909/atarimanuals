@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_deadly_duck">DEADLY DUCK</string>
+    <string-array name="manual_deadly_duck">
+        <item>m_deadlyduck_01</item>
+        <item>m_deadlyduck_02</item>
+        <item>m_deadlyduck_03</item>
+        <item>m_deadlyduck_04</item>
+        <item>m_deadlyduck_05</item>
+        <item>m_deadlyduck_06</item>
+    </string-array>
+</resources>

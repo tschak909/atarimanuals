@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_frogs_and_flies">FROGS AND FLIES</string>
+    <string-array name="manual_frogs_and_flies">
+        <item>m_frogsandflies_01</item>
+        <item>m_frogsandflies_02</item>
+        <item>m_frogsandflies_03</item>
+        <item>m_frogsandflies_04</item>
+    </string-array>
+
+</resources>

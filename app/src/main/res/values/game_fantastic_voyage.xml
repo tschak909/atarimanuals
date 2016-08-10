@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_fantastic_voyage">FANTASTIC VOYAGE</string>
+    <string-array name="manual_fantastic_voyage">
+        <item>m_fantasticvoyage_01</item>
+        <item>m_fantasticvoyage_02</item>
+        <item>m_fantasticvoyage_03</item>
+        <item>m_fantasticvoyage_04</item>
+        <item>m_fantasticvoyage_05</item>
+        <item>m_fantasticvoyage_06</item>
+    </string-array>
+
+</resources>

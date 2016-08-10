@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_buck_rogers">BUCK ROGERS</string>
+    <string-array name="manual_buck_rogers">
+        <item>m_buckrogers_01</item>
+        <item>m_buckrogers_02</item>
+        <item>m_buckrogers_03</item>
+        <item>m_buckrogers_04</item>
+        <item>m_buckrogers_05</item>
+        <item>m_buckrogers_06</item>
+        <item>m_buckrogers_07</item>
+        <item>m_buckrogers_08</item>
+    </string-array>
+</resources>

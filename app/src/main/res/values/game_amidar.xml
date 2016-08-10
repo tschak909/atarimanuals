@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_amidar">AMIDAR</string>
+    <string-array name="manual_amidar">
+        <item>m_amidar_01</item>
+        <item>m_amidar_02</item>
+        <item>m_amidar_03</item>
+        <item>m_amidar_04</item>
+        <item>m_amidar_05</item>
+        <item>m_amidar_06</item>
+        <item>m_amidar_07</item>
+    </string-array>
+</resources>

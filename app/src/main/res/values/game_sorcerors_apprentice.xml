@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_sorcerors_apprentice">SORCERORs APPRENTICE</string>
+    <string-array name="manual_sorcerors_apprentice">
+        <item>m_sorcerorsapprentice_01</item>
+        <item>m_sorcerorsapprentice_02</item>
+        <item>m_sorcerorsapprentice_03</item>
+        <item>m_sorcerorsapprentice_04</item>
+        <item>m_sorcerorsapprentice_05</item>
+        <item>m_sorcerorsapprentice_06</item>
+        <item>m_sorcerorsapprentice_07</item>
+        <item>m_sorcerorsapprentice_08</item>
+        <item>m_sorcerorsapprentice_09</item>
+    </string-array>
+</resources>

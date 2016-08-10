@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_fireball">FIREBALL</string>
+    <string-array name="manual_fireball">
+        <item>m_fireball_01</item>
+        <item>m_fireball_02</item>
+        <item>m_fireball_03</item>
+        <item>m_fireball_04</item>
+        <item>m_fireball_05</item>
+        <item>m_fireball_06</item>
+        <item>m_fireball_07</item>
+        <item>m_fireball_08</item>
+        <item>m_fireball_09</item>
+        <item>m_fireball_10</item>
+        <item>m_fireball_11</item>
+        <item>m_fireball_12</item>
+    </string-array>
+
+</resources>

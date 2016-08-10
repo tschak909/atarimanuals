@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_snow_white">SNOW WHITE</string>
+    <string-array name="manual_snow_white">
+        <item>m_snowwhite_01</item>
+        <item>m_snowwhite_02</item>
+        <item>m_snowwhite_03</item>
+        <item>m_snowwhite_04</item>
+        <item>m_snowwhite_05</item>
+        <item>m_snowwhite_06</item>
+        <item>m_snowwhite_07</item>
+        <item>m_snowwhite_08</item>
+        <item>m_snowwhite_09</item>
+        <item>m_snowwhite_10</item>
+        <item>m_snowwhite_11</item>
+        <item>m_snowwhite_12</item>
+    </string-array>
+</resources>

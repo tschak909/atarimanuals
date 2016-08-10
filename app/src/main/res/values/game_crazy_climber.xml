@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_crazy_climber">CRAZY CLIMBER</string>
+    <string-array name="manual_crazy_climber">
+        <item>m_crazyclimber_01</item>
+        <item>m_crazyclimber_02</item>
+        <item>m_crazyclimber_03</item>
+        <item>m_crazyclimber_04</item>
+        <item>m_crazyclimber_05</item>
+        <item>m_crazyclimber_06</item>
+        <item>m_crazyclimber_07</item>
+        <item>m_crazyclimber_08</item>
+        <item>m_crazyclimber_09</item>
+        <item>m_crazyclimber_10</item>
+        <item>m_crazyclimber_11</item>
+        <item>m_crazyclimber_12</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_astroblast">ASTROBLAST</string>
+    <string-array name="manual_astroblast">
+        <item>m_astroblast_01</item>
+        <item>m_astroblast_02</item>
+        <item>m_astroblast_03</item>
+        <item>m_astroblast_04</item>
+    </string-array>
+</resources>

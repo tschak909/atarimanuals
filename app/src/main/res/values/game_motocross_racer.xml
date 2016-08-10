@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="title_motocross_racer">MOTOCROSS RACER</string>
+    <string-array name="manual_motocross_racer">
+        <item>m_motocrossracer_01</item>
+        <item>m_motocrossracer_02</item>
+        <item>m_motocrossracer_03</item>
+        <item>m_motocrossracer_04</item>
+        <item>m_motocrossracer_05</item>
+        <item>m_motocrossracer_06</item>
+        <item>m_motocrossracer_07</item>
+        <item>m_motocrossracer_08</item>
+    </string-array></resources>

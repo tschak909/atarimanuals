@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_qberts_cubes">Q*BERTs CUBES</string>
+    <string-array name="manual_qberts_cubes">
+        <item>m_qbertscubes_01</item>
+        <item>m_qbertscubes_02</item>
+        <item>m_qbertscubes_03</item>
+        <item>m_qbertscubes_04</item>
+        <item>m_qbertscubes_05</item>
+        <item>m_qbertscubes_06</item>
+        <item>m_qbertscubes_07</item>
+        <item>m_qbertscubes_08</item>
+    </string-array>
+</resources>

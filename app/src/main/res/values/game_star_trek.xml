@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_star_trek">STAR TREK: STRATEGIC OPERATIONS SIMULATOR</string>
+    <string-array name="manual_star_trek">
+        <item>m_startrek_01</item>
+        <item>m_startrek_02</item>
+        <item>m_startrek_03</item>
+        <item>m_startrek_04</item>
+        <item>m_startrek_05</item>
+        <item>m_startrek_06</item>
+        <item>m_startrek_07</item>
+        <item>m_startrek_08</item>
+        <item>m_startrek_09</item>
+    </string-array>
+</resources>

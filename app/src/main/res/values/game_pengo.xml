@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_pengo">PENGO</string>
+    <string-array name="manual_pengo">
+        <item>m_pengo_01</item>
+        <item>m_pengo_02</item>
+        <item>m_pengo_03</item>
+        <item>m_pengo_04</item>
+    </string-array>
+</resources>

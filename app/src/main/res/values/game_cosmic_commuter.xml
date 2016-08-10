@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_cosmic_commuter">COSMIC COMMUTER</string>
+    <string-array name="manual_cosmic_commuter">
+        <item>m_cosmiccommuter_01</item>
+        <item>m_cosmiccommuter_02</item>
+        <item>m_cosmiccommuter_03</item>
+        <item>m_cosmiccommuter_04</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_music_machine">MUSIC MACHINE</string>
+    <string-array name="manual_music_machine">
+        <item>m_musicmachine_01</item>
+        <item>m_musicmachine_02</item>
+        <item>m_musicmachine_03</item>
+        <item>m_musicmachine_04</item>
+        <item>m_musicmachine_05</item>
+        <item>m_musicmachine_06</item>
+        <item>m_musicmachine_07</item>
+        <item>m_musicmachine_08</item>
+        <item>m_musicmachine_09</item>
+        <item>m_musicmachine_10</item>
+        <item>m_musicmachine_11</item>
+    </string-array>
+</resources>

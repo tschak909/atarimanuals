@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_spider_man">SPIDER-MAN</string>
+    <string-array name="manual_spider_man">
+        <item>m_spiderman_01</item>
+        <item>m_spiderman_02</item>
+        <item>m_spiderman_03</item>
+        <item>m_spiderman_04</item>
+        <item>m_spiderman_05</item>
+        <item>m_spiderman_06</item>
+        <item>m_spiderman_07</item>
+        <item>m_spiderman_08</item>
+        <item>m_spiderman_09</item>
+        <item>m_spiderman_10</item>
+        <item>m_spiderman_11</item>
+        <item>m_spiderman_12</item>
+        <item>m_spiderman_13</item>
+        <item>m_spiderman_14</item>
+        <item>m_spiderman_15</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_berzerk">BERZERK</string>
+    <string-array name="manual_berzerk">
+        <item>m_berzerk_01</item>
+        <item>m_berzerk_02</item>
+        <item>m_berzerk_03</item>
+        <item>m_berzerk_04</item>
+    </string-array>
+</resources>

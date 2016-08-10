@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_pressure_cooker">PRESSURE COOKER</string>
+    <string-array name="manual_pressure_cooker">
+        <item>m_pressurecooker_01</item>
+        <item>m_pressurecooker_02</item>
+        <item>m_pressurecooker_03</item>
+        <item>m_pressurecooker_04</item>
+        <item>m_pressurecooker_05</item>
+        <item>m_pressurecooker_06</item>
+        <item>m_pressurecooker_07</item>
+        <item>m_pressurecooker_08</item>
+    </string-array>
+</resources>

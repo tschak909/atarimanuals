@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_circus_atari">CIRCUS ATARI</string>
+    <string-array name="manual_circus_atari">
+        <item>m_circusatari_01</item>
+        <item>m_circusatari_02</item>
+        <item>m_circusatari_03</item>
+        <item>m_circusatari_04</item>
+        <item>m_circusatari_05</item>
+        <item>m_circusatari_06</item>
+    </string-array>
+</resources>

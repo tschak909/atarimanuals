@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_ram_it">RAM-IT</string>
+    <string-array name="manual_ram_it">
+        <item>m_ramit_01</item>
+        <item>m_ramit_02</item>
+        <item>m_ramit_03</item>
+        <item>m_ramit_04</item>
+        <item>m_ramit_05</item>
+        <item>m_ramit_06</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_sorceror">SORCEROR</string>
+    <string-array name="manual_sorceror">
+        <item>m_sorceror_01</item>
+        <item>m_sorceror_02</item>
+        <item>m_sorceror_03</item>
+        <item>m_sorceror_04</item>
+        <item>m_sorceror_05</item>
+        <item>m_sorceror_06</item>
+    </string-array>
+</resources>

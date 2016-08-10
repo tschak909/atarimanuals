@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_king_kong">KING KONG</string>
+    <string-array name="manual_king_kong">
+        <item>m_kingkong_01</item>
+        <item>m_kingkong_02</item>
+        <item>m_kingkong_03</item>
+        <item>m_kingkong_04</item>
+    </string-array>
+</resources>

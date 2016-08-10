@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_spitfire_attack">SPITFIRE ATTACK</string>
+    <string-array name="manual_spitfire_attack">
+        <item>m_spitfireattack_01</item>
+        <item>m_spitfireattack_02</item>
+        <item>m_spitfireattack_03</item>
+        <item>m_spitfireattack_04</item>
+        <item>m_spitfireattack_05</item>
+        <item>m_spitfireattack_06</item>
+        <item>m_spitfireattack_07</item>
+        <item>m_spitfireattack_08</item>
+        <item>m_spitfireattack_09</item>
+        <item>m_spitfireattack_10</item>
+        <item>m_spitfireattack_11</item>
+        <item>m_spitfireattack_12</item>
+    </string-array>
+</resources>

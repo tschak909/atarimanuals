@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_fast_food">FAST FOOD</string>
+    <string-array name="manual_fast_food">
+        <item>m_fastfood_01</item>
+        <item>m_fastfood_02</item>
+        <item>m_fastfood_03</item>
+        <item>m_fastfood_04</item>
+    </string-array>
+
+</resources>

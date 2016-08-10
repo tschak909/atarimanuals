@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_bumper_bash">BUMPER BASH</string>
+    <string-array name="manual_bumper_bash">
+        <item>m_bumperbash_01</item>
+        <item>m_bumperbash_02</item>
+        <item>m_bumperbash_03</item>
+        <item>m_bumperbash_04</item>
+        <item>m_bumperbash_05</item>
+        <item>m_bumperbash_06</item>
+        <item>m_bumperbash_07</item>
+        <item>m_bumperbash_08</item>
+        <item>m_bumperbash_09</item>
+        <item>m_bumperbash_10</item>
+        <item>m_bumperbash_11</item>
+        <item>m_bumperbash_12</item>
+        <item>m_bumperbash_13</item>
+        <item>m_bumperbash_14</item>
+        <item>m_bumperbash_15</item>
+        <item>m_bumperbash_16</item>
+    </string-array>
+</resources>

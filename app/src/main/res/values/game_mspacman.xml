@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_ms_pac_man">MS. PAC-MAN</string>
+    <string-array name="manual_ms_pac_man">
+        <item>m_mspacman_01</item>
+        <item>m_mspacman_02</item>
+        <item>m_mspacman_03</item>
+        <item>m_mspacman_04</item>
+        <item>m_mspacman_05</item>
+        <item>m_mspacman_06</item>
+        <item>m_mspacman_07</item>
+        <item>m_mspacman_08</item>
+        <item>m_mspacman_09</item>
+        <item>m_mspacman_10</item>
+        <item>m_mspacman_11</item>
+        <item>m_mspacman_12</item>
+    </string-array>
+</resources>

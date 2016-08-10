@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_othello">OTHELLO</string>
+    <string-array name="manual_othello">
+        <item>m_othello_01</item>
+        <item>m_othello_02</item>
+        <item>m_othello_03</item>
+        <item>m_othello_04</item>
+        <item>m_othello_05</item>
+        <item>m_othello_06</item>
+        <item>m_othello_07</item>
+        <item>m_othello_08</item>
+    </string-array>
+</resources>

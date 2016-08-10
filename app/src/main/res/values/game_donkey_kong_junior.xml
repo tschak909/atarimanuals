@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_donkey_kong_junior">DONKEY KONG JUNIOR</string>
+    <string-array name="manual_donkey_kong_junior">
+        <item>m_donkeykongjunior_01</item>
+        <item>m_donkeykongjunior_02</item>
+        <item>m_donkeykongjunior_03</item>
+        <item>m_donkeykongjunior_04</item>
+        <item>m_donkeykongjunior_05</item>
+        <item>m_donkeykongjunior_06</item>
+        <item>m_donkeykongjunior_07</item>
+        <item>m_donkeykongjunior_08</item>
+        <item>m_donkeykongjunior_09</item>
+        <item>m_donkeykongjunior_10</item>
+        <item>m_donkeykongjunior_11</item>
+        <item>m_donkeykongjunior_12</item>
+    </string-array>
+</resources>

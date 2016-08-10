@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_galaxian">GALAXIAN</string>
+    <string-array name="manual_galaxian">
+        <item>m_galaxian_01</item>
+        <item>m_galaxian_02</item>
+        <item>m_galaxian_03</item>
+        <item>m_galaxian_04</item>
+        <item>m_galaxian_05</item>
+        <item>m_galaxian_06</item>
+        <item>m_galaxian_07</item>
+        <item>m_galaxian_08</item>
+    </string-array>
+
+</resources>

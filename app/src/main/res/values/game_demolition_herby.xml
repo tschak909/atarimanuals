@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_demolition_herby">DEMOLITION HERBY</string>
+    <string-array name="manual_demolition_herby">
+        <item>m_demolitionherby_01</item>
+        <item>m_demolitionherby_02</item>
+        <item>m_demolitionherby_03</item>
+        <item>m_demolitionherby_04</item>
+        <item>m_demolitionherby_05</item>
+        <item>m_demolitionherby_06</item>
+        <item>m_demolitionherby_07</item>
+        <item>m_demolitionherby_08</item>
+    </string-array>
+</resources>

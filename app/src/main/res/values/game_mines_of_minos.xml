@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_mines_of_minos">MINES OF MINOS</string>
+    <string-array name="manual_mines_of_minos">
+        <item>m_minesofminos_01</item>
+        <item>m_minesofminos_02</item>
+        <item>m_minesofminos_03</item>
+        <item>m_minesofminos_04</item>
+        <item>m_minesofminos_05</item>
+        <item>m_minesofminos_06</item>
+        <item>m_minesofminos_07</item>
+        <item>m_minesofminos_08</item>
+    </string-array>
+</resources>

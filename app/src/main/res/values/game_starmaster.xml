@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_starmaster">STARMASTER</string>
+    <string-array name="manual_starmaster">
+        <item>m_starmaster_01</item>
+        <item>m_starmaster_02</item>
+        <item>m_starmaster_03</item>
+        <item>m_starmaster_04</item>
+        <item>m_starmaster_05</item>
+        <item>m_starmaster_06</item>
+        <item>m_starmaster_07</item>
+        <item>m_starmaster_08</item>
+        <item>m_starmaster_09</item>
+        <item>m_starmaster_10</item>
+        <item>m_starmaster_11</item>
+        <item>m_starmaster_12</item>
+        <item>m_starmaster_13</item>
+        <item>m_starmaster_14</item>
+        <item>m_starmaster_15</item>
+        <item>m_starmaster_16</item>
+    </string-array>
+</resources>

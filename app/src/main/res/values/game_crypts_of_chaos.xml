@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_crypts_of_chaos">CRYPTS OF CHAOS</string>
+    <string-array name="manual_crypts_of_chaos">
+        <item>m_cryptsofchaos_01</item>
+        <item>m_cryptsofchaos_02</item>
+        <item>m_cryptsofchaos_03</item>
+        <item>m_cryptsofchaos_04</item>
+        <item>m_cryptsofchaos_05</item>
+        <item>m_cryptsofchaos_06</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_pete_rose_baseball">PETE ROSE BASEBALL</string>
+    <string-array name="manual_pete_rose_baseball">
+        <item>m_peterosebaseball_01</item>
+        <item>m_peterosebaseball_02</item>
+        <item>m_peterosebaseball_03</item>
+        <item>m_peterosebaseball_04</item>
+    </string-array>
+</resources>

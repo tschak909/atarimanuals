@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_atlantis">ATLANTIS</string>
+    <string-array name="manual_atlantis">
+        <item>m_atlantis_01</item>
+        <item>m_atlantis_02</item>
+        <item>m_atlantis_03</item>
+        <item>m_atlantis_04</item>
+        <item>m_atlantis_05</item>
+        <item>m_atlantis_06</item>
+        <item>m_atlantis_07</item>
+        <item>m_atlantis_08</item>
+    </string-array>
+</resources>

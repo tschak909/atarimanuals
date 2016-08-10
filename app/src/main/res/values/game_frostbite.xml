@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_frostbite">FROSTBITE</string>
+    <string-array name="manual_frostbite">
+        <item>m_frostbite_01</item>
+        <item>m_frostbite_02</item>
+        <item>m_frostbite_03</item>
+        <item>m_frostbite_04</item>
+        <item>m_frostbite_05</item>
+        <item>m_frostbite_06</item>
+        <item>m_frostbite_07</item>
+        <item>m_frostbite_08</item>
+    </string-array>
+
+</resources>

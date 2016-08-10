@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_laser_gates">LASER GATES</string>
+    <string-array name="manual_laser_gates">
+        <item>m_lasergates_01</item>
+        <item>m_lasergates_02</item>
+        <item>m_lasergates_03</item>
+        <item>m_lasergates_04</item>
+        <item>m_lasergates_05</item>
+        <item>m_lasergates_06</item>
+    </string-array>
+</resources>

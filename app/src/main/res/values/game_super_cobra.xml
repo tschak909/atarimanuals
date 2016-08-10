@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_super_cobra">SUPER COBRA</string>
+    <string-array name="manual_super_cobra">
+        <item>m_supercobra_01</item>
+        <item>m_supercobra_02</item>
+        <item>m_supercobra_03</item>
+        <item>m_supercobra_04</item>
+        <item>m_supercobra_05</item>
+        <item>m_supercobra_06</item>
+        <item>m_supercobra_07</item>
+        <item>m_supercobra_08</item>
+        <item>m_supercobra_09</item>
+        <item>m_supercobra_10</item>
+        <item>m_supercobra_11</item>
+        <item>m_supercobra_12</item>
+        <item>m_supercobra_13</item>
+        <item>m_supercobra_14</item>
+    </string-array>
+</resources>

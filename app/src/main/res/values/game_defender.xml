@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_defender">DEFENDER</string>
+    <string-array name="manual_defender">
+        <item>m_defender_01</item>
+        <item>m_defender_02</item>
+        <item>m_defender_03</item>
+        <item>m_defender_04</item>
+        <item>m_defender_05</item>
+        <item>m_defender_06</item>
+        <item>m_defender_07</item>
+        <item>m_defender_08</item>
+        <item>m_defender_09</item>
+        <item>m_defender_10</item>
+        <item>m_defender_11</item>
+        <item>m_defender_12</item>
+        <item>m_defender_13</item>
+        <item>m_defender_14</item>
+        <item>m_defender_15</item>
+        <item>m_defender_16</item>
+        <item>m_defender_17</item>
+        <item>m_defender_18</item>
+        <item>m_defender_19</item>
+        <item>m_defender_20</item>
+        <item>m_defender_21</item>
+    </string-array>
+</resources>

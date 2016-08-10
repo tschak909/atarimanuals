@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_river_raid_2">RIVER RAID II</string>
+    <string-array name="manual_river_raid_2">
+        <item>m_riverraid2_01</item>
+        <item>m_riverraid2_02</item>
+        <item>m_riverraid2_03</item>
+        <item>m_riverraid2_04</item>
+        <item>m_riverraid2_05</item>
+        <item>m_riverraid2_06</item>
+        <item>m_riverraid2_07</item>
+        <item>m_riverraid2_08</item>
+    </string-array>
+</resources>

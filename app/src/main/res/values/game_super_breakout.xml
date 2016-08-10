@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_super_breakout">SUPER BREAKOUT</string>
+    <string-array name="manual_super_breakout">
+        <item>m_superbreakout_01</item>
+        <item>m_superbreakout_02</item>
+        <item>m_superbreakout_03</item>
+        <item>m_superbreakout_04</item>
+        <item>m_superbreakout_05</item>
+        <item>m_superbreakout_06</item>
+        <item>m_superbreakout_07</item>
+        <item>m_superbreakout_08</item>
+        <item>m_superbreakout_09</item>
+        <item>m_superbreakout_10</item>
+        <item>m_superbreakout_11</item>
+        <item>m_superbreakout_12</item>
+    </string-array>
+</resources>

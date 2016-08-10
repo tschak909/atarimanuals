@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_mr_dos_castle">MR. DOs CASTLE</string>
+    <string-array name="manual_mr_dos_castle">
+        <item>m_mrdoscastle_01</item>
+        <item>m_mrdoscastle_02</item>
+        <item>m_mrdoscastle_03</item>
+        <item>m_mrdoscastle_04</item>
+        <item>m_mrdoscastle_05</item>
+        <item>m_mrdoscastle_06</item>
+        <item>m_mrdoscastle_07</item>
+        <item>m_mrdoscastle_08</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="title_rabbit_transit">RABBIT TRANSIT</string>
+    <string-array name="manual_rabbit_transit">
+        <item>m_rabbittransit_01</item>
+        <item>m_rabbittransit_02</item>
+        <item>m_rabbittransit_03</item>
+        <item>m_rabbittransit_04</item>
+        <item>m_rabbittransit_05</item>
+        <item>m_rabbittransit_06</item>
+        <item>m_rabbittransit_07</item>
+        <item>m_rabbittransit_08</item>
+        <item>m_rabbittransit_09</item>
+        <item>m_rabbittransit_10</item>
+    </string-array></resources>

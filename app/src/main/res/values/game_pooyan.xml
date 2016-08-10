@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_pooyan">POOYAN</string>
+    <string-array name="manual_pooyan">
+        <item>m_pooyan_01</item>
+        <item>m_pooyan_02</item>
+        <item>m_pooyan_03</item>
+        <item>m_pooyan_04</item>
+        <item>m_pooyan_05</item>
+        <item>m_pooyan_06</item>
+        <item>m_pooyan_07</item>
+        <item>m_pooyan_08</item>
+    </string-array>
+</resources>

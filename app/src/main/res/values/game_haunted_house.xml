@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_haunted_house">HAUNTED HOUSE</string>
+    <string-array name="manual_haunted_house">
+        <item>m_hauntedhouse_01</item>
+        <item>m_hauntedhouse_02</item>
+        <item>m_hauntedhouse_03</item>
+        <item>m_hauntedhouse_04</item>
+        <item>m_hauntedhouse_05</item>
+        <item>m_hauntedhouse_06</item>
+        <item>m_hauntedhouse_07</item>
+        <item>m_hauntedhouse_08</item>
+        <item>m_hauntedhouse_09</item>
+        <item>m_hauntedhouse_10</item>
+        <item>m_hauntedhouse_11</item>
+        <item>m_hauntedhouse_12</item>
+        <item>m_hauntedhouse_13</item>
+        <item>m_hauntedhouse_14</item>
+        <item>m_hauntedhouse_15</item>
+        <item>m_hauntedhouse_16</item>
+    </string-array>
+
+</resources>

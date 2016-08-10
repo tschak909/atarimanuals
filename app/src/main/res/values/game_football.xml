@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_football">FOOTBALL</string>
+    <string-array name="manual_football">
+        <item>m_football_01</item>
+        <item>m_football_02</item>
+        <item>m_football_03</item>
+        <item>m_football_04</item>
+        <item>m_football_05</item>
+        <item>m_football_06</item>
+    </string-array>
+
+</resources>

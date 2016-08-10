@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_spacechase">SPACECHASE</string>
+    <string-array name="manual_spacechase">
+        <item>m_spacechase_01</item>
+        <item>m_spacechase_02</item>
+        <item>m_spacechase_03</item>
+        <item>m_spacechase_04</item>
+        <item>m_spacechase_05</item>
+        <item>m_spacechase_06</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_planet_patrol">PLANET PATROL</string>
+    <string-array name="manual_planet_patrol">
+        <item>m_planetpatrol_01</item>
+        <item>m_planetpatrol_02</item>
+        <item>m_planetpatrol_03</item>
+        <item>m_planetpatrol_04</item>
+        <item>m_planetpatrol_05</item>
+        <item>m_planetpatrol_06</item>
+        <item>m_planetpatrol_07</item>
+        <item>m_planetpatrol_08</item>
+        <item>m_planetpatrol_09</item>
+        <item>m_planetpatrol_10</item>
+        <item>m_planetpatrol_11</item>
+        <item>m_planetpatrol_12</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_infiltrate">INFILTRATE</string>
+    <string-array name="manual_infiltrate">
+        <item>m_infiltrate_01</item>
+        <item>m_infiltrate_02</item>
+        <item>m_infiltrate_03</item>
+        <item>m_infiltrate_04</item>
+        <item>m_infiltrate_05</item>
+        <item>m_infiltrate_06</item>
+    </string-array>
+</resources>

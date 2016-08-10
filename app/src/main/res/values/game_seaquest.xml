@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_seaquest">SEAQUEST</string>
+    <string-array name="manual_seaquest">
+        <item>m_seaquest_01</item>
+        <item>m_seaquest_02</item>
+        <item>m_seaquest_03</item>
+        <item>m_seaquest_04</item>
+        <item>m_seaquest_05</item>
+        <item>m_seaquest_06</item>
+    </string-array>
+</resources>

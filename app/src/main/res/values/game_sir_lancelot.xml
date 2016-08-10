@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_sir_lancelot">SIR LANCELOT</string>
+    <string-array name="manual_sir_lancelot">
+        <item>m_sirlancelot_01</item>
+        <item>m_sirlancelot_02</item>
+        <item>m_sirlancelot_03</item>
+        <item>m_sirlancelot_04</item>
+        <item>m_sirlancelot_05</item>
+        <item>m_sirlancelot_06</item>
+        <item>m_sirlancelot_07</item>
+        <item>m_sirlancelot_08</item>
+        <item>m_sirlancelot_09</item>
+        <item>m_sirlancelot_10</item>
+        <item>m_sirlancelot_11</item>
+        <item>m_sirlancelot_12</item>
+    </string-array>
+</resources>

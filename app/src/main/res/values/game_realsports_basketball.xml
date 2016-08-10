@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_realsports_basketball">REALSPORTS BASKETBALL</string>
+    <string-array name="manual_realsports_basketball">
+        <item>m_rsbasketball_01</item>
+        <item>m_rsbasketball_02</item>
+        <item>m_rsbasketball_03</item>
+        <item>m_rsbasketball_04</item>
+        <item>m_rsbasketball_05</item>
+        <item>m_rsbasketball_06</item>
+        <item>m_rsbasketball_07</item>
+        <item>m_rsbasketball_08</item>
+    </string-array>
+</resources>

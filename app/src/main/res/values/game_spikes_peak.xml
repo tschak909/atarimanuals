@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_spikes_peak">SPIKEs PEAK</string>
+    <string-array name="manual_spikes_peak">
+        <item>m_spikespeak_01</item>
+        <item>m_spikespeak_02</item>
+        <item>m_spikespeak_03</item>
+        <item>m_spikespeak_04</item>
+        <item>m_spikespeak_05</item>
+        <item>m_spikespeak_06</item>
+        <item>m_spikespeak_07</item>
+        <item>m_spikespeak_08</item>
+        <item>m_spikespeak_09</item>
+        <item>m_spikespeak_10</item>
+        <item>m_spikespeak_11</item>
+        <item>m_spikespeak_12</item>
+    </string-array>
+</resources>

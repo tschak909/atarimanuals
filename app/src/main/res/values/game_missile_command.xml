@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_missile_command">MISSILE COMMAND</string>
+    <string-array name="manual_missile_command">
+        <item>m_missilecommand_01</item>
+        <item>m_missilecommand_02</item>
+        <item>m_missilecommand_03</item>
+        <item>m_missilecommand_04</item>
+        <item>m_missilecommand_05</item>
+        <item>m_missilecommand_06</item>
+        <item>m_missilecommand_07</item>
+        <item>m_missilecommand_08</item>
+        <item>m_missilecommand_09</item>
+        <item>m_missilecommand_10</item>
+        <item>m_missilecommand_11</item>
+        <item>m_missilecommand_12</item>
+    </string-array>
+</resources>

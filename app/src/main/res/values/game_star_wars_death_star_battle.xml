@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_star_wars_death_star_battle">STAR WARS: DEATH STAR BATTLE</string>
+    <string-array name="manual_star_wars_death_star_battle">
+        <item>m_starwarsdeathstarbattle_01</item>
+        <item>m_starwarsdeathstarbattle_02</item>
+        <item>m_starwarsdeathstarbattle_03</item>
+        <item>m_starwarsdeathstarbattle_04</item>
+        <item>m_starwarsdeathstarbattle_05</item>
+        <item>m_starwarsdeathstarbattle_06</item>
+        <item>m_starwarsdeathstarbattle_07</item>
+        <item>m_starwarsdeathstarbattle_08</item>
+        <item>m_starwarsdeathstarbattle_09</item>
+        <item>m_starwarsdeathstarbattle_10</item>
+        <item>m_starwarsdeathstarbattle_11</item>
+        <item>m_starwarsdeathstarbattle_12</item>
+        <item>m_starwarsdeathstarbattle_13</item>
+        <item>m_starwarsdeathstarbattle_14</item>
+        <item>m_starwarsdeathstarbattle_15</item>
+    </string-array>
+</resources>

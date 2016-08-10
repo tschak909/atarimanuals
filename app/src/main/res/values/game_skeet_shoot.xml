@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_skeet_shoot">SKEET SHOOT</string>
+    <string-array name="manual_skeet_shoot">
+        <item>m_skeetshoot_01</item>
+        <item>m_skeetshoot_02</item>
+        <item>m_skeetshoot_03</item>
+        <item>m_skeetshoot_04</item>
+        <item>m_skeetshoot_05</item>
+        <item>m_skeetshoot_06</item>
+    </string-array>
+</resources>

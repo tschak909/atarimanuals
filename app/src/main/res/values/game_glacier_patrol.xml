@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_glacier_patrol">GLACIER PATROL</string>
+    <string-array name="manual_glacier_patrol">
+        <item>m_glacierpatrol_01</item>
+        <item>m_glacierpatrol_02</item>
+        <item>m_glacierpatrol_03</item>
+        <item>m_glacierpatrol_04</item>
+    </string-array>
+
+</resources>

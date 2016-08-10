@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_steeplechase">STEEPLECHASE</string>
+    <string-array name="manual_steeplechase">
+        <item>m_steeplechase_01</item>
+        <item>m_steeplechase_02</item>
+        <item>m_steeplechase_03</item>
+        <item>m_steeplechase_04</item>
+        <item>m_steeplechase_05</item>
+        <item>m_steeplechase_06</item>
+        <item>m_steeplechase_07</item>
+        <item>m_steeplechase_08</item>
+        <item>m_steeplechase_09</item>
+        <item>m_steeplechase_10</item>
+        <item>m_steeplechase_11</item>
+        <item>m_steeplechase_12</item>
+    </string-array>
+</resources>

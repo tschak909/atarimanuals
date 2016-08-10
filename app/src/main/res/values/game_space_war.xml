@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_space_war">SPACE WAR</string>
+    <string-array name="manual_space_war">
+        <item>m_spacewar_01</item>
+        <item>m_spacewar_02</item>
+        <item>m_spacewar_03</item>
+        <item>m_spacewar_04</item>
+        <item>m_spacewar_05</item>
+        <item>m_spacewar_06</item>
+        <item>m_spacewar_07</item>
+        <item>m_spacewar_08</item>
+        <item>m_spacewar_09</item>
+        <item>m_spacewar_10</item>
+        <item>m_spacewar_11</item>
+        <item>m_spacewar_12</item>
+    </string-array>
+</resources>

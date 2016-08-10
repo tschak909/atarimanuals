@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_private_eye">PRIVATE EYE</string>
+    <string-array name="manual_private_eye">
+        <item>m_privateeye_01</item>
+        <item>m_privateeye_02</item>
+        <item>m_privateeye_03</item>
+        <item>m_privateeye_04</item>
+    </string-array>
+</resources>

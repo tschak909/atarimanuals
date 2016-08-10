@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_qbert">Q*BERT</string>
+    <string-array name="manual_qbert">
+        <item>m_qbert_01</item>
+        <item>m_qbert_02</item>
+        <item>m_qbert_03</item>
+        <item>m_qbert_04</item>
+        <item>m_qbert_05</item>
+        <item>m_qbert_06</item>
+        <item>m_qbert_07</item>
+        <item>m_qbert_08</item>
+        <item>m_qbert_09</item>
+        <item>m_qbert_10</item>
+        <item>m_qbert_11</item>
+        <item>m_qbert_12</item>
+        <item>m_qbert_13</item>
+        <item>m_qbert_14</item>
+        <item>m_qbert_15</item>
+    </string-array>
+</resources>

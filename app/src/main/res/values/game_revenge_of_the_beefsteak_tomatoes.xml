@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_revenge_of_the_beefsteak_tomatoes">REVENGE OF THE BEEFSTEAK TOMATOES</string>
+    <string-array name="manual_revenge_of_the_beefsteak_tomatoes">
+        <item>m_revengeofthebeefsteaktomatoes_01</item>
+        <item>m_revengeofthebeefsteaktomatoes_02</item>
+        <item>m_revengeofthebeefsteaktomatoes_03</item>
+        <item>m_revengeofthebeefsteaktomatoes_04</item>
+        <item>m_revengeofthebeefsteaktomatoes_05</item>
+    </string-array>
+</resources>

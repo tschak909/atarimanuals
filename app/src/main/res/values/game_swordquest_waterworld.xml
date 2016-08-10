@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_swordquest_waterworld">SWORDQUEST: WATERWORLD</string>
+    <string-array name="manual_swordquest_waterworld">
+        <item>m_swordquestwaterworld_01</item>
+        <item>m_swordquestwaterworld_02</item>
+        <item>m_swordquestwaterworld_03</item>
+        <item>m_swordquestwaterworld_04</item>
+        <item>m_swordquestwaterworld_05</item>
+        <item>m_swordquestwaterworld_06</item>
+        <item>m_swordquestwaterworld_07</item>
+        <item>m_swordquestwaterworld_08</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_eggomania">EGGOMANIA</string>
+    <string-array name="manual_eggomania">
+        <item>m_eggomania_01</item>
+        <item>m_eggomania_02</item>
+        <item>m_eggomania_03</item>
+        <item>m_eggomania_04</item>
+    </string-array>
+</resources>

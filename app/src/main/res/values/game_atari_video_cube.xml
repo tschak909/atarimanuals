@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_atari_video_cube">ATARI VIDEO CUBE</string>
+    <string-array name="manual_atari_video_cube">
+        <item>m_atarivideocube_01</item>
+        <item>m_atarivideocube_02</item>
+        <item>m_atarivideocube_03</item>
+        <item>m_atarivideocube_04</item>
+        <item>m_atarivideocube_05</item>
+        <item>m_atarivideocube_06</item>
+        <item>m_atarivideocube_07</item>
+        <item>m_atarivideocube_08</item>
+        <item>m_atarivideocube_09</item>
+        <item>m_atarivideocube_10</item>
+        <item>m_atarivideocube_11</item>
+        <item>m_atarivideocube_12</item>
+    </string-array>
+</resources>

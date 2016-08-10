@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_racquetball">RACQUETBALL</string>
+    <string-array name="manual_racquetball">
+        <item>m_racquetball_01</item>
+        <item>m_racquetball_02</item>
+        <item>m_racquetball_03</item>
+        <item>m_racquetball_04</item>
+        <item>m_racquetball_05</item>
+        <item>m_racquetball_06</item>
+    </string-array>
+</resources>

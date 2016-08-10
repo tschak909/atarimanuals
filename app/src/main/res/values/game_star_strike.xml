@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_star_strike">STAR STRIKE</string>
+    <string-array name="manual_star_strike">
+        <item>m_starstrike_01</item>
+        <item>m_starstrike_02</item>
+        <item>m_starstrike_03</item>
+        <item>m_starstrike_04</item>
+        <item>m_starstrike_05</item>
+        <item>m_starstrike_06</item>
+        <item>m_starstrike_07</item>
+        <item>m_starstrike_08</item>
+    </string-array>
+</resources>

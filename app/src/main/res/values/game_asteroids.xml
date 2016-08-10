@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_asteroids">ASTEROIDS</string>
+    <string-array name="manual_asteroids">
+        <item>m_asteroids_01</item>
+        <item>m_asteroids_02</item>
+        <item>m_asteroids_03</item>
+        <item>m_asteroids_04</item>
+        <item>m_asteroids_05</item>
+        <item>m_asteroids_06</item>
+        <item>m_asteroids_07</item>
+        <item>m_asteroids_08</item>
+        <item>m_asteroids_09</item>
+        <item>m_asteroids_10</item>
+        <item>m_asteroids_11</item>
+        <item>m_asteroids_12</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_star_voyager">STAR VOYAGER</string>
+    <string-array name="manual_star_voyager">
+        <item>m_starvoyager_01</item>
+        <item>m_starvoyager_02</item>
+        <item>m_starvoyager_03</item>
+        <item>m_starvoyager_04</item>
+        <item>m_starvoyager_05</item>
+        <item>m_starvoyager_06</item>
+        <item>m_starvoyager_07</item>
+        <item>m_starvoyager_08</item>
+    </string-array>
+</resources>

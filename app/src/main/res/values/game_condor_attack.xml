@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_condor_attack">CONDOR ATTACK</string>
+    <string-array name="manual_condor_attack">
+        <item>m_condorattack_01</item>
+        <item>m_condorattack_02</item>
+        <item>m_condorattack_03</item>
+        <item>m_condorattack_04</item>
+        <item>m_condorattack_05</item>
+        <item>m_condorattack_06</item>
+    </string-array>
+</resources>

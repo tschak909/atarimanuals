@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_3d_tic_tac_toe">3·D TIC TAC TOE</string>
+    <string-array name="manual_3d_tic_tac_toe">
+        <item>m_3dtictactoe_01</item>
+        <item>m_3dtictactoe_02</item>
+        <item>m_3dtictactoe_03</item>
+        <item>m_3dtictactoe_04</item>
+        <item>m_3dtictactoe_05</item>
+        <item>m_3dtictactoe_06</item>
+        <item>m_3dtictactoe_07</item>
+        <item>m_3dtictactoe_08</item>
+    </string-array>
+</resources>

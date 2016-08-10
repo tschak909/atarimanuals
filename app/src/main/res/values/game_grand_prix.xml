@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_grand_prix">GRAND PRIX</string>
+    <string-array name="manual_grand_prix">
+        <item>m_grandprix_01</item>
+        <item>m_grandprix_02</item>
+        <item>m_grandprix_03</item>
+        <item>m_grandprix_04</item>
+        <item>m_grandprix_05</item>
+        <item>m_grandprix_06</item>
+    </string-array>
+
+</resources>

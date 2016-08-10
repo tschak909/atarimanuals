@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_frankensteins_monster">FRANKENSTEINS MONSTER</string>
+    <string-array name="manual_frankensteins_monster">
+        <item>m_frankensteinsmonster_01</item>
+        <item>m_frankensteinsmonster_02</item>
+        <item>m_frankensteinsmonster_03</item>
+        <item>m_frankensteinsmonster_04</item>
+        <item>m_frankensteinsmonster_05</item>
+        <item>m_frankensteinsmonster_06</item>
+        <item>m_frankensteinsmonster_07</item>
+        <item>m_frankensteinsmonster_08</item>
+    </string-array>
+
+</resources>

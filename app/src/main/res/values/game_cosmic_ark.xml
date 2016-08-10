@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_cosmic_ark">COSMIC ARK</string>
+    <string-array name="manual_cosmic_ark">
+        <item>m_cosmicark_01</item>
+        <item>m_cosmicark_02</item>
+        <item>m_cosmicark_03</item>
+        <item>m_cosmicark_04</item>
+        <item>m_cosmicark_05</item>
+        <item>m_cosmicark_06</item>
+        <item>m_cosmicark_07</item>
+        <item>m_cosmicark_08</item>
+    </string-array>
+</resources>

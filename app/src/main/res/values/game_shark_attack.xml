@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_shark_attack">SHARK ATTACK</string>
+    <string-array name="manual_shark_attack">
+        <item>m_sharkattack_01</item>
+        <item>m_sharkattack_02</item>
+        <item>m_sharkattack_03</item>
+        <item>m_sharkattack_04</item>
+        <item>m_sharkattack_05</item>
+        <item>m_sharkattack_06</item>
+    </string-array>
+</resources>

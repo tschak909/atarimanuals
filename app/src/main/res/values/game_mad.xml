@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_mad">MAD</string>
+    <string-array name="manual_mad">
+        <item>m_mad_01</item>
+        <item>m_mad_02</item>
+        <item>m_mad_03</item>
+        <item>m_mad_04</item>
+    </string-array>
+</resources>

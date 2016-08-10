@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_joust">JOUST</string>
+    <string-array name="manual_joust">
+        <item>m_joust_01</item>
+        <item>m_joust_02</item>
+        <item>m_joust_03</item>
+        <item>m_joust_04</item>
+        <item>m_joust_05</item>
+        <item>m_joust_06</item>
+    </string-array>
+</resources>

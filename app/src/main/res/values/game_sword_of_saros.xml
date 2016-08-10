@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_sword_of_saros">SWORD OF SAROS</string>
+    <string-array name="manual_sword_of_saros">
+        <item>m_swordofsaros_01</item>
+        <item>m_swordofsaros_02</item>
+        <item>m_swordofsaros_03</item>
+        <item>m_swordofsaros_04</item>
+        <item>m_swordofsaros_05</item>
+        <item>m_swordofsaros_06</item>
+        <item>m_swordofsaros_07</item>
+        <item>m_swordofsaros_08</item>
+    </string-array>
+</resources>

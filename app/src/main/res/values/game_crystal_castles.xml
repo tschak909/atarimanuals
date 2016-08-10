@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_crystal_castles">CRYSTAL CASTLES</string>
+    <string-array name="manual_crystal_castles">
+        <item>m_crystalcastles_01</item>
+        <item>m_crystalcastles_02</item>
+        <item>m_crystalcastles_03</item>
+        <item>m_crystalcastles_04</item>
+    </string-array>
+</resources>

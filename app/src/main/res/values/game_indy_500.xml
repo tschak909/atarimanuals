@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_indy_500">INDY 500</string>
+    <string-array name="manual_indy_500">
+        <item>m_indy500_01</item>
+        <item>m_indy500_02</item>
+        <item>m_indy500_03</item>
+        <item>m_indy500_04</item>
+        <item>m_indy500_05</item>
+        <item>m_indy500_06</item>
+        <item>m_indy500_07</item>
+        <item>m_indy500_08</item>
+    </string-array>
+</resources>

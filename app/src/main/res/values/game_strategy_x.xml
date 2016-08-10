@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_strategy_x">STRATEGY X</string>
+    <string-array name="manual_strategy_x">
+        <item>m_strategyx_01</item>
+        <item>m_strategyx_02</item>
+        <item>m_strategyx_03</item>
+        <item>m_strategyx_04</item>
+        <item>m_strategyx_05</item>
+        <item>m_strategyx_06</item>
+        <item>m_strategyx_07</item>
+        <item>m_strategyx_08</item>
+    </string-array>
+</resources>

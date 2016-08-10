@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_swordquest_earthworld">SWORDQUEST: EARTHWORLD</string>
+    <string-array name="manual_swordquest_earthworld">
+        <item>m_swordquestearthworld_01</item>
+        <item>m_swordquestearthworld_02</item>
+        <item>m_swordquestearthworld_03</item>
+        <item>m_swordquestearthworld_04</item>
+        <item>m_swordquestearthworld_05</item>
+        <item>m_swordquestearthworld_06</item>
+        <item>m_swordquestearthworld_07</item>
+        <item>m_swordquestearthworld_08</item>
+        <item>m_swordquestearthworld_09</item>
+        <item>m_swordquestearthworld_10</item>
+        <item>m_swordquestearthworld_11</item>
+        <item>m_swordquestearthworld_12</item>
+    </string-array>
+</resources>

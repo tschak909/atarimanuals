@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_miner_2049er_vol_2">MINER 2049er vol. 2</string>
+    <string-array name="manual_miner_2049er_vol_2">
+        <item>m_miner2049ervol2_01</item>
+        <item>m_miner2049ervol2_02</item>
+        <item>m_miner2049ervol2_03</item>
+        <item>m_miner2049ervol2_04</item>
+        <item>m_miner2049ervol2_05</item>
+        <item>m_miner2049ervol2_06</item>
+    </string-array>
+</resources>

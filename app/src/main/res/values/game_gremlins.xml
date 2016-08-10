@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_gremlins">GREMLINS</string>
+    <string-array name="manual_gremlins">
+        <item>m_gremlins_01</item>
+        <item>m_gremlins_02</item>
+        <item>m_gremlins_03</item>
+        <item>m_gremlins_04</item>
+    </string-array>
+
+</resources>

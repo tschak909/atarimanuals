@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_air_sea_battle">AIR-SEA BATTLE</string>
+    <string-array name="manual_air_sea_battle">
+        <item>m_airseabattle_01</item>
+        <item>m_airseabattle_02</item>
+        <item>m_airseabattle_03</item>
+        <item>m_airseabattle_04</item>
+        <item>m_airseabattle_05</item>
+        <item>m_airseabattle_06</item>
+        <item>m_airseabattle_07</item>
+        <item>m_airseabattle_08</item>
+        <item>m_airseabattle_09</item>
+        <item>m_airseabattle_10</item>
+        <item>m_airseabattle_11</item>
+        <item>m_airseabattle_12</item>
+    </string-array>
+</resources>

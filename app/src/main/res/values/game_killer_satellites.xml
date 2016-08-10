@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_killer_satellites">KILLER SATELLITES</string>
+    <string-array name="manual_killer_satellites">
+        <item>m_killersatellites_01</item>
+        <item>m_killersatellites_02</item>
+        <item>m_killersatellites_03</item>
+        <item>m_killersatellites_04</item>
+        <item>m_killersatellites_05</item>
+        <item>m_killersatellites_06</item>
+        <item>m_killersatellites_07</item>
+        <item>m_killersatellites_08</item>
+        <item>m_killersatellites_09</item>
+    </string-array>
+</resources>

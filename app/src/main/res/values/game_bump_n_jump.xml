@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_bump_n_jump">BUMP n Jump</string>
+    <string-array name="manual_bump_n_jump">
+        <item>m_bumpnjump_01</item>
+        <item>m_bumpnjump_02</item>
+        <item>m_bumpnjump_03</item>
+        <item>m_bumpnjump_04</item>
+        <item>m_bumpnjump_05</item>
+        <item>m_bumpnjump_06</item>
+        <item>m_bumpnjump_07</item>
+        <item>m_bumpnjump_08</item>
+    </string-array>
+</resources>

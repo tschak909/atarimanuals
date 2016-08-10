@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_montezumas_revenge">MONTEZUMAS REVENGE</string>
+    <string-array name="manual_montezumas_revenge">
+        <item>m_montezuma_01</item>
+        <item>m_montezuma_02</item>
+        <item>m_montezuma_03</item>
+        <item>m_montezuma_04</item>
+        <item>m_montezuma_05</item>
+        <item>m_montezuma_06</item>
+        <item>m_montezuma_07</item>
+        <item>m_montezuma_08</item>
+    </string-array>
+</resources>

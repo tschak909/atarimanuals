@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_survival_run">SURVIVAL RUN</string>
+    <string-array name="manual_survival_run">
+        <item>m_survivalrun_01</item>
+        <item>m_survivalrun_02</item>
+        <item>m_survivalrun_03</item>
+        <item>m_survivalrun_04</item>
+        <item>m_survivalrun_05</item>
+        <item>m_survivalrun_06</item>
+        <item>m_survivalrun_07</item>
+        <item>m_survivalrun_08</item>
+        <item>m_survivalrun_09</item>
+        <item>m_survivalrun_10</item>
+        <item>m_survivalrun_11</item>
+        <item>m_survivalrun_12</item>
+    </string-array>
+</resources>

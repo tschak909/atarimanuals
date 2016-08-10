@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_blueprint">BLUEPRINT</string>
+    <string-array name="manual_blueprint">
+        <item>m_blueprint_01</item>
+        <item>m_blueprint_02</item>
+        <item>m_blueprint_03</item>
+        <item>m_blueprint_04</item>
+        <item>m_blueprint_05</item>
+        <item>m_blueprint_06</item>
+        <item>m_blueprint_07</item>
+        <item>m_blueprint_08</item>
+        <item>m_blueprint_09</item>
+        <item>m_blueprint_10</item>
+        <item>m_blueprint_11</item>
+        <item>m_blueprint_12</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_espial">ESPIAL</string>
+    <string-array name="manual_espial">
+        <item>m_espial_01</item>
+        <item>m_espial_02</item>
+        <item>m_espial_03</item>
+        <item>m_espial_04</item>
+        <item>m_espial_05</item>
+        <item>m_espial_06</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_bugs_bunny">BUGS BUNNY</string>
+    <string-array name="manual_bugs_bunny">
+        <item>m_bugsbunny_01</item>
+        <item>m_bugsbunny_02</item>
+        <item>m_bugsbunny_03</item>
+        <item>m_bugsbunny_04</item>
+        <item>m_bugsbunny_05</item>
+        <item>m_bugsbunny_06</item>
+        <item>m_bugsbunny_07</item>
+        <item>m_bugsbunny_08</item>
+    </string-array>
+</resources>

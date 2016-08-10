@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_room_of_doom">ROOM OF DOOM</string>
+    <string-array name="manual_room_of_doom">
+        <item>m_roomofdoom_01</item>
+        <item>m_roomofdoom_02</item>
+        <item>m_roomofdoom_03</item>
+        <item>m_roomofdoom_04</item>
+        <item>m_roomofdoom_05</item>
+        <item>m_roomofdoom_06</item>
+        <item>m_roomofdoom_07</item>
+        <item>m_roomofdoom_08</item>
+        <item>m_roomofdoom_09</item>
+        <item>m_roomofdoom_10</item>
+    </string-array>
+</resources>

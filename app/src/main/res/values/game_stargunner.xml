@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_stargunner">STARGUNNER</string>
+    <string-array name="manual_stargunner">
+        <item>m_stargunner_01</item>
+        <item>m_stargunner_02</item>
+        <item>m_stargunner_03</item>
+        <item>m_stargunner_04</item>
+        <item>m_stargunner_05</item>
+        <item>m_stargunner_06</item>
+        <item>m_stargunner_07</item>
+        <item>m_stargunner_08</item>
+    </string-array>
+</resources>

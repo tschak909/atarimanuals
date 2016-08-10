@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_mash">M*A*S*H</string>
+    <string-array name="manual_mash">
+        <item>m_mash_01</item>
+        <item>m_mash_02</item>
+        <item>m_mash_03</item>
+        <item>m_mash_04</item>
+        <item>m_mash_05</item>
+        <item>m_mash_06</item>
+    </string-array>
+</resources>

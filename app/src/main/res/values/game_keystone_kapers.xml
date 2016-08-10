@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_keystone_kapers">KEYSTONE KAPERS</string>
+    <string-array name="manual_keystone_kapers">
+        <item>m_keystonekapers_01</item>
+        <item>m_keystonekapers_02</item>
+        <item>m_keystonekapers_03</item>
+        <item>m_keystonekapers_04</item>
+        <item>m_keystonekapers_05</item>
+        <item>m_keystonekapers_06</item>
+        <item>m_keystonekapers_07</item>
+        <item>m_keystonekapers_08</item>
+    </string-array>
+</resources>

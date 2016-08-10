@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_gopher">GOPHER</string>
+    <string-array name="manual_gopher">
+        <item>m_gopher_01</item>
+        <item>m_gopher_02</item>
+        <item>m_gopher_03</item>
+        <item>m_gopher_04</item>
+    </string-array>
+
+</resources>

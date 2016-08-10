@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_commando">COMMANDO</string>
+    <string-array name="manual_commando">
+        <item>m_commando_01</item>
+        <item>m_commando_02</item>
+        <item>m_commando_03</item>
+        <item>m_commando_04</item>
+        <item>m_commando_05</item>
+        <item>m_commando_06</item>
+        <item>m_commando_07</item>
+        <item>m_commando_08</item>
+    </string-array>
+</resources>

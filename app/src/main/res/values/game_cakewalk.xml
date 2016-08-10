@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_cakewalk">CAKEWALK</string>
+    <string-array name="manual_cakewalk">
+        <item>m_cakewalk_01</item>
+        <item>m_cakewalk_02</item>
+        <item>m_cakewalk_03</item>
+        <item>m_cakewalk_04</item>
+        <item>m_cakewalk_05</item>
+        <item>m_cakewalk_06</item>
+        <item>m_cakewalk_07</item>
+        <item>m_cakewalk_08</item>
+    </string-array>
+</resources>

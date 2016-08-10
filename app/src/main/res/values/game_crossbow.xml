@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_crossbow">CROSSBOW</string>
+    <string-array name="manual_crossbow">
+        <item>m_crossbow_01</item>
+        <item>m_crossbow_02</item>
+        <item>m_crossbow_03</item>
+        <item>m_crossbow_04</item>
+        <item>m_crossbow_05</item>
+        <item>m_crossbow_06</item>
+    </string-array>
+</resources>

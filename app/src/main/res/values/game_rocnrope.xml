@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_rocnrope">ROC n ROPE</string>
+    <string-array name="manual_rocnrope">
+        <item>m_rocnrope_01</item>
+        <item>m_rocnrope_02</item>
+        <item>m_rocnrope_03</item>
+        <item>m_rocnrope_04</item>
+        <item>m_rocnrope_05</item>
+        <item>m_rocnrope_06</item>
+        <item>m_rocnrope_07</item>
+        <item>m_rocnrope_08</item>
+        <item>m_rocnrope_09</item>
+        <item>m_rocnrope_10</item>
+        <item>m_rocnrope_11</item>
+        <item>m_rocnrope_12</item>
+    </string-array>
+</resources>

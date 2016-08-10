@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_jr_pac_man">JR. PAC-MAN</string>
+    <string-array name="manual_jr_pac_man">
+        <item>m_jrpacman_01</item>
+        <item>m_jrpacman_02</item>
+        <item>m_jrpacman_03</item>
+        <item>m_jrpacman_04</item>
+    </string-array>
+</resources>

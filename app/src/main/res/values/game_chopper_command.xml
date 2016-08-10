@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_chopper_command">CHOPPER COMMAND</string>
+    <string-array name="manual_chopper_command">
+        <item>m_choppercommand_01</item>
+        <item>m_choppercommand_02</item>
+        <item>m_choppercommand_03</item>
+        <item>m_choppercommand_04</item>
+        <item>m_choppercommand_05</item>
+        <item>m_choppercommand_06</item>
+    </string-array>
+</resources>

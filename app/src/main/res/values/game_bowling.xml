@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_bowling">BOWLING</string>
+    <string-array name="manual_bowling">
+        <item>m_bowling_01</item>
+        <item>m_bowling_02</item>
+        <item>m_bowling_03</item>
+        <item>m_bowling_04</item>
+        <item>m_bowling_05</item>
+        <item>m_bowling_06</item>
+        <item>m_bowling_07</item>
+        <item>m_bowling_08</item>
+    </string-array>
+</resources>

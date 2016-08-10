@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_mogul_maniac">MOGUL MANIAC</string>
+    <string-array name="manual_mogul_maniac">
+        <item>m_mogulmaniac_01</item>
+        <item>m_mogulmaniac_02</item>
+        <item>m_mogulmaniac_03</item>
+        <item>m_mogulmaniac_04</item>
+        <item>m_mogulmaniac_05</item>
+        <item>m_mogulmaniac_06</item>
+        <item>m_mogulmaniac_07</item>
+        <item>m_mogulmaniac_08</item>
+        <item>m_mogulmaniac_09</item>
+        <item>m_mogulmaniac_10</item>
+    </string-array>
+</resources>

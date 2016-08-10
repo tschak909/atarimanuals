@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_super_football">SUPER FOOTBALL</string>
+    <string-array name="manual_super_football">
+        <item>m_superfootball_01</item>
+        <item>m_superfootball_02</item>
+        <item>m_superfootball_03</item>
+        <item>m_superfootball_04</item>
+        <item>m_superfootball_05</item>
+        <item>m_superfootball_06</item>
+        <item>m_superfootball_07</item>
+        <item>m_superfootball_08</item>
+        <item>m_superfootball_09</item>
+        <item>m_superfootball_10</item>
+        <item>m_superfootball_11</item>
+        <item>m_superfootball_12</item>
+        <item>m_superfootball_13</item>
+        <item>m_superfootball_14</item>
+        <item>m_superfootball_15</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_submarine_commander">SUBMARINE COMMANDER</string>
+    <string-array name="manual_submarine_commander">
+        <item>m_submarinecommander_01</item>
+        <item>m_submarinecommander_02</item>
+        <item>m_submarinecommander_03</item>
+        <item>m_submarinecommander_04</item>
+        <item>m_submarinecommander_05</item>
+        <item>m_submarinecommander_06</item>
+        <item>m_submarinecommander_07</item>
+        <item>m_submarinecommander_08</item>
+        <item>m_submarinecommander_09</item>
+        <item>m_submarinecommander_10</item>
+        <item>m_submarinecommander_11</item>
+        <item>m_submarinecommander_12</item>
+    </string-array>
+</resources>

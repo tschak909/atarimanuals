@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_official_frogger">OFFICIAL_FROGGER</string>
+    <string-array name="manual_official_frogger">
+        <item>m_officialfrogger_01</item>
+        <item>m_officialfrogger_02</item>
+        <item>m_officialfrogger_03</item>
+        <item>m_officialfrogger_04</item>
+        <item>m_officialfrogger_05</item>
+        <item>m_officialfrogger_06</item>
+        <item>m_officialfrogger_07</item>
+        <item>m_officialfrogger_08</item>
+        <item>m_officialfrogger_09</item>
+        <item>m_officialfrogger_10</item>
+    </string-array>
+</resources>

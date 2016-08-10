@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_human_cannonball">HUMAN CANNONBALL</string>
+    <string-array name="manual_human_cannonball">
+        <item>m_humancannonball_01</item>
+        <item>m_humancannonball_02</item>
+        <item>m_humancannonball_03</item>
+        <item>m_humancannonball_04</item>
+        <item>m_humancannonball_05</item>
+        <item>m_humancannonball_06</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_home_run">HOME RUN</string>
+    <string-array name="manual_home_run">
+        <item>m_homerun_01</item>
+        <item>m_homerun_02</item>
+        <item>m_homerun_03</item>
+        <item>m_homerun_04</item>
+    </string-array>
+
+</resources>

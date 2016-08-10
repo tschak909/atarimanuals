@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_donkey_kong">DONKEY KONG</string>
+    <string-array name="manual_donkey_kong">
+        <item>m_donkeykong_01</item>
+        <item>m_donkeykong_02</item>
+        <item>m_donkeykong_03</item>
+        <item>m_donkeykong_04</item>
+        <item>m_donkeykong_05</item>
+        <item>m_donkeykong_06</item>
+        <item>m_donkeykong_07</item>
+        <item>m_donkeykong_08</item>
+    </string-array>
+</resources>

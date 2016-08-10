@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_karate">KARATE</string>
+    <string-array name="manual_karate">
+        <item>m_karate_01</item>
+        <item>m_karate_02</item>
+        <item>m_karate_03</item>
+        <item>m_karate_04</item>
+    </string-array>
+</resources>

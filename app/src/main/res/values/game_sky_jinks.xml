@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_sky_jinks">SKY JINKS</string>
+    <string-array name="manual_sky_jinks">
+        <item>m_skyjinks_01</item>
+        <item>m_skyjinks_02</item>
+        <item>m_skyjinks_03</item>
+        <item>m_skyjinks_04</item>
+        <item>m_skyjinks_05</item>
+        <item>m_skyjinks_06</item>
+    </string-array>
+</resources>

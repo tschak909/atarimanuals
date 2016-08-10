@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_bmx_air_master">BMX AIR MASTER</string>
+    <string-array name="manual_bmx_air_master">
+        <item>m_bmxairmaster_01</item>
+        <item>m_bmxairmaster_02</item>
+        <item>m_bmxairmaster_03</item>
+        <item>m_bmxairmaster_04</item>
+        <item>m_bmxairmaster_05</item>
+        <item>m_bmxairmaster_06</item>
+        <item>m_bmxairmaster_07</item>
+        <item>m_bmxairmaster_08</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_congo_bongo">CONGO BONGO</string>
+    <string-array name="manual_congo_bongo">
+        <item>m_congobongo_01</item>
+        <item>m_congobongo_02</item>
+        <item>m_congobongo_03</item>
+        <item>m_congobongo_04</item>
+        <item>m_congobongo_05</item>
+        <item>m_congobongo_06</item>
+        <item>m_congobongo_07</item>
+        <item>m_congobongo_08</item>
+    </string-array>
+</resources>

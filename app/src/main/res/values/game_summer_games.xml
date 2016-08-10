@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_summer_games">SUMMER GAMES</string>
+    <string-array name="manual_summer_games">
+        <item>m_summergames_01</item>
+        <item>m_summergames_02</item>
+        <item>m_summergames_03</item>
+        <item>m_summergames_04</item>
+        <item>m_summergames_05</item>
+        <item>m_summergames_06</item>
+        <item>m_summergames_07</item>
+        <item>m_summergames_08</item>
+    </string-array>
+</resources>

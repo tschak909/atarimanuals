@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_video_olympics">VIDEO OLYMPICS</string>
+    <string-array name="manual_video_olympics">
+        <item>m_videoolympics_01</item>
+        <item>m_videoolympics_02</item>
+        <item>m_videoolympics_03</item>
+        <item>m_videoolympics_04</item>
+        <item>m_videoolympics_05</item>
+        <item>m_videoolympics_06</item>
+        <item>m_videoolympics_07</item>
+        <item>m_videoolympics_08</item>
+        <item>m_videoolympics_09</item>
+        <item>m_videoolympics_10</item>
+        <item>m_videoolympics_11</item>
+        <item>m_videoolympics_12</item>
+        <item>m_videoolympics_13</item>
+        <item>m_videoolympics_14</item>
+        <item>m_videoolympics_15</item>
+        <item>m_videoolympics_16</item>
+    </string-array>
+</resources>

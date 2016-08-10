@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_rescue_terra_1">RESCUE TERRA I</string>
+    <string-array name="manual_rescue_terra_1">
+        <item>m_rescueterra1_01</item>
+        <item>m_rescueterra1_02</item>
+        <item>m_rescueterra1_03</item>
+        <item>m_rescueterra1_04</item>
+        <item>m_rescueterra1_05</item>
+        <item>m_rescueterra1_06</item>
+        <item>m_rescueterra1_07</item>
+        <item>m_rescueterra1_08</item>
+        <item>m_rescueterra1_09</item>
+    </string-array>
+</resources>

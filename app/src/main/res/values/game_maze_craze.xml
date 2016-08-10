@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_maze_craze">MAZE CRAZE</string>
+    <string-array name="manual_maze_craze">
+        <item>m_mazecraze_01</item>
+        <item>m_mazecraze_02</item>
+        <item>m_mazecraze_03</item>
+        <item>m_mazecraze_04</item>
+        <item>m_mazecraze_05</item>
+        <item>m_mazecraze_06</item>
+        <item>m_mazecraze_07</item>
+        <item>m_mazecraze_08</item>
+    </string-array>
+</resources>

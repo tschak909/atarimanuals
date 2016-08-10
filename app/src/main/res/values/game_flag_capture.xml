@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="title_flag_capture">FLAG CAPTURE</string>
+    <string-array name="manual_flag_capture">
+        <item>m_flagcapture_01</item>
+        <item>m_flagcapture_02</item>
+        <item>m_flagcapture_03</item>
+        <item>m_flagcapture_04</item>
+        <item>m_flagcapture_05</item>
+        <item>m_flagcapture_06</item>
+        <item>m_flagcapture_07</item>
+        <item>m_flagcapture_08</item>
+    </string-array>
+</resources>

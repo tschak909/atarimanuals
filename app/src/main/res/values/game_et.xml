@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_et">E.T.</string>
+    <string-array name="manual_et">
+        <item>m_et_01</item>
+        <item>m_et_02</item>
+        <item>m_et_03</item>
+        <item>m_et_04</item>
+        <item>m_et_05</item>
+        <item>m_et_06</item>
+        <item>m_et_07</item>
+        <item>m_et_08</item>
+        <item>m_et_09</item>
+        <item>m_et_10</item>
+        <item>m_et_11</item>
+        <item>m_et_12</item>
+    </string-array>
+</resources>

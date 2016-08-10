@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_airlock">AIRLOCK</string>
+    <string-array name="manual_airlock">
+        <item>m_airlock_01</item>
+        <item>m_airlock_02</item>
+        <item>m_airlock_03</item>
+        <item>m_airlock_04</item>
+        <item>m_airlock_05</item>
+        <item>m_airlock_06</item>
+    </string-array>
+</resources>

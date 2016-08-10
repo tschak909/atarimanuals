@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_asterix">ASTERIX</string>
+    <string-array name="manual_asterix">
+        <item>m_asterix_01</item>
+        <item>m_asterix_02</item>
+        <item>m_asterix_03</item>
+        <item>m_asterix_04</item>
+        <item>m_asterix_05</item>
+        <item>m_asterix_06</item>
+        <item>m_asterix_07</item>
+        <item>m_asterix_08</item>
+        <item>m_asterix_09</item>
+        <item>m_asterix_10</item>
+        <item>m_asterix_11</item>
+        <item>m_asterix_12</item>
+    </string-array>
+</resources>

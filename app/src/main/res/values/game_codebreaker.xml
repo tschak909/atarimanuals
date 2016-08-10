@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_codebreaker">CODEBREAKER</string>
+    <string-array name="manual_codebreaker">
+        <item>m_codebreaker_01</item>
+        <item>m_codebreaker_02</item>
+        <item>m_codebreaker_03</item>
+        <item>m_codebreaker_04</item>
+        <item>m_codebreaker_05</item>
+        <item>m_codebreaker_06</item>
+        <item>m_codebreaker_07</item>
+        <item>m_codebreaker_08</item>
+        <item>m_codebreaker_09</item>
+        <item>m_codebreaker_10</item>
+        <item>m_codebreaker_11</item>
+        <item>m_codebreaker_12</item>
+    </string-array>
+</resources>

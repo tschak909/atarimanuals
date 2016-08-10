@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_gi_joe_cobra_strike">GI JOE: COBRA STRIKE</string>
+    <string-array name="manual_gi_joe_cobra_strike">
+        <item>m_gijoecobrastrike_01</item>
+        <item>m_gijoecobrastrike_02</item>
+        <item>m_gijoecobrastrike_03</item>
+        <item>m_gijoecobrastrike_04</item>
+        <item>m_gijoecobrastrike_05</item>
+        <item>m_gijoecobrastrike_06</item>
+        <item>m_gijoecobrastrike_07</item>
+        <item>m_gijoecobrastrike_08</item>
+        <item>m_gijoecobrastrike_09</item>
+        <item>m_gijoecobrastrike_10</item>
+        <item>m_gijoecobrastrike_11</item>
+        <item>m_gijoecobrastrike_12</item>
+        <item>m_gijoecobrastrike_13</item>
+        <item>m_gijoecobrastrike_14</item>
+        <item>m_gijoecobrastrike_15</item>
+    </string-array>
+
+</resources>

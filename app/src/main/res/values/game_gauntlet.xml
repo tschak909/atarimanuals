@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_gauntlet">GAUNTLET</string>
+    <string-array name="manual_gauntlet">
+        <item>m_gauntlet_01</item>
+        <item>m_gauntlet_02</item>
+        <item>m_gauntlet_03</item>
+        <item>m_gauntlet_04</item>
+    </string-array>
+
+</resources>

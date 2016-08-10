@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_jungle_hunt">JUNGLE HUNT</string>
+    <string-array name="manual_jungle_hunt">
+        <item>m_junglehunt_01</item>
+        <item>m_junglehunt_02</item>
+        <item>m_junglehunt_03</item>
+        <item>m_junglehunt_04</item>
+        <item>m_junglehunt_05</item>
+        <item>m_junglehunt_06</item>
+        <item>m_junglehunt_07</item>
+        <item>m_junglehunt_08</item>
+        <item>m_junglehunt_09</item>
+        <item>m_junglehunt_10</item>
+        <item>m_junglehunt_11</item>
+        <item>m_junglehunt_12</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_squeeze_box">SQUEEZE BOX</string>
+    <string-array name="manual_squeeze_box">
+        <item>m_squeezebox_01</item>
+        <item>m_squeezebox_02</item>
+        <item>m_squeezebox_03</item>
+        <item>m_squeezebox_04</item>
+    </string-array>
+</resources>

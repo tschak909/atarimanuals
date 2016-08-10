@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_omega_race">OMEGA RACE</string>
+    <string-array name="manual_omega_race">
+        <item>m_omegarace_01</item>
+        <item>m_omegarace_02</item>
+        <item>m_omegarace_03</item>
+        <item>m_omegarace_04</item>
+        <item>m_omegarace_05</item>
+        <item>m_omegarace_06</item>
+        <item>m_omegarace_07</item>
+        <item>m_omegarace_08</item>
+        <item>m_omegarace_09</item>
+        <item>m_omegarace_10</item>
+        <item>m_omegarace_11</item>
+        <item>m_omegarace_12</item>
+        <item>m_omegarace_13</item>
+        <item>m_omegarace_14</item>
+    </string-array>
+</resources>

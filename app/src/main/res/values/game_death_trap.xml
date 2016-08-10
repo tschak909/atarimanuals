@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_death_trap">DEATH TRAP</string>
+    <string-array name="manual_death_trap">
+        <item>m_deathtrap_01</item>
+        <item>m_deathtrap_02</item>
+        <item>m_deathtrap_03</item>
+        <item>m_deathtrap_04</item>
+        <item>m_deathtrap_05</item>
+        <item>m_deathtrap_06</item>
+        <item>m_deathtrap_07</item>
+        <item>m_deathtrap_08</item>
+        <item>m_deathtrap_09</item>
+        <item>m_deathtrap_10</item>
+        <item>m_deathtrap_11</item>
+        <item>m_deathtrap_12</item>
+    </string-array>
+</resources>

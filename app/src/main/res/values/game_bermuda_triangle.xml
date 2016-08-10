@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_bermuda_triangle">BERMUDA TRIANGLE</string>
+    <string-array name="manual_bermuda_triangle">
+        <item>m_bermudatriangle_01</item>
+        <item>m_bermudatriangle_02</item>
+        <item>m_bermudatriangle_03</item>
+        <item>m_bermudatriangle_04</item>
+        <item>m_bermudatriangle_05</item>
+        <item>m_bermudatriangle_06</item>
+        <item>m_bermudatriangle_07</item>
+        <item>m_bermudatriangle_08</item>
+    </string-array>
+</resources>

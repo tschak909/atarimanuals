@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_spy_hunter">SPY HUNTER</string>
+    <string-array name="manual_spy_hunter">
+        <item>m_spyhunter_01</item>
+        <item>m_spyhunter_02</item>
+        <item>m_spyhunter_03</item>
+        <item>m_spyhunter_04</item>
+        <item>m_spyhunter_05</item>
+        <item>m_spyhunter_06</item>
+        <item>m_spyhunter_07</item>
+        <item>m_spyhunter_08</item>
+    </string-array>
+</resources>

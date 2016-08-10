@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_smurfs_save_the_day">SMURFS SAVE THE DAY</string>
+    <string-array name="manual_smurfs_save_the_day">
+        <item>m_smurfssavetheday_01</item>
+        <item>m_smurfssavetheday_02</item>
+        <item>m_smurfssavetheday_03</item>
+        <item>m_smurfssavetheday_04</item>
+        <item>m_smurfssavetheday_05</item>
+        <item>m_smurfssavetheday_06</item>
+        <item>m_smurfssavetheday_07</item>
+        <item>m_smurfssavetheday_08</item>
+        <item>m_smurfssavetheday_09</item>
+        <item>m_smurfssavetheday_10</item>
+        <item>m_smurfssavetheday_11</item>
+        <item>m_smurfssavetheday_12</item>
+        <item>m_smurfssavetheday_13</item>
+        <item>m_smurfssavetheday_14</item>
+        <item>m_smurfssavetheday_15</item>
+        <item>m_smurfssavetheday_16</item>
+    </string-array>
+</resources>

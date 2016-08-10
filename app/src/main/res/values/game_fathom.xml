@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_fathom">FATHOM</string>
+    <string-array name="manual_fathom">
+        <item>m_fathom_01</item>
+        <item>m_fathom_02</item>
+        <item>m_fathom_03</item>
+        <item>m_fathom_04</item>
+        <item>m_fathom_05</item>
+        <item>m_fathom_06</item>
+        <item>m_fathom_07</item>
+        <item>m_fathom_08</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_riddle_of_the_sphinx">RIDDLE OF THE SPHINX</string>
+    <string-array name="manual_riddle_of_the_sphinx">
+        <item>m_riddleofthesphinx_01</item>
+        <item>m_riddleofthesphinx_02</item>
+        <item>m_riddleofthesphinx_03</item>
+        <item>m_riddleofthesphinx_04</item>
+        <item>m_riddleofthesphinx_05</item>
+        <item>m_riddleofthesphinx_06</item>
+        <item>m_riddleofthesphinx_07</item>
+        <item>m_riddleofthesphinx_08</item>
+        <item>m_riddleofthesphinx_09</item>
+        <item>m_riddleofthesphinx_10</item>
+        <item>m_riddleofthesphinx_11</item>
+        <item>m_riddleofthesphinx_12</item>
+        <item>m_riddleofthesphinx_13</item>
+        <item>m_riddleofthesphinx_14</item>
+        <item>m_riddleofthesphinx_15</item>
+        <item>m_riddleofthesphinx_16</item>
+        <item>m_riddleofthesphinx_17</item>
+        <item>m_riddleofthesphinx_18</item>
+    </string-array>
+</resources>

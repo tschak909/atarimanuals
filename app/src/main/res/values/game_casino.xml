@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_casino">CASINO</string>
+    <string-array name="manual_casino">
+        <item>m_casino_01</item>
+        <item>m_casino_02</item>
+        <item>m_casino_03</item>
+        <item>m_casino_04</item>
+        <item>m_casino_05</item>
+        <item>m_casino_06</item>
+        <item>m_casino_07</item>
+        <item>m_casino_08</item>
+        <item>m_casino_09</item>
+        <item>m_casino_10</item>
+        <item>m_casino_11</item>
+        <item>m_casino_12</item>
+    </string-array>
+</resources>

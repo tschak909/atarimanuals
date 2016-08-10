@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_canyon_bomber">CANYON BOMBER</string>
+    <string-array name="manual_canyon_bomber">
+        <item>m_canyonbomber_01</item>
+        <item>m_canyonbomber_02</item>
+        <item>m_canyonbomber_03</item>
+        <item>m_canyonbomber_04</item>
+        <item>m_canyonbomber_05</item>
+        <item>m_canyonbomber_06</item>
+        <item>m_canyonbomber_07</item>
+        <item>m_canyonbomber_08</item>
+    </string-array>
+</resources>

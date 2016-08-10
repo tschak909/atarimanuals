@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_blackjack">BLACKJACK</string>
+    <string-array name="manual_blackjack">
+        <item>m_blackjack_01</item>
+        <item>m_blackjack_02</item>
+        <item>m_blackjack_03</item>
+        <item>m_blackjack_04</item>
+        <item>m_blackjack_05</item>
+        <item>m_blackjack_06</item>
+        <item>m_blackjack_07</item>
+        <item>m_blackjack_08</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_reactor">REACTOR</string>
+    <string-array name="manual_reactor">
+        <item>m_reactor_01</item>
+        <item>m_reactor_02</item>
+        <item>m_reactor_03</item>
+        <item>m_reactor_04</item>
+        <item>m_reactor_05</item>
+        <item>m_reactor_06</item>
+        <item>m_reactor_07</item>
+        <item>m_reactor_08</item>
+        <item>m_reactor_09</item>
+        <item>m_reactor_10</item>
+        <item>m_reactor_11</item>
+        <item>m_reactor_12</item>
+        <item>m_reactor_13</item>
+        <item>m_reactor_14</item>
+        <item>m_reactor_15</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_brain_games">BRAIN GAMES</string>
+    <string-array name="manual_brain_games">
+        <item>m_braingames_01</item>
+        <item>m_braingames_02</item>
+        <item>m_braingames_03</item>
+        <item>m_braingames_04</item>
+        <item>m_braingames_05</item>
+        <item>m_braingames_06</item>
+        <item>m_braingames_07</item>
+        <item>m_braingames_08</item>
+        <item>m_braingames_09</item>
+        <item>m_braingames_10</item>
+        <item>m_braingames_11</item>
+        <item>m_braingames_12</item>
+    </string-array>
+</resources>

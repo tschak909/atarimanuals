@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_solar_storm">SOLAR STORM</string>
+    <string-array name="manual_solar_storm">
+        <item>m_solarstorm_01</item>
+        <item>m_solarstorm_02</item>
+        <item>m_solarstorm_03</item>
+        <item>m_solarstorm_04</item>
+        <item>m_solarstorm_05</item>
+        <item>m_solarstorm_06</item>
+        <item>m_solarstorm_07</item>
+        <item>m_solarstorm_08</item>
+    </string-array>
+</resources>

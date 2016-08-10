@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_gorf">GORF</string>
+    <string-array name="manual_gorf">
+        <item>m_gorf_01</item>
+        <item>m_gorf_02</item>
+        <item>m_gorf_03</item>
+        <item>m_gorf_04</item>
+        <item>m_gorf_05</item>
+        <item>m_gorf_06</item>
+        <item>m_gorf_07</item>
+        <item>m_gorf_08</item>
+        <item>m_gorf_09</item>
+        <item>m_gorf_10</item>
+        <item>m_gorf_11</item>
+        <item>m_gorf_12</item>
+    </string-array>
+</resources>

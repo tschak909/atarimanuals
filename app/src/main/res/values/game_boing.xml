@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_boing">BOING</string>
+    <string-array name="manual_boing">
+        <item>m_boing_01</item>
+        <item>m_boing_02</item>
+        <item>m_boing_03</item>
+        <item>m_boing_04</item>
+    </string-array>
+</resources>

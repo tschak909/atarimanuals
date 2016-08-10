@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_realsports_football">REALSPORTS FOOTBALL</string>
+    <string-array name="manual_realsports_football">
+        <item>m_rsfootball_01</item>
+        <item>m_rsfootball_02</item>
+        <item>m_rsfootball_03</item>
+        <item>m_rsfootball_04</item>
+        <item>m_rsfootball_05</item>
+        <item>m_rsfootball_06</item>
+        <item>m_rsfootball_07</item>
+        <item>m_rsfootball_08</item>
+        <item>m_rsfootball_09</item>
+        <item>m_rsfootball_10</item>
+        <item>m_rsfootball_11</item>
+        <item>m_rsfootball_12</item>
+    </string-array>
+</resources>

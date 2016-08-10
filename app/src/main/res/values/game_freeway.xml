@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_freeway">FREEWAY</string>
+    <string-array name="manual_freeway">
+        <item>m_freeway_01</item>
+        <item>m_freeway_02</item>
+        <item>m_freeway_03</item>
+        <item>m_freeway_04</item>
+        <item>m_freeway_05</item>
+        <item>m_freeway_06</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_artillery_duel">ARTILLERY DUEL</string>
+    <string-array name="manual_artillery_duel">
+        <item>m_artilleryduel_01</item>
+        <item>m_artilleryduel_02</item>
+        <item>m_artilleryduel_03</item>
+        <item>m_artilleryduel_04</item>
+        <item>m_artilleryduel_05</item>
+        <item>m_artilleryduel_06</item>
+        <item>m_artilleryduel_07</item>
+        <item>m_artilleryduel_08</item>
+    </string-array>
+</resources>

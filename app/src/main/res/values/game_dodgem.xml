@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_dodgem">DODG-EM</string>
+    <string-array name="manual_dodgem">
+        <item>m_dodgem_01</item>
+        <item>m_dodgem_02</item>
+        <item>m_dodgem_03</item>
+        <item>m_dodgem_04</item>
+        <item>m_dodgem_05</item>
+        <item>m_dodgem_06</item>
+    </string-array>
+</resources>

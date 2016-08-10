@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_boxing">BOXING</string>
+    <string-array name="manual_boxing">
+        <item>m_boxing_01</item>
+        <item>m_boxing_02</item>
+        <item>m_boxing_03</item>
+        <item>m_boxing_04</item>
+    </string-array>
+</resources>

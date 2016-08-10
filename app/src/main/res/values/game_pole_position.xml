@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_pole_position">POLE POSITION</string>
+    <string-array name="manual_pole_position">
+        <item>m_poleposition_01</item>
+        <item>m_poleposition_02</item>
+        <item>m_poleposition_03</item>
+        <item>m_poleposition_04</item>
+        <item>m_poleposition_05</item>
+        <item>m_poleposition_06</item>
+        <item>m_poleposition_07</item>
+        <item>m_poleposition_08</item>
+    </string-array>
+</resources>

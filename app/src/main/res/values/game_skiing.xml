@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_skiing">SKIING</string>
+    <string-array name="manual_skiing">
+        <item>m_skiing_01</item>
+        <item>m_skiing_02</item>
+        <item>m_skiing_03</item>
+        <item>m_skiing_04</item>
+        <item>m_skiing_05</item>
+        <item>m_skiing_06</item>
+    </string-array>
+</resources>

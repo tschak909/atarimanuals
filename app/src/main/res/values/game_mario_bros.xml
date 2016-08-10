@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_mario_bros">MARIO BROS.</string>
+    <string-array name="manual_mario_bros">
+        <item>m_mariobros_01</item>
+        <item>m_mariobros_02</item>
+        <item>m_mariobros_03</item>
+        <item>m_mariobros_04</item>
+        <item>m_mariobros_05</item>
+        <item>m_mariobros_06</item>
+    </string-array>
+</resources>

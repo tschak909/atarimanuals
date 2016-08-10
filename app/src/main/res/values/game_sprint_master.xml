@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_sprint_master">SPRINT MASTER</string>
+    <string-array name="manual_sprint_master">
+        <item>m_sprintmaster_01</item>
+        <item>m_sprintmaster_02</item>
+        <item>m_sprintmaster_03</item>
+        <item>m_sprintmaster_04</item>
+    </string-array>
+</resources>

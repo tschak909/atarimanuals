@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_battlezone">BATTLEZONE</string>
+    <string-array name="manual_battlezone">
+        <item>m_battlezone_01</item>
+        <item>m_battlezone_02</item>
+        <item>m_battlezone_03</item>
+        <item>m_battlezone_04</item>
+        <item>m_battlezone_05</item>
+        <item>m_battlezone_06</item>
+        <item>m_battlezone_07</item>
+        <item>m_battlezone_08</item>
+        <item>m_battlezone_09</item>
+        <item>m_battlezone_10</item>
+        <item>m_battlezone_11</item>
+        <item>m_battlezone_12</item>
+        <item>m_battlezone_13</item>
+        <item>m_battlezone_14</item>
+        <item>m_battlezone_15</item>
+        <item>m_battlezone_16</item>
+    </string-array>
+</resources>

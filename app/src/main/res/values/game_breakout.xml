@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_breakout">BREAKOUT</string>
+    <string-array name="manual_breakout">
+        <item>m_breakout_01</item>
+        <item>m_breakout_02</item>
+        <item>m_breakout_03</item>
+        <item>m_breakout_04</item>
+        <item>m_breakout_05</item>
+        <item>m_breakout_06</item>
+        <item>m_breakout_07</item>
+        <item>m_breakout_08</item>
+        <item>m_breakout_09</item>
+        <item>m_breakout_10</item>
+        <item>m_breakout_11</item>
+        <item>m_breakout_12</item>
+    </string-array>
+</resources>

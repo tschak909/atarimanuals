@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_night_driver">NIGHT DRIVER</string>
+    <string-array name="manual_night_driver">
+        <item>m_nightdriver_01</item>
+        <item>m_nightdriver_02</item>
+        <item>m_nightdriver_03</item>
+        <item>m_nightdriver_04</item>
+        <item>m_nightdriver_05</item>
+        <item>m_nightdriver_06</item>
+    </string-array>
+</resources>
