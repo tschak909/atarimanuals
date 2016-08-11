@@ -11,10 +11,13 @@ import android.support.v7.widget.Toolbar;
 
 import android.os.Bundle;
 import android.os.Handler;
+import android.text.Editable;
+import android.text.TextWatcher;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.Toast;
 
@@ -31,6 +34,7 @@ public class FullscreenActivity extends AppCompatActivity {
     private ArrayList<String> imagePaths;
     private String[] gameList;
     private ListView drawerListView;
+    private EditText inputSearch;
 
     /**
      * Whether or not the system UI should be auto-hidden after
@@ -100,6 +104,7 @@ public class FullscreenActivity extends AppCompatActivity {
         }
     };
     private android.view.View drawerListHeaderView;
+    private GameListViewAdapter drawerAdapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -121,9 +126,36 @@ public class FullscreenActivity extends AppCompatActivity {
 
         gameList = getResources().getStringArray(R.array.game_list);
         drawerListView = (ListView) findViewById(R.id.left_drawer);
-        drawerListView.setAdapter(new GameListViewAdapter(this, gameList));
+        drawerAdapter = new GameListViewAdapter(this, gameList);
+        drawerListView.setAdapter(drawerAdapter);
         drawerListHeaderView = getLayoutInflater().inflate(R.layout.game_title_header, null);
         drawerListView.addHeaderView(drawerListHeaderView,null,false);
+        inputSearch = (EditText) findViewById(R.id.inputSearch);
+        inputSearch.addTextChangedListener(new TextWatcher() {
+
+            @Override
+            public void onTextChanged(CharSequence cs, int arg1, int arg2, int arg3) {
+                // TODO Auto-generated method stub
+                //You should use the adapter in NavigationDrawerFragment
+                drawerAdapter.getFilter().filter(cs);
+
+            }
+
+            @Override
+            public void beforeTextChanged(CharSequence arg0, int arg1, int arg2,
+                                          int arg3) {
+                // TODO Auto-generated method stub
+
+            }
+
+            @Override
+            public void afterTextChanged(Editable arg0) {
+                // TODO Auto-generated method stub
+
+            }
+        });
+
+
 
         // FIXME: temporary
         final String firstItem = (String) "manual_".concat((String)drawerListView.getItemAtPosition(1));

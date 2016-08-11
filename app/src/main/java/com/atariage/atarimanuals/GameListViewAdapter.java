@@ -3,26 +3,34 @@ package com.atariage.atarimanuals;
 import android.app.Activity;
 import android.graphics.Paint;
 import android.graphics.Rect;
+import android.support.annotation.NonNull;
 import android.util.Log;
 import android.util.TypedValue;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
+import android.widget.Filter;
+import android.widget.Filterable;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import java.util.ArrayList;
+import java.util.Arrays;
 
 /**
  * Created by tschak on 7/31/2016.
  */
-public class GameListViewAdapter extends BaseAdapter {
+public class GameListViewAdapter extends BaseAdapter implements Filterable {
 
+    private String[] _full_title_graphic_paths;
     private String[] _title_graphic_paths;
     private Activity activity;
     private LayoutInflater inflater;
 
     public GameListViewAdapter(Activity activity, String[] _title_graphic_paths) {
         this.activity = activity;
+        this._full_title_graphic_paths = _title_graphic_paths;
         this._title_graphic_paths = _title_graphic_paths;
         this.inflater = LayoutInflater.from(this.activity);
 
@@ -63,6 +71,48 @@ public class GameListViewAdapter extends BaseAdapter {
         mViewHolder.iv.setText(titleText);
 
         return convertView;
+    }
+
+    @Override
+    public Filter getFilter() {
+        return new Filter() {
+            @SuppressWarnings("unchecked")
+            @Override
+            protected void publishResults(CharSequence constraint, FilterResults results) {
+                _title_graphic_paths = (String[]) results.values;
+                GameListViewAdapter.this.notifyDataSetChanged();
+            }
+
+            @NonNull
+            private String[] getFilteredResults(CharSequence constraint)
+            {
+                String constraint0 = constraint.toString();
+                constraint0 = constraint0.toLowerCase();
+                ArrayList<String> tempResults = new ArrayList<String>(Arrays.asList(_full_title_graphic_paths));
+                ArrayList<String> returnedResults = new ArrayList<String>();
+
+                for (String s:tempResults)
+                {
+                    if (s.contains(constraint0))
+                    {
+                        returnedResults.add(s);
+                    }
+                }
+
+                return returnedResults.toArray(new String[0]);
+
+            }
+
+            @Override
+            protected FilterResults performFiltering(CharSequence constraint) {
+                String[] filteredResults = getFilteredResults(constraint);
+
+                FilterResults results = new FilterResults();
+                results.values = filteredResults;
+
+                return results;
+            }
+        };
     }
 
     private class GameListViewHolder {
