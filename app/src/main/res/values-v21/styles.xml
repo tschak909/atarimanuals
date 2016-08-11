@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.Material.Light.NoActionBar.NoActionBar" parent="android:Theme.Material.NoActionBar">
-        <item name="android:colorAccent">@color/colorAccent</item>
-    </style>
-
-    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:statusBarColor">@color/colorAccent</item>
-    </style>
+        <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+                <!-- Customize your theme here. -->
+                <item name="colorPrimary">@color/colorPrimary</item>
+                <item name="colorPrimaryDark">@color/white</item>
+                <item name="colorAccent">@color/colorAccent</item>
+                <item name="windowActionBar">false</item>
+                <item name="windowNoTitle">true</item>
+                <item name="android:statusBarColor">@color/colorAccent</item>
+                <item name="android:colorForeground">@color/foreground_material_dark</item>
+                <item name="android:colorBackground">@color/white</item>
+        </style>
 </resources>

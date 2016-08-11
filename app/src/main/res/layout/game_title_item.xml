@@ -7,7 +7,7 @@
         android:layout_marginLeft="16dp"
         android:layout_width="match_parent"
         android:layout_height="@dimen/list_item_height"
-        android:ellipsize="none"
+        android:ellipsize="middle"
         android:singleLine="true"
         android:textSize="24sp"
         android:textColor="#fff"/>

@@ -19,6 +19,7 @@
         android:gravity="center"
         android:fitsSystemWindows="true"
         android:keepScreenOn="true"
+        android:onClick="ShowToolbar"
         />
 
 </RelativeLayout>

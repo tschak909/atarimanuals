@@ -137,7 +137,6 @@ public class FullscreenActivity extends AppCompatActivity {
 
             @Override
             public void onTextChanged(CharSequence cs, int arg1, int arg2, int arg3) {
-                // TODO Auto-generated method stub
                 //You should use the adapter in NavigationDrawerFragment
                 drawerAdapter.getFilter().filter(cs);
 
@@ -146,13 +145,11 @@ public class FullscreenActivity extends AppCompatActivity {
             @Override
             public void beforeTextChanged(CharSequence arg0, int arg1, int arg2,
                                           int arg3) {
-                // TODO Auto-generated method stub
 
             }
 
             @Override
             public void afterTextChanged(Editable arg0) {
-                // TODO Auto-generated method stub
 
             }
         });
@@ -181,6 +178,7 @@ public class FullscreenActivity extends AppCompatActivity {
                         view.getWindowToken(),
                         InputMethodManager.HIDE_NOT_ALWAYS);
 
+                hide();
             }
         });
 
@@ -250,5 +248,10 @@ public class FullscreenActivity extends AppCompatActivity {
     private void delayedHide(int delayMillis) {
         mHideHandler.removeCallbacks(mHideRunnable);
         mHideHandler.postDelayed(mHideRunnable, delayMillis);
+    }
+
+    public void ShowToolbar(View v)
+    {
+        toggle();
     }
 }
