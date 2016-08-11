@@ -2,9 +2,11 @@ package com.atariage.atarimanuals;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBar;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -13,14 +15,18 @@ import android.support.v7.widget.Toolbar;
 import android.os.Bundle;
 import android.os.Handler;
 import android.text.Editable;
+import android.text.InputType;
 import android.text.TextWatcher;
 import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.EditText;
 import android.widget.ListView;
+import android.widget.NumberPicker;
 import android.widget.Toast;
 
 import java.util.ArrayList;
@@ -107,6 +113,7 @@ public class FullscreenActivity extends AppCompatActivity {
     };
     private android.view.View drawerListHeaderView;
     private GameListViewAdapter drawerAdapter;
+    private FullScreenImageAdapter pageAdapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -158,13 +165,15 @@ public class FullscreenActivity extends AppCompatActivity {
 
         // FIXME: temporary
         final String firstItem = (String) "manual_".concat((String)drawerListView.getItemAtPosition(1));
-        viewPager.setAdapter(new FullScreenImageAdapter(this, getResources().getStringArray(getResources().getIdentifier(firstItem,"array","com.atariage.atarimanuals"))));
+        pageAdapter = new FullScreenImageAdapter(this, getResources().getStringArray(getResources().getIdentifier(firstItem,"array","com.atariage.atarimanuals")));
+        viewPager.setAdapter(pageAdapter);
 
         drawerListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 String currentItem = (String) "manual_".concat((String)drawerListView.getItemAtPosition(i));
-                viewPager.setAdapter(new FullScreenImageAdapter(FullscreenActivity.this, getResources().getStringArray(getResources().getIdentifier(currentItem,"array","com.atariage.atarimanuals"))));
+                pageAdapter = new FullScreenImageAdapter(FullscreenActivity.this, getResources().getStringArray(getResources().getIdentifier(currentItem,"array","com.atariage.atarimanuals")));
+                viewPager.setAdapter(pageAdapter);
 
                 // Close drawer when selecting an item
                 DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -254,4 +263,52 @@ public class FullscreenActivity extends AppCompatActivity {
     {
         toggle();
     }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.menu_main, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.action_go_to_page:
+                gotoPage();
+                break;
+            default:
+                break;
+        }
+
+        return true;
+    }
+
+    private void gotoPage() {
+
+        AlertDialog.Builder alert = new AlertDialog.Builder(this);
+
+        alert.setTitle("Go to page number");
+
+        // Set an EditText view to get user input
+        final NumberPicker input = new NumberPicker(this);
+        input.setMinValue(1);
+        input.setMaxValue(this.pageAdapter.getCount());
+        alert.setView(input);
+
+        alert.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int whichButton) {
+                viewPager.setCurrentItem(input.getValue()-1,true);
+            }
+        });
+
+        alert.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int whichButton) {
+                // Canceled.
+            }
+        });
+        alert.show();
+
+    }
+
 }

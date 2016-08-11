@@ -8,6 +8,7 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:scaleType="fitCenter"
-        android:onClick="ShowToolbar" />
+        android:onClick="ShowToolbar"
+        android:longClickable="true" />
 
 </RelativeLayout>
