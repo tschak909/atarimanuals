@@ -1,6 +1,7 @@
 package com.atariage.atarimanuals;
 
 import android.annotation.SuppressLint;
+import android.content.Context;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBar;
@@ -16,6 +17,7 @@ import android.text.TextWatcher;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.EditText;
 import android.widget.ListView;
@@ -166,8 +168,19 @@ public class FullscreenActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 String currentItem = (String) "manual_".concat((String)drawerListView.getItemAtPosition(i));
                 viewPager.setAdapter(new FullScreenImageAdapter(FullscreenActivity.this, getResources().getStringArray(getResources().getIdentifier(currentItem,"array","com.atariage.atarimanuals"))));
+
+                // Close drawer when selecting an item
                 DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
                 drawer.closeDrawer(GravityCompat.START);
+
+                // also close the keyboard (if used) when searching for an item.
+                InputMethodManager inputManager =
+                        (InputMethodManager) view.getContext().
+                                getSystemService(Context.INPUT_METHOD_SERVICE);
+                inputManager.hideSoftInputFromWindow(
+                        view.getWindowToken(),
+                        InputMethodManager.HIDE_NOT_ALWAYS);
+
             }
         });
 
