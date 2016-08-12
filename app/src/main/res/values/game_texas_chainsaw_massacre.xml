@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_texas_chainsaw_massacre">TEXAS CHAINSAW MASSACRE</string>
+    <string-array name="manual_texas_chainsaw_massacre">
+        <item>m_texaschainsawmassacre_01</item>
+        <item>m_texaschainsawmassacre_02</item>
+        <item>m_texaschainsawmassacre_03</item>
+        <item>m_texaschainsawmassacre_04</item>
+    </string-array>
+</resources>

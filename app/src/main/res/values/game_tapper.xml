@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_tapper">TAPPER</string>
+    <string-array name="manual_tapper">
+        <item>m_tapper_01</item>
+        <item>m_tapper_02</item>
+        <item>m_tapper_03</item>
+        <item>m_tapper_04</item>
+        <item>m_tapper_05</item>
+        <item>m_tapper_06</item>
+        <item>m_tapper_07</item>
+        <item>m_tapper_08</item>
+    </string-array>
+</resources>

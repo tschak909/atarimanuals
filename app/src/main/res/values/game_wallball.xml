@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_wallball">WALLBALL</string>
+    <string-array name="manual_wallball">
+        <item>m_wallball_01</item>
+        <item>m_wallball_02</item>
+        <item>m_wallball_03</item>
+        <item>m_wallball_04</item>
+        <item>m_wallball_05</item>
+        <item>m_wallball_06</item>
+        <item>m_wallball_07</item>
+        <item>m_wallball_08</item>
+        <item>m_wallball_09</item>
+        <item>m_wallball_10</item>
+        <item>m_wallball_11</item>
+        <item>m_wallball_12</item>
+    </string-array>
+</resources>

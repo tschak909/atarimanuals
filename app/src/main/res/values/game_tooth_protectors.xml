@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_tooth_protectors">TOOTH PROTECTORS</string>
+    <string-array name="manual_tooth_protectors">
+        <item>m_toothprotectors_01</item>
+        <item>m_toothprotectors_02</item>
+        <item>m_toothprotectors_03</item>
+        <item>m_toothprotectors_04</item>
+        <item>m_toothprotectors_05</item>
+    </string-array>
+</resources>

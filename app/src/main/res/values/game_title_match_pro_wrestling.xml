@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_title_match_pro_wrestling">TITLE MATCH PRO WRESTLING</string>
+    <string-array name="manual_title_match_pro_wrestling">
+        <item>m_titlematchprowrestling_01</item>
+        <item>m_titlematchprowrestling_02</item>
+        <item>m_titlematchprowrestling_03</item>
+        <item>m_titlematchprowrestling_04</item>
+        <item>m_titlematchprowrestling_05</item>
+        <item>m_titlematchprowrestling_06</item>
+        <item>m_titlematchprowrestling_07</item>
+        <item>m_titlematchprowrestling_08</item>
+        <item>m_titlematchprowrestling_09</item>
+        <item>m_titlematchprowrestling_10</item>
+        <item>m_titlematchprowrestling_11</item>
+        <item>m_titlematchprowrestling_12</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_towering_inferno">TOWERING INFERNO</string>
+    <string-array name="manual_towering_inferno">
+        <item>m_toweringinferno_01</item>
+        <item>m_toweringinferno_02</item>
+        <item>m_toweringinferno_03</item>
+        <item>m_toweringinferno_04</item>
+        <item>m_toweringinferno_05</item>
+        <item>m_toweringinferno_06</item>
+        <item>m_toweringinferno_07</item>
+        <item>m_toweringinferno_08</item>
+    </string-array>
+</resources>

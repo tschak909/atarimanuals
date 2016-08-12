@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_taz">TAZ</string>
+    <string-array name="manual_taz">
+        <item>m_taz_01</item>
+        <item>m_taz_02</item>
+        <item>m_taz_03</item>
+        <item>m_taz_04</item>
+    </string-array>
+</resources>

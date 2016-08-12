@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_tapeworm">TAPEWORM</string>
+    <string-array name="manual_tapeworm">
+        <item>m_tapeworm_01</item>
+        <item>m_tapeworm_02</item>
+        <item>m_tapeworm_03</item>
+        <item>m_tapeworm_04</item>
+        <item>m_tapeworm_05</item>
+        <item>m_tapeworm_06</item>
+        <item>m_tapeworm_07</item>
+        <item>m_tapeworm_08</item>
+        <item>m_tapeworm_09</item>
+        <item>m_tapeworm_10</item>
+        <item>m_tapeworm_11</item>
+    </string-array>
+</resources>

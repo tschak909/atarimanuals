@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_threshold">THRESHOLD</string>
+    <string-array name="manual_threshold">
+        <item>m_threshold_01</item>
+        <item>m_threshold_02</item>
+        <item>m_threshold_03</item>
+        <item>m_threshold_04</item>
+    </string-array>
+</resources>

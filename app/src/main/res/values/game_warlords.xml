@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_warlords">WARLORDS</string>
+    <string-array name="manual_warlords">
+        <item>m_warlords_01</item>
+        <item>m_warlords_02</item>
+        <item>m_warlords_03</item>
+        <item>m_warlords_04</item>
+        <item>m_warlords_05</item>
+        <item>m_warlords_06</item>
+        <item>m_warlords_07</item>
+        <item>m_warlords_08</item>
+        <item>m_warlords_09</item>
+        <item>m_warlords_10</item>
+        <item>m_warlords_11</item>
+        <item>m_warlords_12</item>
+    </string-array>
+</resources>

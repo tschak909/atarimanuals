@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_time_pilot">TIME PILOT</string>
+    <string-array name="manual_time_pilot">
+        <item>m_timepilot_01</item>
+        <item>m_timepilot_02</item>
+        <item>m_timepilot_03</item>
+        <item>m_timepilot_04</item>
+        <item>m_timepilot_05</item>
+        <item>m_timepilot_06</item>
+        <item>m_timepilot_07</item>
+        <item>m_timepilot_08</item>
+        <item>m_timepilot_09</item>
+        <item>m_timepilot_10</item>
+        <item>m_timepilot_11</item>
+        <item>m_timepilot_12</item>
+    </string-array>
+</resources>

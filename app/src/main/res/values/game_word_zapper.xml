@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_word_zapper">WORD ZAPPER</string>
+    <string-array name="manual_word_zapper">
+        <item>m_wordzapper_01</item>
+        <item>m_wordzapper_02</item>
+        <item>m_wordzapper_03</item>
+        <item>m_wordzapper_04</item>
+        <item>m_wordzapper_05</item>
+        <item>m_wordzapper_06</item>
+    </string-array>
+</resources>

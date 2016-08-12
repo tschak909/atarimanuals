@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_wizard_of_wor">WIZARD OF WOR</string>
+    <string-array name="manual_wizard_of_wor">
+        <item>m_wizardofwor_01</item>
+        <item>m_wizardofwor_02</item>
+        <item>m_wizardofwor_03</item>
+        <item>m_wizardofwor_04</item>
+        <item>m_wizardofwor_05</item>
+        <item>m_wizardofwor_06</item>
+        <item>m_wizardofwor_07</item>
+        <item>m_wizardofwor_08</item>
+        <item>m_wizardofwor_09</item>
+        <item>m_wizardofwor_10</item>
+        <item>m_wizardofwor_11</item>
+        <item>m_wizardofwor_12</item>
+        <item>m_wizardofwor_13</item>
+    </string-array>
+</resources>

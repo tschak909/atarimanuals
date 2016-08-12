@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_track_and_field">TRACK AND FIELD</string>
+    <string-array name="manual_track_and_field">
+        <item>m_trackandfield_01</item>
+        <item>m_trackandfield_02</item>
+        <item>m_trackandfield_03</item>
+        <item>m_trackandfield_04</item>
+        <item>m_trackandfield_05</item>
+        <item>m_trackandfield_06</item>
+    </string-array>
+</resources>

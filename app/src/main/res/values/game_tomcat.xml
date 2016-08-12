@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_tomcat">TOMCAT</string>
+    <string-array name="manual_tomcat">
+        <item>m_tomcat_01</item>
+        <item>m_tomcat_02</item>
+        <item>m_tomcat_03</item>
+        <item>m_tomcat_04</item>
+        <item>m_tomcat_05</item>
+        <item>m_tomcat_06</item>
+        <item>m_tomcat_07</item>
+        <item>m_tomcat_08</item>
+        <item>m_tomcat_09</item>
+        <item>m_tomcat_10</item>
+        <item>m_tomcat_11</item>
+        <item>m_tomcat_12</item>
+    </string-array>
+</resources>

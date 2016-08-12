@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_xenophobe">XENOPHOBE</string>
+    <string-array name="manual_xenophobe">
+        <item>m_xenophobe_01</item>
+        <item>m_xenophobe_02</item>
+        <item>m_xenophobe_03</item>
+        <item>m_xenophobe_04</item>
+        <item>m_xenophobe_05</item>
+        <item>m_xenophobe_06</item>
+        <item>m_xenophobe_07</item>
+        <item>m_xenophobe_08</item>
+        <item>m_xenophobe_09</item>
+        <item>m_xenophobe_10</item>
+        <item>m_xenophobe_11</item>
+        <item>m_xenophobe_12</item>
+    </string-array>
+</resources>

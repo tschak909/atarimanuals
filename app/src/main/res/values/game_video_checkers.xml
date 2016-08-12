@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_video_checkers">VIDEO CHECKERS</string>
+    <string-array name="manual_video_checkers">
+        <item>m_videocheckers_01</item>
+        <item>m_videocheckers_02</item>
+        <item>m_videocheckers_03</item>
+        <item>m_videocheckers_04</item>
+        <item>m_videocheckers_05</item>
+        <item>m_videocheckers_06</item>
+        <item>m_videocheckers_07</item>
+        <item>m_videocheckers_08</item>
+        <item>m_videocheckers_09</item>
+        <item>m_videocheckers_10</item>
+        <item>m_videocheckers_11</item>
+        <item>m_videocheckers_12</item>
+    </string-array>
+</resources>

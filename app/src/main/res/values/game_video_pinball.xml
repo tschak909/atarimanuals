@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_video_pinball">VIDEO PINBALL</string>
+    <string-array name="manual_video_pinball">
+        <item>m_videopinball_01</item>
+        <item>m_videopinball_02</item>
+        <item>m_videopinball_03</item>
+        <item>m_videopinball_04</item>
+        <item>m_videopinball_05</item>
+        <item>m_videopinball_06</item>
+        <item>m_videopinball_07</item>
+        <item>m_videopinball_08</item>
+        <item>m_videopinball_09</item>
+        <item>m_videopinball_10</item>
+        <item>m_videopinball_11</item>
+        <item>m_videopinball_12</item>
+    </string-array>
+</resources>

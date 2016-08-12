@@ -336,6 +336,49 @@
         <item>swordquest_earthworld</item>
         <item>swordquest_fireworld</item>
         <item>swordquest_waterworld</item>
+        <item>tac_scan</item>
+        <item>tanks_but_no_tanks</item>
+        <item>tapeworm</item>
+        <item>tapper</item>
+        <item>taskforce</item>
+        <item>tax_avoiders</item>
+        <item>taz</item>
+        <item>tennis</item>
+        <item>texas_chainsaw_massacre</item>
+        <item>threshold</item>
+        <item>thunderground</item>
+        <item>time_pilot</item>
+        <item>title_match_pro_wrestling</item>
+        <item>tomarc_the_barbarian</item>
+        <item>tomcat</item>
+        <item>tooth_protectors</item>
+        <item>towering_inferno</item>
+        <item>track_and_field</item>
+        <item>trick_shot</item>
+        <item>tron_deadly_discs</item>
+        <item>tunnel_runner</item>
+        <item>turmoil</item>
+        <item>tutankham</item>
+        <item>universal_chaos</item>
+        <item>up_n_down</item>
+        <item>vanguard</item>
+        <item>venetian_blinds</item>
+        <item>venture</item>
+        <item>video_checkers</item>
+        <item>video_chess</item>
+        <item>video_life</item>
         <item>video_olympics</item>
+        <item>video_pinball</item>
+        <item>wabbit</item>
+        <item>warlords</item>
+        <item>warplock</item>
+        <item>winter_games</item>
+        <item>wizard_of_wor</item>
+        <item>word_zapper</item>
+        <item>worm_war_i</item>
+        <item>xenophobe</item>
+        <item>yars_revenge</item>
+        <item>zaxxon</item>
+        <item>z_tack</item>
     </string-array>
 </resources>

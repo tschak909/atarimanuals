@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_yars_revenge">YARS REVENGE</string>
+    <string-array name="manual_yars_revenge">
+        <item>m_yarsrevenge_01</item>
+        <item>m_yarsrevenge_02</item>
+        <item>m_yarsrevenge_03</item>
+        <item>m_yarsrevenge_04</item>
+        <item>m_yarsrevenge_05</item>
+        <item>m_yarsrevenge_06</item>
+        <item>m_yarsrevenge_07</item>
+        <item>m_yarsrevenge_08</item>
+        <item>m_yarsrevenge_09</item>
+        <item>m_yarsrevenge_10</item>
+        <item>m_yarsrevenge_11</item>
+    </string-array>
+</resources>

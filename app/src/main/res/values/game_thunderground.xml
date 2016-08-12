@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_thunderground">THUNDERGROUND</string>
+    <string-array name="manual_thunderground">
+        <item>m_thunderground_01</item>
+        <item>m_thunderground_02</item>
+        <item>m_thunderground_03</item>
+        <item>m_thunderground_04</item>
+        <item>m_thunderground_05</item>
+        <item>m_thunderground_06</item>
+        <item>m_thunderground_07</item>
+        <item>m_thunderground_08</item>
+    </string-array>
+</resources>

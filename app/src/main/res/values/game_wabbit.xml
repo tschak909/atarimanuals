@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_wabbit">WABBIT</string>
+    <string-array name="manual_wabbit">
+        <item>m_wabbit_01</item>
+        <item>m_wabbit_02</item>
+        <item>m_wabbit_03</item>
+        <item>m_wabbit_04</item>
+        <item>m_wabbit_05</item>
+        <item>m_wabbit_06</item>
+    </string-array>
+</resources>

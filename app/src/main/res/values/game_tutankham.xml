@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_tutankham">TUTANKHAM</string>
+    <string-array name="manual_tutankham">
+        <item>m_tutankham_01</item>
+        <item>m_tutankham_02</item>
+        <item>m_tutankham_03</item>
+        <item>m_tutankham_04</item>
+        <item>m_tutankham_05</item>
+        <item>m_tutankham_06</item>
+        <item>m_tutankham_07</item>
+        <item>m_tutankham_08</item>
+        <item>m_tutankham_09</item>
+        <item>m_tutankham_10</item>
+        <item>m_tutankham_11</item>
+        <item>m_tutankham_12</item>
+        <item>m_tutankham_13</item>
+        <item>m_tutankham_14</item>
+        <item>m_tutankham_15</item>
+    </string-array>
+</resources>

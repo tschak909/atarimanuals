@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_z_tack">Z-TACK</string>
+    <string-array name="manual_z_tack">
+        <item>m_ztack_01</item>
+        <item>m_ztack_02</item>
+        <item>m_ztack_03</item>
+        <item>m_ztack_04</item>
+    </string-array>
+</resources>

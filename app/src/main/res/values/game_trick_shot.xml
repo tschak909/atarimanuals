@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_trick_shot">TRICK SHOT</string>
+    <string-array name="manual_trick_shot">
+        <item>m_trickshot_01</item>
+        <item>m_trickshot_02</item>
+        <item>m_trickshot_03</item>
+        <item>m_trickshot_04</item>
+        <item>m_trickshot_05</item>
+        <item>m_trickshot_06</item>
+        <item>m_trickshot_07</item>
+        <item>m_trickshot_08</item>
+        <item>m_trickshot_09</item>
+        <item>m_trickshot_10</item>
+        <item>m_trickshot_11</item>
+        <item>m_trickshot_12</item>
+        <item>m_trickshot_13</item>
+        <item>m_trickshot_14</item>
+        <item>m_trickshot_15</item>
+        <item>m_trickshot_16</item>
+    </string-array>
+</resources>

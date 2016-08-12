@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_winter_games">WINTER GAMES</string>
+    <string-array name="manual_winter_games">
+        <item>m_wintergames_01</item>
+        <item>m_wintergames_02</item>
+        <item>m_wintergames_03</item>
+        <item>m_wintergames_04</item>
+        <item>m_wintergames_05</item>
+        <item>m_wintergames_06</item>
+        <item>m_wintergames_07</item>
+        <item>m_wintergames_08</item>
+    </string-array>
+</resources>

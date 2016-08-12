@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_vanguard">VANGUARD</string>
+    <string-array name="manual_vanguard">
+        <item>m_vanguard_01</item>
+        <item>m_vanguard_02</item>
+        <item>m_vanguard_03</item>
+        <item>m_vanguard_04</item>
+        <item>m_vanguard_05</item>
+        <item>m_vanguard_06</item>
+        <item>m_vanguard_07</item>
+        <item>m_vanguard_08</item>
+        <item>m_vanguard_09</item>
+        <item>m_vanguard_10</item>
+        <item>m_vanguard_11</item>
+        <item>m_vanguard_12</item>
+        <item>m_vanguard_13</item>
+        <item>m_vanguard_14</item>
+        <item>m_vanguard_15</item>
+        <item>m_vanguard_16</item>
+    </string-array>
+</resources>

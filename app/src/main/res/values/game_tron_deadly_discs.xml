@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_tron_deadly_discs">TRON: DEADLY DISCS</string>
+    <string-array name="manual_tron_deadly_discs">
+        <item>m_trondeadlydiscs_01</item>
+        <item>m_trondeadlydiscs_02</item>
+        <item>m_trondeadlydiscs_03</item>
+        <item>m_trondeadlydiscs_04</item>
+        <item>m_trondeadlydiscs_05</item>
+        <item>m_trondeadlydiscs_06</item>
+    </string-array>
+</resources>

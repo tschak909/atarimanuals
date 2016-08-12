@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_taskforce">TASK FORCE</string>
+    <string-array name="manual_taskforce">
+        <item>m_taskforce_01</item>
+        <item>m_taskforce_02</item>
+        <item>m_taskforce_03</item>
+        <item>m_taskforce_04</item>
+    </string-array>
+</resources>

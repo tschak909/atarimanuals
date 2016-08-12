@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_video_life">VIDEO LIFE</string>
+    <string-array name="manual_video_life">
+        <item>m_videolife_01</item>
+        <item>m_videolife_02</item>
+        <item>m_videolife_03</item>
+        <item>m_videolife_04</item>
+        <item>m_videolife_05</item>
+        <item>m_videolife_06</item>
+        <item>m_videolife_07</item>
+        <item>m_videolife_08</item>
+        <item>m_videolife_09</item>
+        <item>m_videolife_10</item>
+        <item>m_videolife_11</item>
+        <item>m_videolife_12</item>
+        <item>m_videolife_13</item>
+        <item>m_videolife_14</item>
+    </string-array>
+</resources>

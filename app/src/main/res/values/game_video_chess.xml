@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_video_chess">VIDEO CHESS</string>
+    <string-array name="manual_video_chess">
+        <item>m_videochess_01</item>
+        <item>m_videochess_02</item>
+        <item>m_videochess_03</item>
+        <item>m_videochess_04</item>
+        <item>m_videochess_05</item>
+        <item>m_videochess_06</item>
+        <item>m_videochess_07</item>
+        <item>m_videochess_08</item>
+    </string-array>
+</resources>

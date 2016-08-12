@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_tunnel_runner">TUNNEL RUNNER</string>
+    <string-array name="manual_tunnel_runner">
+        <item>m_tunnelrunner_01</item>
+        <item>m_tunnelrunner_02</item>
+        <item>m_tunnelrunner_03</item>
+        <item>m_tunnelrunner_04</item>
+        <item>m_tunnelrunner_05</item>
+        <item>m_tunnelrunner_06</item>
+        <item>m_tunnelrunner_07</item>
+        <item>m_tunnelrunner_08</item>
+        <item>m_tunnelrunner_09</item>
+        <item>m_tunnelrunner_10</item>
+        <item>m_tunnelrunner_11</item>
+        <item>m_tunnelrunner_12</item>
+        <item>m_tunnelrunner_13</item>
+        <item>m_tunnelrunner_14</item>
+        <item>m_tunnelrunner_15</item>
+        <item>m_tunnelrunner_16</item>
+        <item>m_tunnelrunner_17</item>
+        <item>m_tunnelrunner_18</item>
+        <item>m_tunnelrunner_19</item>
+        <item>m_tunnelrunner_20</item>
+        <item>m_tunnelrunner_21</item>
+    </string-array>
+</resources>

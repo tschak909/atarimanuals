@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_tac_scan">TAC-SCAN</string>
+    <string-array name="manual_tac_scan">
+        <item>m_tacscan_01</item>
+        <item>m_tacscan_02</item>
+        <item>m_tacscan_03</item>
+        <item>m_tacscan_04</item>
+        <item>m_tacscan_05</item>
+        <item>m_tacscan_06</item>
+        <item>m_tacscan_07</item>
+    </string-array>
+</resources>

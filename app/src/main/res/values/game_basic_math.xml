@@ -3,12 +3,12 @@
     <string name="title_basic_math">BASIC MATH</string>
     <string-array name="manual_basic_math">
         <item>m_basicmath_01</item>
-        <item>m_basicmath_02</item>
         <item>m_basicmath_03</item>
         <item>m_basicmath_04</item>
         <item>m_basicmath_05</item>
         <item>m_basicmath_06</item>
         <item>m_basicmath_07</item>
         <item>m_basicmath_08</item>
+        <item>m_basicmath_09</item>
     </string-array>
 </resources>

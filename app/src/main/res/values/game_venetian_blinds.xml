@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_venetian_blinds">VENETIAN BLINDS</string>
+    <string-array name="manual_venetian_blinds">
+        <item>m_venetianblinds_01</item>
+        <item>m_venetianblinds_02</item>
+        <item>m_venetianblinds_03</item>
+        <item>m_venetianblinds_04</item>
+    </string-array>
+</resources>

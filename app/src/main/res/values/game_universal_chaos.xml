@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_universal_chaos">UNIVERSAL CHAOS</string>
+    <string-array name="manual_universal_chaos">
+        <item>m_universalchaos_1</item>
+    </string-array>
+</resources>

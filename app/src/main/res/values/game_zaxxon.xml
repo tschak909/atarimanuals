@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_zaxxon">ZAXXON</string>
+    <string-array name="manual_zaxxon">
+        <item>m_zaxxon_01</item>
+        <item>m_zaxxon_02</item>
+        <item>m_zaxxon_03</item>
+        <item>m_zaxxon_04</item>
+        <item>m_zaxxon_05</item>
+        <item>m_zaxxon_06</item>
+        <item>m_zaxxon_07</item>
+        <item>m_zaxxon_08</item>
+        <item>m_zaxxon_09</item>
+        <item>m_zaxxon_10</item>
+        <item>m_zaxxon_11</item>
+        <item>m_zaxxon_12</item>
+        <item>m_zaxxon_13</item>
+        <item>m_zaxxon_14</item>
+    </string-array>
+</resources>

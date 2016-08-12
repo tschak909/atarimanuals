@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_tomarc_the_barbarian">TOMARC THE BARBARIAN</string>
+    <string-array name="manual_tomarc_the_barbarian">
+        <item>m_tomarcthebarbarian_01</item>
+        <item>m_tomarcthebarbarian_02</item>
+        <item>m_tomarcthebarbarian_03</item>
+        <item>m_tomarcthebarbarian_04</item>
+        <item>m_tomarcthebarbarian_05</item>
+        <item>m_tomarcthebarbarian_06</item>
+        <item>m_tomarcthebarbarian_07</item>
+        <item>m_tomarcthebarbarian_08</item>
+    </string-array>
+</resources>

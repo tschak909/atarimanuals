@@ -3,6 +3,8 @@ package com.atariage.atarimanuals;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.SharedPreferences;
+import android.support.v4.content.SharedPreferencesCompat;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBar;
@@ -161,12 +163,35 @@ public class FullscreenActivity extends AppCompatActivity {
             }
         });
 
-
-
-        // FIXME: temporary
+        // Get last manual read, if available.
+        final SharedPreferences pref = getPreferences(Context.MODE_PRIVATE);
         final String firstItem = (String) "manual_".concat((String)drawerListView.getItemAtPosition(1));
-        pageAdapter = new FullScreenImageAdapter(this, getResources().getStringArray(getResources().getIdentifier(firstItem,"array","com.atariage.atarimanuals")));
+        String manual_to_open = pref.getString(getString(R.string.pref_last_read_manual),firstItem);
+
+        pageAdapter = new FullScreenImageAdapter(this, getResources().getStringArray(getResources().getIdentifier(manual_to_open,"array","com.atariage.atarimanuals")));
         viewPager.setAdapter(pageAdapter);
+
+        // Get last manual page read
+        int last_manual_page_read = pref.getInt(getString(R.string.pref_last_read_manual_page),0);
+        viewPager.setCurrentItem(last_manual_page_read);
+
+        viewPager.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+            @Override
+            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
+            }
+
+            @Override
+            public void onPageSelected(int position) {
+                SharedPreferences.Editor editor = pref.edit();
+                editor.putInt(getString(R.string.pref_last_read_manual_page),position);
+                editor.commit();
+            }
+
+            @Override
+            public void onPageScrollStateChanged(int state) {
+
+            }
+        });
 
         drawerListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
@@ -174,6 +199,13 @@ public class FullscreenActivity extends AppCompatActivity {
                 String currentItem = (String) "manual_".concat((String)drawerListView.getItemAtPosition(i));
                 pageAdapter = new FullScreenImageAdapter(FullscreenActivity.this, getResources().getStringArray(getResources().getIdentifier(currentItem,"array","com.atariage.atarimanuals")));
                 viewPager.setAdapter(pageAdapter);
+                viewPager.setCurrentItem(0);
+
+                // Store to preferences.
+                SharedPreferences.Editor editor = pref.edit();
+                editor.putString(getString(R.string.pref_last_read_manual), currentItem);
+                editor.putInt(getString(R.string.pref_last_read_manual_page),0);
+                editor.commit();
 
                 // Close drawer when selecting an item
                 DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_worm_war_i">WORM WAR I</string>
+    <string-array name="manual_worm_war_i">
+        <item>m_wormwar1_01</item>
+        <item>m_wormwar1_02</item>
+        <item>m_wormwar1_03</item>
+        <item>m_wormwar1_04</item>
+        <item>m_wormwar1_05</item>
+        <item>m_wormwar1_06</item>
+    </string-array>
+</resources>

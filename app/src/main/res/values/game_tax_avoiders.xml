@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_tax_avoiders">TAX AVOIDERS</string>
+    <string-array name="manual_tax_avoiders">
+        <item>m_taxavoiders_01</item>
+        <item>m_taxavoiders_02</item>
+        <item>m_taxavoiders_03</item>
+        <item>m_taxavoiders_04</item>
+    </string-array>
+</resources>

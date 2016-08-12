@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_tanks_but_no_tanks">TANKS, BUT NO TANKS</string>
+    <string-array name="manual_tanks_but_no_tanks">
+        <item>m_tanksbutnotanks_01</item>
+        <item>m_tanksbutnotanks_02</item>
+        <item>m_tanksbutnotanks_03</item>
+        <item>m_tanksbutnotanks_04</item>
+        <item>m_tanksbutnotanks_05</item>
+        <item>m_tanksbutnotanks_06</item>
+        <item>m_tanksbutnotanks_07</item>
+        <item>m_tanksbutnotanks_08</item>
+    </string-array>
+</resources>
