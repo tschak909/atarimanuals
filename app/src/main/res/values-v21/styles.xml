@@ -4,12 +4,20 @@
         <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
                 <!-- Customize your theme here. -->
                 <item name="colorPrimary">@color/colorPrimary</item>
-                <item name="colorPrimaryDark">@color/white</item>
+                <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
                 <item name="colorAccent">@color/colorAccent</item>
                 <item name="windowActionBar">false</item>
                 <item name="windowNoTitle">true</item>
-                <item name="android:statusBarColor">@color/colorAccent</item>
-                <item name="android:colorForeground">@color/foreground_material_dark</item>
-                <item name="android:colorBackground">@color/white</item>
+                <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+                <item name="android:colorForeground">#000</item>
+                <item name="android:colorBackground">@color/colorPrimaryDark</item>
+                <item name="android:navigationBarColor">@color/colorPrimary</item>
+                <item name="android:actionOverflowMenuStyle">@style/ofMenuFix</item>
+            <item name="android:windowBackground">@android:color/white</item>
         </style>
+
+        <style name="ofMenuFix">
+                <item name="android:popupBackground">@color/colorPrimaryDark</item>
+        </style>
+
 </resources>

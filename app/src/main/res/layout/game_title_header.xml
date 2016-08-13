@@ -2,11 +2,27 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <!-- <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="160dp"
-        android:scaleType="fitXY"
-        android:src="@drawable/header_image" /> -->
+    <FrameLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/header_image_2"
+            android:scaleType="fitEnd"
+            android:padding="32dp"
+            android:background="@color/colorPrimary" />
+
+        <com.atariage.atarimanuals.GameItemTextView
+            android:text="atari 2600 manuals"
+            android:layout_height="match_parent"
+            android:layout_width="160sp"
+            android:textSize="36sp"
+            android:textColor="@color/white"
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="20sp" />
+    </FrameLayout>
     <com.atariage.atarimanuals.GameEditText
         android:id="@+id/inputSearch"
         android:layout_width="match_parent"
@@ -16,8 +32,8 @@
         android:padding="10dp"
         android:layout_marginTop="25dp"
         android:inputType="textFilter"
-        android:textColor="@color/white"
-        android:textColorHint="#888"
+        android:textColor="@color/colorAccent"
+        android:textColorHint="@color/colorAccent"
         android:drawableLeft="@android:drawable/ic_menu_search"
         android:textSize="22sp">
     </com.atariage.atarimanuals.GameEditText>

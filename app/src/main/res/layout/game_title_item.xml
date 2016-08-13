@@ -2,13 +2,24 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+        <ImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/ic_cartridge" />
     <com.atariage.atarimanuals.GameItemTextView
-        android:id="@+id/game_list_item_text_view"
-        android:layout_marginLeft="16dp"
-        android:layout_width="match_parent"
-        android:layout_height="@dimen/list_item_height"
-        android:ellipsize="middle"
-        android:singleLine="true"
-        android:textSize="24sp"
-        android:textColor="#fff"/>
+            android:id="@+id/game_list_item_text_view"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/list_item_height"
+            android:ellipsize="middle"
+           android:singleLine="true"
+            android:textSize="24sp"
+            android:textColor="@color/secondaryText"/>
+    </LinearLayout>
 </LinearLayout>

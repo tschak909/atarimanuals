@@ -88,16 +88,20 @@ public class GameListViewAdapter extends BaseAdapter implements Filterable {
             {
                 String constraint0 = constraint.toString();
                 constraint0 = constraint0.toLowerCase();
+                constraint0 = constraint0.trim();
                 ArrayList<String> tempResults = new ArrayList<String>(Arrays.asList(_full_title_graphic_paths));
                 ArrayList<String> returnedResults = new ArrayList<String>();
 
                 for (String s:tempResults)
                 {
-                    if (s.contains(constraint0))
+                    String s1 = s.replace("_"," ");
+                    if (s1.contains(constraint0))
                     {
                         returnedResults.add(s);
                     }
                 }
+
+
 
                 return returnedResults.toArray(new String[0]);
 

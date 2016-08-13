@@ -10,4 +10,28 @@
     <string name="go_to_page">Go To Page</string>
     <string name="pref_last_read_manual">LAST_READ_MANUAL</string>
     <string name="pref_last_read_manual_page">PREF_LAST_READ</string>
+    <string name="title_activity_about">About AtariManuals</string>
+    <string name="large_text">
+        <![CDATA[
+            <h1>A Collection of Game Manuals for Atari VCS Games</h1>
+            <p>Presented here, in one convenient Android application, is a collection of the users manuals for most Atari VCS (2600) games.</p>
+            <h2>Features</h2>
+                <p><b>Navigation Drawer</b>--Scroll through all or some of the manuals provided by the application by either swiping from the left, or pressing the navigation icon in the toolbar.</b></p>
+                <p><b>Manual Title Search</b>--Quickly find the game manual that you need by keying in the titles you wish to find.</p>
+                <p><b>Pinchable and Zoomable Views</b>--You can zoom and pan over each page in a manual with familiar geatures, making manual viewing effective even on devices with small screens.</p>
+                <p><b>Go To Page</b>--Quickly move to specific pages, especially useful in large manuals such as the Magicard manual.</p>
+            <h2>Author</h2>
+            <p>Thomas Cherryhomes (<a href="mailto:thom.cherryhomes@gmail.com">thom.cherryhomes@gmail.com</a>) wrote the Android Applicaction code.</p>
+            <h2>Manual Sources</h2>
+            <p>This offline library has been compiled from many Internet sources for Atari VCS (2600) game documentation, including:</p>
+                <p><a href="http://atariage.com/software_search.php?SystemID=2600">AtariAge.com - Atari 2600 Database</a></p>
+                <p><a href="http://www.digitpress.com/library/manuals/atari2600/">Scott Stilphen\'s 2600 manual library at digitpress.com</a></p>
+                <p><a href="http://www.gamesdbase.com/">GamesDbase.com</a></p>
+                <p><a href="http://www.archive.org/">Archive.org</p>
+                <p><a href="http://www.atarimania.com/pgemainsoft.awp?type=G&system=2">AtariMania.com\'s 2600 Collection</a></p>
+                <p><a href="http://replacementdocs.com/download.php?list.6">ReplacementDocs.com Atari 2600 collection</a></p>
+            <p>Thanks to the work of many individuals over the last two decades, this app was made manifest from their diligence and willingness to archive as many Atari VCS artifacts as possible.</p>
+        ]]>
+    </string>
+    <string name="action_settings">Settings</string>
 </resources>

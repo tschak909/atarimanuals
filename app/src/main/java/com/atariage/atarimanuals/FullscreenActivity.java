@@ -3,6 +3,7 @@ package com.atariage.atarimanuals;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.support.v4.content.SharedPreferencesCompat;
 import android.support.v4.view.GravityCompat;
@@ -294,6 +295,16 @@ public class FullscreenActivity extends AppCompatActivity {
     public void ShowToolbar(View v)
     {
         toggle();
+
+        // also close the keyboard (if used) when searching for an item.
+        InputMethodManager inputManager =
+                (InputMethodManager) v.getContext().
+                        getSystemService(Context.INPUT_METHOD_SERVICE);
+        inputManager.hideSoftInputFromWindow(
+                v.getWindowToken(),
+                InputMethodManager.HIDE_NOT_ALWAYS);
+
+
     }
 
     @Override
@@ -309,11 +320,19 @@ public class FullscreenActivity extends AppCompatActivity {
             case R.id.action_go_to_page:
                 gotoPage();
                 break;
+            case R.id.action_about:
+                gotoAbout();
+                break;
             default:
                 break;
         }
 
         return true;
+    }
+
+    private void gotoAbout() {
+        Intent intent = new Intent(this, AboutActivity.class);
+        startActivity(intent);
     }
 
     private void gotoPage() {
